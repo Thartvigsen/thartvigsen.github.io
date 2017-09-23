@@ -22,7 +22,7 @@ Test
 
 #### Leading Research Experience for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 
-Test
+The basic framework I wrote for doing these experiments is available ![here](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework).
 
 #### Clostridium Difficile Risk Estimation (CREST)
 Clinical data offers many opportunities for impactful and technically fascinating research. Beginning in August, 2016, I worked with Cansu Sen using the *MIMIC III Intensive Care Unit Database*. **This database is publicly available**, consists of 12 years of clinical data from ~58,000 admissions, and can be found [here](https://mimic.physionet.org/). We focused on the detection of one infection, *Clostridium Difficile*, and therefore extracted patients who got this infection during their stay. As is required for supervised-learning algorithms, we also extracted a set of patients who did not get this infection and trained Logistic Regression, Random Forest, and Support Vector Machine models to detect patterns that indicate *C. Diff.* based on the following data sources:
