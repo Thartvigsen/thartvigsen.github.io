@@ -2,6 +2,8 @@
 
 I am a second-year Data Science Ph.D student at Worcester Polytechnic Institute. I learned to love Machine Learning and Data Mining during my undergrad at SUNY Geneseo, where I worked on various research projects revolving around graph theory and natural language processing. Now, I get to fully invest myself in fascinating Machine Learning problems every day, eventually aiming for a faculty position. 
 
+Here at WPI, I have invested myself in both the Data Science community, serving on the Data Science Council and organizing talks and colloquiums, and the Graduate Student community, serving as the Data Science representative on the Graduate Student Government Student Council.
+
 <img style="float: right;" src="/profile.png">
 # Links
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
@@ -20,13 +22,18 @@ I am a second-year Data Science Ph.D student at Worcester Polytechnic Institute.
 ## Worcester Polytechnic Institute
 ### 2016-2017
 
-### Leading Research Experience for Undergraduates - Early Prediction of MRSA Infections Using EHRs
+### Leading Research Experiences for Undergraduates - Early Prediction of MRSA Infections Using EHRs
 
-Test
+- Over the course of 10 weeks during summer 2017, Sarah Brownell, an REU Intern, and I generated Early Warnings for MRSA using historical clinical data.
+- We collected time series variables from the MIMIC III database, and aligned them in a tabular format.
+- Varying the number of days used to predict MRSA along with the number of days in advance of MRSA to generate prediction allowed us to understand what portions of a patient's stay should be used to make predictions.
+- We uncovered that our selected models could detect signs of MRSA infections accurately far in advance of actual diagnosis dates.
+- This work was submitted to HealthInf 2018 on September 5, 2017 and we will hear back about the reviewers' decision in October.
+- Sarah will be presenting the poster version of this work at the 2017 IEEE MIT Undergraduate Research Technology Conference.
 
-### Leading Research Experience for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
+### Leading Research Experiences for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 
-Building on top of the CREST paper, we decided to move towards a deep learning approach to infection prediction. To prototype these models quickly, I developed a Python Framework, available [here](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework), for Recurrent Neural Networks using [Keras](https://keras.io/). I have since moved away from this framework to [TensorFlow](https://www.tensorflow.org/), which allows for more flexibility, but Keras was a good starting place for quick implementation. We used the same patients as in CREST and trained Long Short-Term Memory Recurrent Neural Networks to identify *C. Diff.* infections, approaching the results obtained by CREST.
+Building on top of the CREST paper, Sean Tocci, an REU Intern, and I decided to move towards a deep learning approach to infection prediction. To prototype these models quickly, we developed a Python Framework, available [here](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework), for Recurrent Neural Networks using [Keras](https://keras.io/). I have since moved away from this framework to [TensorFlow](https://www.tensorflow.org/), which allows for more flexibility, but Keras was a good starting place for quick implementation. We used the same patients as in CREST and trained Long Short-Term Memory Recurrent Neural Networks to identify *C. Diff.* infections, approaching the results obtained by CREST.
 
 ### Clostridium Difficile Risk Estimation (CREST)
 Clinical data offers many opportunities for impactful and technically fascinating research. Beginning in August, 2016, I worked with Cansu Sen using the *MIMIC III Intensive Care Unit Database*. **This database is publicly available**, consists of 12 years of clinical data from ~58,000 admissions, and can be found [here](https://mimic.physionet.org/). We focused on the detection of one infection, *Clostridium Difficile*, and therefore extracted patients who got this infection during their stay. As is required for supervised-learning algorithms, we also extracted a set of patients who did not get this infection and trained Logistic Regression, Random Forest, and Support Vector Machine models to detect patterns that indicate *C. Diff.* based on the following data sources:
