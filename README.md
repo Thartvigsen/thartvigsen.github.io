@@ -4,6 +4,10 @@ I am a Data Science Ph.D student at Worcester Polytechnic Institute. My interest
 
 ## Research Interests
 
+- Machine Learning
+- Deep Recurrent Models
+- Sequential Data
+
 ## Current Research
 
 ## Past Projects
