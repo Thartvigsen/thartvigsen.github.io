@@ -2,7 +2,7 @@
 
 I am a second-year Data Science Ph.D student at Worcester Polytechnic Institute. I learned to love Machine Learning and Data Mining during my undergrad at SUNY Geneseo, where I worked on various research projects revolving around graph theory and natural language processing. Now, I get to fully invest myself in fascinating Machine Learning problems, eventually aiming for a faculty position. 
 
-![profile](/profile.png)
+<img style="float: right;" src="/profile.png">
 
 # Research Interests
 
