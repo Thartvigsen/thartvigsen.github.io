@@ -45,8 +45,8 @@ I use Python for all of my programming due the overall speed of implementation. 
 
 # Education
 
-Ph.D. Data Science, 2021, Worcester Polytechnic Institute
-B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
+- Ph.D. Data Science, 2021, Worcester Polytechnic Institute
+- B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
 
 # Publications
 
