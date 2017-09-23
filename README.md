@@ -29,4 +29,4 @@ B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
 ### Extra
 Outside of my research I spend time on my road bike (Giant TCR Advanced) and reading fantasy books.
 
-![Image of My Bike](https://github.com/Thartvigsen/thartvigsen.github.io/blob/master/bike.jpg)
+![Image of My Bike](/bike.jpg)
