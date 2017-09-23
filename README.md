@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/Thartvigsen/thartvigsen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Data Science Ph.D student at Worcester Polytechnic Institute. My interests lie in Machine Learning and Deep Learning, specifically for sequential data. I currently work on clinical time series with the aim of detecting infections as early as possible. This is the beginning of my 2nd year at WPI and I plan to complete my Ph.D. in the Spring of 2021. This page will host my current CV and Resume, along with previous and current projects.
 
 ### Markdown
 
