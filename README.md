@@ -1,6 +1,6 @@
 ## Introduction
 
-I am a Second-Year Data Science Ph.D student at Worcester Polytechnic Institute. I learned to love Machine Learning and Data Mining during my undergrad at SUNY Geneseo, where I worked on various research projects revolving around graph theory and natural language processing. Now, I am working full-time on fascinating Machine Learning problems, eventually aiming for a faculty position.
+I am a Second-Year Data Science Ph.D student at Worcester Polytechnic Institute. I learned to love Machine Learning and Data Mining during my undergrad at SUNY Geneseo, where I worked on various research projects revolving around graph theory and natural language processing. Now, I get to fully invest myself in fascinating Machine Learning problems, eventually aiming for a faculty position.
 
 ## Research Interests
 
@@ -14,4 +14,10 @@ I am a Second-Year Data Science Ph.D student at Worcester Polytechnic Institute.
 
 ## Education
 
+B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
+
 ## Publications
+
+- Sen, C., Hartvigsen, T., Claypool, K., Rundensteiner, E. (2017, September). CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. ECML/PKDD 2017.
+- Hartvigsen, T., Sen, C., Brownell, S., Teeple, E., Rundensteiner, E. Early Prediction of MRSA Infections using Electronic Health Records. In submission to HealthInf 2018.
+- Hartvigsen, T., Sen, C., Teeple, E., Rundensteiner, E. Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data. Preparing for submission the the New England Journal of Medicine in October 2017.
