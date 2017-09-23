@@ -16,15 +16,15 @@ I am a second-year Data Science Ph.D student at Worcester Polytechnic Institute.
 ## Worcester Polytechnic Institute
 ### 2016-2017
 
-#### Leading Research Experience for Undergraduates - Early Prediction of MRSA Infections Using EHRs
+### Leading Research Experience for Undergraduates - Early Prediction of MRSA Infections Using EHRs
 
 Test
 
-#### Leading Research Experience for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
+### Leading Research Experience for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 
 Building on top of the CREST paper, we decided to move towards a deep learning approach to infection prediction. To prototype these models quickly, I developed a Python framework for Recurrent Neural Networks using [Keras](https://keras.io/), all of which is available in [here](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework). I have since moved away from this framework to [TensorFlow](https://www.tensorflow.org/), which allows for more flexibility, but Keras was a good starting place for quick implementation. We used the same patients as in CREST and trained Long Short-Term Memory Recurrent Neural Networks to identify *C. Diff.* infections, approaching the results obtained by CREST.
 
-#### Clostridium Difficile Risk Estimation (CREST)
+### Clostridium Difficile Risk Estimation (CREST)
 Clinical data offers many opportunities for impactful and technically fascinating research. Beginning in August, 2016, I worked with Cansu Sen using the *MIMIC III Intensive Care Unit Database*. **This database is publicly available**, consists of 12 years of clinical data from ~58,000 admissions, and can be found [here](https://mimic.physionet.org/). We focused on the detection of one infection, *Clostridium Difficile*, and therefore extracted patients who got this infection during their stay. As is required for supervised-learning algorithms, we also extracted a set of patients who did not get this infection and trained Logistic Regression, Random Forest, and Support Vector Machine models to detect patterns that indicate *C. Diff.* based on the following data sources:
 
 - On-admission demographic information
