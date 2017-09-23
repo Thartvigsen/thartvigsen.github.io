@@ -1,6 +1,6 @@
 ## Introduction
 
-I am a Data Science Ph.D student at Worcester Polytechnic Institute. My interests lie in Machine Learning and Deep Learning, specifically for sequential data. I currently work on clinical time series with the aim of detecting infections as early as possible. This is the beginning of my 2nd year at WPI and I plan to complete my Ph.D. in the Spring of 2021. This page will host my current CV and Resume, along with previous and current projects.
+I am a Second-Year Data Science Ph.D student at Worcester Polytechnic Institute. I learned to love Machine Learning and Data Mining during my undergrad at SUNY Geneseo, where I worked on various research projects revolving around graph theory and natural language processing. Now, I am working full-time on fascinating Machine Learning problems, eventually aiming for a faculty position.
 
 ## Research Interests
 
@@ -11,5 +11,7 @@ I am a Data Science Ph.D student at Worcester Polytechnic Institute. My interest
 ## Current Research
 
 ## Past Projects
+
+## Education
 
 ## Publications
