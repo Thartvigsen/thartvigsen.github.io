@@ -4,8 +4,9 @@ I am a second-year Data Science Ph.D student at Worcester Polytechnic Institute.
 
 <img style="float: right;" src="/profile.png">
 # Links
-- [Linkedin](http://linkedin.com/in/thartvigsen)
+- [LinkedIn](http://linkedin.com/in/thartvigsen)
 - [GitHub](https://github.com/Thartvigsen)
+- [Resume](/resume.pdf)
 
 # Research Interests
 
