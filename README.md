@@ -10,7 +10,17 @@ I am a second-year Data Science Ph.D student at Worcester Polytechnic Institute.
 
 ### Current Research
 
-### Past Projects
+### Past Research
+# 2016
+- Clinical data offers many opportunities for impactful and technically fascinating research. Beginning in August, 2016, I worked with Cansu Sen using the *MIMIC III Intensive Care Unit Database*. This database is publically available, consists of 12 years of clinical data from ~58,000 admissions, and can be found [here](https://mimic.physionet.org/). We focused on the detection of one infection, *Clostridium Difficile*, and therefore extracted patients who got this infection during their stay. As is required for supervised-learning algorithms, we also extracted a set of patients who did not get this infection and trained Logistic Regression, Random Forest, and Support Vector Machine models to detect patterns that indicate *C. Diff.* based on the following data sources:
+
+- On-admission demographic information
+- Clinical notes written upon admissions
+- 80-dimensional time series of clinical measurements
+- Hand-crafted features summarizing the time series to capture their temporal nature
+
+We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. Our 
+This work was published in the Applied Data Science Track of the European Conference of Machine Learning (ECML), presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf). 
 
 ### Technology
 
