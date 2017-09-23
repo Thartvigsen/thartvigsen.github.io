@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: Tom Hartvigsen
 baseurl: /thartvigsen.github.io/
 avatar: https://avatars3.githubusercontent.com/u/26936677?v=4&s=400&u=39b9b75c3c728ad053cccf0ce349091abb5e9b6a
+
+footer-links:
+  email: twhartvigsen@wpi.edu
+  github: thartvigsen
+  linkedin: https://www.linkedin.com/in/thartvigsen/
+  rss: RSS # just type anything here for a working RSS icon
