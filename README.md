@@ -20,7 +20,7 @@ Here at WPI, I have invested myself in both the Data Science community, serving 
 
 # Current Research
 
-I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but should be a trade-off between accuracy and timeliness. For instance, detecting an infectionperfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am currently targeting publication at SIGKDD 2018 with a submission deadline in February. 
+I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but should be a trade-off between accuracy and timeliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am currently targeting publication at SIGKDD 2018 with a submission deadline in February. 
 
 # Past Research
 ## Worcester Polytechnic Institute
