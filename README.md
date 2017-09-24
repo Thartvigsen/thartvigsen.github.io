@@ -9,7 +9,7 @@ Here at WPI, I have invested myself in both the Data Science community, serving 
 # Links
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
 - [GitHub](https://github.com/Thartvigsen)
-- [Resum&eacute](/resume.pdf)
+- [Resume](/resume.pdf)
 
 # Research Interests
 
