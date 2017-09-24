@@ -4,6 +4,7 @@ I am a Data Science Ph.D student at Worcester Polytechnic Institute focused on M
 
 Here at WPI, I have invested myself in both the Data Science community, serving on the Data Science Council and organizing talks and colloquiums, and the Graduate Student community, serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
 
+
 <img style="float: right;" src="/profile.png">
 # Links
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
@@ -35,7 +36,11 @@ I am currently interested in learning patterns in time series as early as possib
 
 ### Leading Research Experiences for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 
-Building on top of the CREST paper, Sean Tocci, an REU Intern, and I decided to move towards a deep learning approach to infection prediction. To prototype these models quickly, we developed a Python Framework, available [here](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework), for Recurrent Neural Networks using [Keras](https://keras.io/). I have since moved away from this framework to [TensorFlow](https://www.tensorflow.org/), which allows for more flexibility, but Keras was a good starting place for quick implementation. We used the same patients as in CREST and trained Long Short-Term Memory Recurrent Neural Networks to identify *C. Diff.* infections, approaching the results obtained by CREST.
+- Built on top of the CREST framework, Sean Tocci, an REU Intern, and I tried out a deep learning approach of infection prediction.
+- We developed a [Python framework](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework) for Recurrent Neural Networks using [Keras](https://keras.io/).
+- Using the same patients as in CREST, we trained Long Short-Term Memory Recurrent Neural Networks to identify *Clostridium Difficile* infections, approaching similar results as in CREST.
+
+I have since moved away from my Keras framework to [TensorFlow](https://www.tensorflow.org/), which allows for more flexibility. However, Keras was a good starting place for quick implementation. 
 
 ### Clostridium Difficile Risk Estimation (CREST)
 Clinical data offers many opportunities for impactful and technically fascinating research. Beginning in August, 2016, I worked with Cansu Sen using the [*MIMIC III Intensive Care Unit Database*](https://mimic.physionet.org/). **This database is publicly available**, consists of 12 years of clinical data from ~58,000 admissions. You can request access to the database [here](https://mimic.physionet.org/gettingstarted/access/). We focused on the detection of one infection, *Clostridium Difficile*, and therefore extracted patients who got this infection during their stay. As is required for supervised-learning algorithms, we also extracted a set of patients who did not get this infection and trained Logistic Regression, Random Forest, and Support Vector Machine models to detect patterns that indicate *C. Diff.* based on the following data sources:
