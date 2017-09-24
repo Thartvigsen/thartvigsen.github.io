@@ -28,7 +28,7 @@ I am currently interested in learning patterns in time series as early as possib
 
 ### Leading Research Experiences for Undergraduates - Early Prediction of MRSA Infections Using EHRs
 
-- Over the course of 10 weeks during summer 2017, Sarah Brownell, an REU Intern, and I generated Early Warnings for MRSA using historical clinical data.
+- Over the course of 10 weeks during summer 2017, I worked with Sarah Brownell, an REU Intern, to generate Early Warnings for MRSA infections using historical clinical data.
 - We collected time series variables from the MIMIC III database, and aligned them in a tabular format.
 - Varying the number of days used to predict MRSA along with the number of days in advance of MRSA to generate prediction allowed us to understand what portions of a patient's stay should be used to make predictions.
 - We uncovered that our selected models could detect signs of MRSA infections accurately far in advance of actual diagnosis dates.
@@ -37,7 +37,7 @@ I am currently interested in learning patterns in time series as early as possib
 
 ### Leading Research Experiences for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 
-- Built on top of the CREST framework, Sean Tocci, an REU Intern, and I tried out a deep learning approach of infection prediction.
+- Built on top of the CREST framework, I worked with Sean Tocci, another REU Intern, to figure out a deep learning approach to infection prediction.
 - We developed a [Python framework](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework) for Recurrent Neural Networks using [Keras](https://keras.io/)\*.
 - Using the same patients as in CREST, we trained Long Short-Term Memory Recurrent Neural Networks to identify *Clostridium Difficile* infections, approaching similar results as in CREST.
 
