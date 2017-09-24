@@ -59,6 +59,13 @@ This work was published in the Applied Data Science Track of the **European Conf
 
 ## SUNY Geneseo
 
+# Conferences 
+
+Since beginning my studies at WPI, I have attended the following conferences:
+
+- [Machine Learning for Health Care 2017](http://mucmd.org/), Northeastern University
+- [North East Database Day 2017](http://mitdbg.github.io/nedbday/2017/), Massachusetts Institute of Technology
+
 # Technology
 
 I use **Python** for all of my programming due the overall speed of implementation. Testing ideas using Python is extremely rapid compared to lower-level languages and rapidly learning whether or not an idea may be fruitful is a great benefit. For Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use [**TensorFlow**](https://www.tensorflow.org/). I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use only Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts.
