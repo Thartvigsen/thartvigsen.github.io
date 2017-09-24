@@ -20,7 +20,7 @@ Here at WPI, I have invested myself in both the Data Science community, serving 
 
 # Current Research
 
-I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but should be a trade-off between accuracy and timeliness. For instance, detecting an infection with 100% accuracy immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am currently targeting publication at SIGKDD 2018 with a submission deadline in February. 
+I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but should be a trade-off between accuracy and timeliness. For instance, detecting an infectionperfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am currently targeting publication at SIGKDD 2018 with a submission deadline in February. 
 
 # Past Research
 ## Worcester Polytechnic Institute
@@ -56,7 +56,7 @@ This work was published in the Applied Data Science Track of the **European Conf
 
 # Technology
 
-I use **Python** for all of my programming due the overall speed of implementation. Testing ideas using Python is extremely rapid compared to lower-level languages and rapidly learning whether or not an idea may be fruitful is a great benefit. For Machine Learning I use **NumPy** and **Scikit-Learn**, for Deep Learning I use **TensorFlow**. I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use only Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts.
+I use **Python** for all of my programming due the overall speed of implementation. Testing ideas using Python is extremely rapid compared to lower-level languages and rapidly learning whether or not an idea may be fruitful is a great benefit. For Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use **TensorFlow**. I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use only Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts.
 
 # Education
 
