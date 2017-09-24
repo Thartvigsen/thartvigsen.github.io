@@ -24,6 +24,7 @@ I am currently interested in learning patterns in time series as early as possib
 
 # Past Research
 ## Worcester Polytechnic Institute
+<img style="float: right;" src="/wpilogo.png">
 ### 2016-2017
 
 ### Leading Research Experiences for Undergraduates - Early Prediction of MRSA Infections Using EHRs
@@ -54,6 +55,8 @@ Clinical data offers many opportunities for impactful and technically fascinatin
 We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. Our 
 This work was published in the Applied Data Science Track of the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
 
+## SUNY Geneseo
+<img style="float: right;" src="/geneseologo.png">
 # Technology
 
 I use **Python** for all of my programming due the overall speed of implementation. Testing ideas using Python is extremely rapid compared to lower-level languages and rapidly learning whether or not an idea may be fruitful is a great benefit. For Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use [**TensorFlow**](https://www.tensorflow.org/). I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use only Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts.
@@ -69,7 +72,7 @@ I use **Python** for all of my programming due the overall speed of implementati
 - **Hartvigsen, T.**, Sen, C., Brownell, S., Teeple, E., Rundensteiner, E. Early Prediction of MRSA Infections using Electronic Health Records. In submission to HealthInf 2018.
 - **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data. Preparing for submission the the New England Journal of Medicine in October 2017.
 
-# Extra
+# Personal
 Outside of my research I spend time on my bike (2016 Giant TCR Advanced) and reading fantasy books.
 
 ![Image of My Bike](/bike.jpg)
