@@ -24,7 +24,7 @@ I am currently interested in learning patterns in time series as early as possib
 
 # Past Research
 ## Worcester Polytechnic Institute
-<img style="width:10px; height:7px;" src="/wpilogo.png">
+<img src="/wpilogo.png" style="width:10px; height:7px;">
 
 ### 2016-2017
 
