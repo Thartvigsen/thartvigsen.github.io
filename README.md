@@ -55,6 +55,8 @@ Clinical data offers many opportunities for impactful and technically fascinatin
 We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. Our 
 This work was published in the Applied Data Science Track of the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
 
+## University of Arizona
+
 ## SUNY Geneseo
 
 # Technology
