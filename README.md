@@ -75,6 +75,6 @@ I use **Python** for all of my programming due the overall speed of implementati
 - **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data. Preparing for submission the the New England Journal of Medicine in October 2017.
 
 # Personal
-Outside of my research I spend time on my bike (2016 Giant TCR Advanced) and reading fantasy books.
+Outside of my research I spend time on my bike (2016 Giant TCR Advanced Ultegra) and reading fantasy books (currently on a big Brandon Sanderson kick).
 
 ![Image of My Bike](/bike.jpg)
