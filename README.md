@@ -24,7 +24,7 @@ I am currently interested in learning patterns in time series as early as possib
 
 # Past Research
 ## Worcester Polytechnic Institute
-<img style="float: right;" src="/wpilogo.png" height="15" width="30>
+<img style="float: right; width:304px;height:228px;" src="/wpilogo.png">
 ### 2016-2017
 
 ### Leading Research Experiences for Undergraduates - Early Prediction of MRSA Infections Using EHRs
