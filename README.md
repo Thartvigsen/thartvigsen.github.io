@@ -56,7 +56,7 @@ We trained classifiers on each source of data, then merged their outputs to crea
 This work was published in the Applied Data Science Track of the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
 
 ## SUNY Geneseo
-<img style="float: right;" src="/geneseologo.png">
+<img style="float: right;" src="/geneseologo.jpg">
 # Technology
 
 I use **Python** for all of my programming due the overall speed of implementation. Testing ideas using Python is extremely rapid compared to lower-level languages and rapidly learning whether or not an idea may be fruitful is a great benefit. For Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use [**TensorFlow**](https://www.tensorflow.org/). I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use only Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts.
