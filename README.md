@@ -1,6 +1,6 @@
 # Introduction
 
-I am a Data Science Ph.D student at Worcester Polytechnic Institute focused on Machine Learning with sequential data. I learned to love Machine Learning and Data Mining during my undergrad at SUNY Geneseo, where I worked on various research projects revolving around graph theory and natural language processing. Now, I get to fully invest myself in fascinating Machine Learning problems every day, eventually aiming for a faculty position. 
+I am a Data Science Ph.D student at Worcester Polytechnic Institute focused on Machine Learning with sequential data. I am focused mainly on Machine Learning, which I discovered during my undergrad at SUNY Geneseo, where I worked on various research projects revolving around graph theory and natural language processing. Now, I get to fully invest myself in fascinating Machine Learning problems every day, eventually aiming for a faculty position. 
 
 Here at WPI, I have invested myself in both the Data Science community, serving on the Data Science Council and organizing talks and colloquiums, and the Graduate Student community, serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
 
