@@ -68,7 +68,7 @@ Since beginning my studies at WPI, I have attended the following conferences:
 
 # Technology
 
-I use **Python** for all of my programming due the overall speed of implementation. Testing ideas using Python is extremely rapid compared to lower-level languages and rapidly learning whether or not an idea may be fruitful is a great benefit. For Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use [**TensorFlow**](https://www.tensorflow.org/). I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use only Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts.
+I use [**Python**](https://www.python.org/) for all of my programming due the overall speed of implementation. Testing ideas using Python is extremely rapid compared to lower-level languages and rapidly learning whether or not an idea may be fruitful is a great benefit. For Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use [**TensorFlow**](https://www.tensorflow.org/). I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use only Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts.
 
 # Education
 
@@ -82,6 +82,6 @@ I use **Python** for all of my programming due the overall speed of implementati
 - **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data. Preparing for submission the the New England Journal of Medicine in October 2017.
 
 # Personal
-Outside of my research I spend time on my bike (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently on a big Brandon Sanderson kick). I am also beginning to train for my first Half Ironman.
+Outside of my research I spend time on my bike (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently on a big [Brandon Sanderson](https://brandonsanderson.com/) kick). I am also beginning to train for my first Half Ironman.
 
 ![Image of My Bike](/bike.jpg)
