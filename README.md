@@ -23,7 +23,7 @@ Here at WPI, I have invested myself in both the Data Science community, serving 
 I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but should be a trade-off between accuracy and timeliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am currently targeting publication at SIGKDD 2018 with a submission deadline in February. 
 
 # Past Research
-## Worcester Polytechnic Institute - 2016-Present
+## Worcester Polytechnic Institute: 2016 - Present
 
 ### 2016-2017
 
@@ -55,9 +55,9 @@ Clinical data offers many opportunities for impactful and technically fascinatin
 We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. Our 
 This work was published in the Applied Data Science Track of the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
 
-## University of Arizona - Summer 2015
+## University of Arizona: Summer 2015
 
-## SUNY Geneseo - 2012-2016
+## SUNY Geneseo: 2012 - 2016
 
 # Conferences 
 
