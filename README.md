@@ -1,6 +1,6 @@
 # Introduction
 
-I am a Data Science Ph.D student at Worcester Polytechnic Institute focused on Machine Learning with sequential data. I am focused mainly on Machine Learning, which I discovered during my undergrad at SUNY Geneseo, where I worked on various research projects revolving around graph theory and natural language processing. Now, I get to fully invest myself in fascinating Machine Learning problems every day, eventually aiming for a faculty position. 
+I am a Data Science Ph.D student at Worcester Polytechnic Institute focused on Machine Learning with sequential data. I am focused mainly on Machine Learning, which I discovered during my undergrad at SUNY Geneseo where I worked on various research projects revolving around graph theory and natural language processing. Now, I get to fully invest myself in fascinating Machine Learning problems every day, eventually aiming for a faculty position. 
 
 Here at WPI, I have invested myself in both the Data Science community, serving on the Data Science Council and organizing talks and colloquiums, and the Graduate Student community, serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
 
@@ -23,7 +23,7 @@ Here at WPI, I have invested myself in both the Data Science community, serving 
 I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but should be a trade-off between accuracy and timeliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am currently targeting publication at SIGKDD 2018 with a submission deadline in February. 
 
 # Past Research
-## Worcester Polytechnic Institute
+## Worcester Polytechnic Institute - 2016-Present
 
 ### 2016-2017
 
@@ -55,9 +55,9 @@ Clinical data offers many opportunities for impactful and technically fascinatin
 We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. Our 
 This work was published in the Applied Data Science Track of the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
 
-## University of Arizona
+## University of Arizona - Summer 2015
 
-## SUNY Geneseo
+## SUNY Geneseo - 2012-2016
 
 # Conferences 
 
@@ -82,6 +82,6 @@ I use [**Python**](https://www.python.org/) for all of my programming due the ov
 - **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data. Preparing for submission the the New England Journal of Medicine in October 2017.
 
 # Personal
-Outside of my research I spend time on my bike (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently on a big [Brandon Sanderson](https://brandonsanderson.com/) kick). I am also beginning to train for my first Half Ironman.
+Outside of my research I spend time on my bike (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently on a [Brandon Sanderson](https://brandonsanderson.com/) kick). I am also beginning to train for my first Half Ironman.
 
 ![Image of My Bike](/bike.jpg)
