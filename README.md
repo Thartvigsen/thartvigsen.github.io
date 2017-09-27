@@ -63,8 +63,8 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 - We worked with images of one such plant (a creosote bush) to uncover how its health changed through the seasons and across many years.
 - Using MATLAB, I trained decision trees to segment these color-images into sections consisting of *background*, *leaves*, *stems*, and *flowers*.
 - We asked two main questions:
--- How do the sections change through the seasons and over the years
--- Can we use such image-segmentation information to approximate the *normalized difference vegetation index*, an expensive but reliable method for understanding global plant health.
+-- How do the sections change through the seasons and over the years?
+-- Can we use such image-segmentation information to approximate the *normalized difference vegetation index*, an expensive but reliable method for understanding global plant health?
 - By the end of the summer we had uncovered that this method of segmenting images captured seasonal trends but did not approximate NDVI.
 - I presented this work at a poster-session at the 2015 Undergraduate Research Opportunities Consortium (UROC 2015).
 
