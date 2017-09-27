@@ -57,6 +57,17 @@ This work was published in the Applied Data Science Track of the **European Conf
 
 ## University of Arizona: Summer 2015
 
+From June-August 2015, I took part in an NSF-funded Research Experience for Undergraduates at the University of Arizona in Tucson, AZ. I was stationed at [BioSphere 2](http://biosphere2.org/) and worked with Dr. Shirley Papuga in the School of Natural Resources and the Environment.
+
+- Over a few years prior to my REU, Dr. Papuga and her students collected thousands of image sequences of plants throughout the seasons.
+- We worked with images of one such plant (a creosote bush) to uncover how its health changed through the seasons and across many years.
+- Using MATLAB, I trained decision trees to segment these color-images into sections consisting of *background*, *leaves*, *stems*, and *flowers*.
+- We asked two main questions:
+-- How do the sections change through the seasons and over the years
+-- Can we use such image-segmentation information to approximate the *normalized difference vegetation index*, an expensive but reliable method for understanding global plant health.
+- By the end of the summer we had uncovered that this method of segmenting images captured seasonal trends but did not approximate NDVI.
+- I presented this work at a poster-session at the 2015 Undergraduate Research Opportunities Consortium (UROC 2015).
+
 ## SUNY Geneseo: 2012 - 2016
 
 # Conferences 
