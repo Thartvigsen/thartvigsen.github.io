@@ -33,8 +33,8 @@ I am currently interested in learning patterns in time series as early as possib
 - We collected time series variables from the MIMIC III database, and aligned them in a tabular format.
 - Varying the number of days used to predict MRSA along with the number of days in advance of MRSA to generate prediction allowed us to understand what portions of a patient's stay should be used to make predictions.
 - We uncovered that our selected models could detect signs of MRSA infections accurately far in advance of actual diagnosis dates.
-- This work was submitted to HealthInf 2018 on September 5, 2017 and we will hear back about the reviewers' decision in October.
-- Sarah will be presenting the poster version of this work at the 2017 IEEE MIT Undergraduate Research Technology Conference.
+- This work was submitted to HealthInf 2018 on September 5, 2017 and we will hear back about the reviewers' decision late October.
+- Sarah will also be presenting the poster version of this work at the 2017 IEEE MIT Undergraduate Research Technology Conference.
 
 ### Leading Research Experiences for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 
@@ -52,8 +52,7 @@ Clinical data offers many opportunities for impactful and technically fascinatin
 - 80-dimensional time series of clinical measurements
 - Hand-crafted features summarizing the time series to capture their temporal nature
 
-We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. Our 
-This work was published in the Applied Data Science Track of the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
+We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. This work was published in the Applied Data Science Track of the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
 
 ## University of Arizona: Summer 2015
 
@@ -69,6 +68,12 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 - I presented this work at a poster-session at the 2015 Undergraduate Research Opportunities Consortium (UROC 2015).
 
 ## SUNY Geneseo: 2012 - 2016
+
+### 2013-2014: Modeling Vaccination Strategies on Graphs
+
+### 2015: Lyrical Text Mining
+
+### 2016: IMDB Movie Networks
 
 # Conferences 
 
