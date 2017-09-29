@@ -14,9 +14,9 @@ Here at WPI, I have invested myself in both the Data Science community, serving 
 # Research Interests
 
 - Machine Learning
+- Deep Reinforcement Learning
 - Deep Recurrent Models
-- Sequential Data
-
+- Early Time Series Classification
 
 # Current Research
 
