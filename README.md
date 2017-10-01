@@ -14,6 +14,7 @@ Here at WPI, I have invested myself in both the Data Science community, serving 
 # Research Interests
 
 - Machine Learning
+- Clinical Decision Making
 - Deep Reinforcement Learning
 - Deep Recurrent Models
 - Early Time Series Classification
