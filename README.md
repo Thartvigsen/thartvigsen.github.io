@@ -1,9 +1,8 @@
 # Introduction
 
-I am a Data Science Ph.D student at Worcester Polytechnic Institute focused on Machine Learning with sequential data. I am focused mainly on Machine Learning, which I discovered during my undergrad at SUNY Geneseo where I worked on various research projects revolving around graph theory and natural language processing. Now, I get to fully invest myself in fascinating Machine Learning problems every day, eventually aiming for a faculty position. 
+I am a Data Science Ph.D. student at Worcester Polytechnic Institute focused on Machine Learning with sequential data. I am interested in Machine Learning, mainly related to deep learning and reinforcement learning. Now, I get to fully invest myself in fascinating problems every day, eventually aiming for a faculty position. 
 
-Here at WPI, I have invested myself in both the Data Science community, serving on the Data Science Council and organizing talks and colloquiums, and the Graduate Student community, serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
-
+Here at WPI, I have invested myself in both the Data Science community, serving on the Data Science Council, organizing talks and colloquiums, and the Graduate Student community, serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
 
 <img style="float: right;" src="/profile.png">
 # Links
@@ -16,12 +15,12 @@ Here at WPI, I have invested myself in both the Data Science community, serving 
 - Machine Learning
 - Clinical Decision Making
 - Deep Reinforcement Learning
-- Deep Recurrent Models
+- Recurrent Neural Networks
 - Early Time Series Classification
 
 # Current Research
 
-I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but should be a trade-off between accuracy and timeliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am currently targeting publication at SIGKDD 2018 with a submission deadline in February. While my work has so far been evaluated on clinical datasets, I am far more interested in the techniques, and these problems are present in many domains. 
+I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and timeliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am currently targeting publication at SIGKDD 2018 with a submission deadline in February. While my work has so far been evaluated on clinical datasets, I am far more interested in the techniques, and these problems are present in many domains. 
 
 # Past Research
 ## Worcester Polytechnic Institute: 2016 - Present
