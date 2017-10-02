@@ -91,7 +91,7 @@ I have experience using R and MATLAB but have ultimately selected Python as my m
 
 # Education
 
-- Ph.D. Data Science, 2021, Worcester Polytechnic Institute
+- Ph.D. Data Science, 2021, Worcester Polytechnic Institute.
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
 
 # Publications
@@ -101,6 +101,6 @@ I have experience using R and MATLAB but have ultimately selected Python as my m
 - **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data. Preparing for submission the the New England Journal of Medicine in October 2017.
 
 # Personal
-Outside of my research I spend time on my bike (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently on a [Brandon Sanderson](https://brandonsanderson.com/) kick). I am also beginning to train for my first Half Ironman.
+Outside of my research I spend time on my bike (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently on a [Brandon Sanderson](https://brandonsanderson.com/) kick). I am also beginning to train for my first Half Ironman: Ironman 70.3 Syracuse.
 
 ![Image of My Bike](/bike.jpg)
