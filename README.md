@@ -4,6 +4,8 @@ I am a Data Science Ph.D. student at Worcester Polytechnic Institute focused on 
 
 Here at WPI, I have invested myself in both the Data Science community and the Graduate Student community. I am organizing talks and colloquiums for our department and am serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
 
+Please feel free to contact me with questions regarding my research or Graduate School at WPI at **twhartvigsen@wpi.edu**.
+
 <img style="float: right;" src="/profile.png">
 # Links
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
