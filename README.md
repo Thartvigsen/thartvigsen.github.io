@@ -71,7 +71,7 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 
 ### 2016: IMDB-Scraped Movie Networks
 
-### 2015: Text Mining Music Lyrics
+### 2015: Text Mining Lyrics
 
 ### 2013-2014: Modeling Vaccination Strategies on Graphs
 
