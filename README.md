@@ -1,5 +1,3 @@
-# Introduction
-
 I am a Data Science Ph.D. student at Worcester Polytechnic Institute focused on Machine Learning on Time Series and am primarily working on Deep Learning and Reinforcement Learning. I am eventually aiming for a teaching faculty position. 
 
 Here at WPI, I have invested myself in both the Data Science community and the Graduate Student community. I am organizing talks and colloquiums for our department and am serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
