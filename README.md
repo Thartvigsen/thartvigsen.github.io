@@ -8,7 +8,7 @@ Please feel free to contact me with questions regarding my research or Graduate 
 # Links
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
 - [GitHub](https://github.com/Thartvigsen)
-- [Resume](/resume.pdf)
+- [Resume](/Hartvigsen_resume.pdf)
 
 # Research Interests
 
