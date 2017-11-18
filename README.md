@@ -2,7 +2,7 @@ I am a Data Science Ph.D. student at Worcester Polytechnic Institute focused on 
 
 Here at WPI, I have invested myself in both the Data Science community and the Graduate Student community. I am organizing talks and colloquiums for our department and am serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
 
-Please feel free to contact me with questions regarding my research or Graduate School at WPI at **twhartvigsen@wpi.edu**.
+Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
 <img style="float: right;" src="/profile.png">
 # Links
@@ -31,7 +31,7 @@ I am currently interested in learning patterns in time series as early as possib
 - We collected time series variables from the MIMIC III database, and aligned them in a tabular format.
 - Varying the number of days used to predict MRSA along with the number of days in advance of MRSA to generate prediction allowed us to understand what portions of a patient's stay should be used to make predictions.
 - We uncovered that our selected models could detect signs of MRSA infections accurately far in advance of actual diagnosis dates.
-- I will be presenting this work at HealthInf in January 2017 in Funchal, Portugal.
+- I will be presenting this work at HealthInf in January 2018 in Funchal, Madeira.
 - Sarah will also be presenting the poster version of this work at the 2017 IEEE MIT Undergraduate Research Technology Conference.
 
 ### Leading Research Experiences for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
@@ -82,7 +82,7 @@ Since beginning my studies at WPI, I have attended the following conferences:
 
 # Technology
 
-I use [**Python**](https://www.python.org/) for all of my programming due the overall speed of implementation. While run-time is significantly slower than a lower-level language, testing ideas using Python is extremely rapid, which in turn can provide feedback on the potential of research ideas. For Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use [**TensorFlow**](https://www.tensorflow.org/).
+I use [**Python**](https://www.python.org/) for all of my programming due the overall speed of implementation. While run-time is significantly slower than a lower-level language, testing ideas using Python is extremely rapid, which in turn can provide feedback on the potential of research ideas. For general Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use [**TensorFlow**](https://www.tensorflow.org/). I am also always building on top of my love for [**vim**](http://www.vim.org/).
 
 I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts. Other technical skills include LaTeX and GitHub.
 
