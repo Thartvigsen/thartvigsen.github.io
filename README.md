@@ -12,8 +12,6 @@ Please feel free to contact me with questions regarding my research or Graduate 
 
 # Research Interests
 
-- Machine Learning
-- Clinical Decision Making
 - Deep Reinforcement Learning
 - Recurrent Neural Networks
 - Early Time Series Classification
