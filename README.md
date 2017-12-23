@@ -93,7 +93,7 @@ I have experience using R and MATLAB but have ultimately selected Python as my m
 
 # Publications
 
-- **Hartvigsen, T.**, Sen, C., Brownell, S., Teeple, E., Rundensteiner, E. (2018, January). **Early Prediction of MRSA Infections using Electronic Health Records**. HealthInf 2018.
+- **Hartvigsen, T.**, Sen, C., Brownell, S., Teeple, E., Rundensteiner, E. (2018, January). **Early Prediction of MRSA Infections using Electronic Health Records**. HealthInf 2018. **Nominated for Best Student Paper**.
 - Sen, C., **Hartvigsen, T.**, Claypool, K., Rundensteiner, E. (2017, September). **CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining**. ECML/PKDD 2017.
 - **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. (2017) **Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data**. Preparing for submission the the New England Journal of Medicine in November 2017.
 
