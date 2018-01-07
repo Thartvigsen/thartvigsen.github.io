@@ -12,13 +12,20 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Research Interests
 
-- Deep Reinforcement Learning
+- Sequential Decision Making
 - Recurrent Neural Networks
-- Early Time Series Classification
+- Time Series Classification
+- Healthcare data
 
 # Current Research
 
-I am currently interested in learning patterns in time series as early as possible, analogous to using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and timeliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. In this light, I am working on model-based early-classification of time series to be evaluated in multiple domains. I am particularly interested in solving this problem with Deep Reinforcement Learning, as event-sequences in hospitals are built on decision-making sequences. Currently, I am targeting publication at ICML 2018 with a submission deadline in February. While my work has so far been evaluated on clinical datasets, I am far more interested in the techniques, and these problems are present in many domains. 
+I am currently interested in learning patterns in time series as early as possible, analogous to  predictions using the shortest possible subsequences. In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and timeliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. I am currently targeting publication at KDD 2018 with a submission deadline in February. While so far my work has been evaluated solely on Electronic Health Records, I am far more interested in the techniques, and these problems are present in many domains. 
+
+# Publications
+
+- **Hartvigsen, T.**, Sen, C., Brownell, S., Teeple, E., Rundensteiner, E. (2018, January). **Early Prediction of MRSA Infections using Electronic Health Records**. HealthInf 2018. **Nominated for Best Student Paper**.
+- Sen, C., **Hartvigsen, T.**, Claypool, K., Rundensteiner, E. (2017, September). **CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining**. ECML/PKDD 2017.
+- **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. (2017) **Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data**. Preparing for submission the the New England Journal of Medicine in January 2018.
 
 # Past Research
 ## Worcester Polytechnic Institute: 2016 - Present
@@ -57,7 +64,7 @@ We trained classifiers on each source of data, then merged their outputs to crea
 From June-August 2015, I took part in an NSF-funded Research Experience for Undergraduates at the University of Arizona in Tucson, AZ. I was stationed at [BioSphere 2](http://biosphere2.org/) and worked with Dr. Shirley Papuga in the School of Natural Resources and the Environment.
 
 - Over a few years prior to my REU, Dr. Papuga and her students collected thousands of image sequences of plants throughout the seasons.
-- We worked with images of one such plant (a creosote bush) to uncover how its health changed through the seasons and across many years.
+- We worked with images of one such plant (a creosote bush) to  uncover how its health changed through the seasons and across many years.
 - Using MATLAB, I trained decision trees to segment these color-images into sections consisting of *background*, *leaves*, *stems*, and *flowers*.
 - We asked two main questions:
 -- How do the sections change through the seasons and over the years?
@@ -68,7 +75,7 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 ## SUNY Geneseo: 2012 - 2016
 
 ### 2016: IMDB-Scraped Movie Networks
-
+ 
 ### 2015: Text Mining Lyrics
 
 ### 2013-2014: Modeling Vaccination Strategies on Graphs
@@ -90,12 +97,6 @@ I have experience using R and MATLAB but have ultimately selected Python as my m
 
 - Ph.D. Data Science, 2021, Worcester Polytechnic Institute.
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
-
-# Publications
-
-- **Hartvigsen, T.**, Sen, C., Brownell, S., Teeple, E., Rundensteiner, E. (2018, January). **Early Prediction of MRSA Infections using Electronic Health Records**. HealthInf 2018. **Nominated for Best Student Paper**.
-- Sen, C., **Hartvigsen, T.**, Claypool, K., Rundensteiner, E. (2017, September). **CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining**. ECML/PKDD 2017.
-- **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. (2017) **Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data**. Preparing for submission the the New England Journal of Medicine in November 2017.
 
 # Personal
 Outside of research, I spend my time cycling (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently on a [Brandon Sanderson](https://brandonsanderson.com/) kick). I am also beginning to train for my first Half Ironman: Ironman 70.3 Syracuse.
