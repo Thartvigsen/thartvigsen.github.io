@@ -81,7 +81,7 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 # Conferences 
 
 Since beginning my studies at WPI, I have attended the following conferences:
-
+- [BIOSTEC 2018](http://www.biostec.org/), Funchal, Madeira - Portugal
 - [Machine Learning for Health Care 2017](http://mucmd.org/), Northeastern University
 - [North East Database Day 2017](http://mitdbg.github.io/nedbday/2017/), Massachusetts Institute of Technology
 
