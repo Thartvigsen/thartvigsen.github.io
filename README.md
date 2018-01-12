@@ -75,9 +75,7 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 ## SUNY Geneseo: 2012 - 2016
 
 ### 2016: IMDB-Scraped Movie Networks
- 
-### 2015: Text Mining Lyrics
-
+### 2015: Text Mining of Song Lyrics
 ### 2013-2014: Modeling Vaccination Strategies on Graphs
 
 # Conferences 
