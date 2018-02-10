@@ -1,7 +1,5 @@
 I am a Data Science Ph.D. student at Worcester Polytechnic Institute focused on Machine Learning on Time Series and am primarily working on Deep Learning and Reinforcement Learning. I am eventually aiming for a teaching faculty position. 
 
-Here at WPI, I have invested myself in both the Data Science community and the Graduate Student community. I am organizing talks and colloquiums for our department and am serving as the Data Science representative on the Graduate Student Government Student Council. I also ride with the WPI cycling team.
-
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
 <img style="float: right;" src="/profile.png">
@@ -19,20 +17,20 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Current Research
 
-I am currently interested in learning patterns in time series as early as possible, analogous to  predictions using the shortest possible time series prefixes. In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and earliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. I am currently targeting publication at KDD 2018 with a submission deadline in February. While so far my work has been evaluated on Electronic Health Records, I am far more interested in the techniques, and these problems are present in many domains. 
+I am currently interested in learning patterns in time series as early as possible, analogous to  predictions using the shortest possible time series prefixes. In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and earliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. While so far my work has been evaluated on Electronic Health Records, I am far more interested in the techniques, and these problems are present in many domains. 
 
 # Publications
 
+- Teeple, E., **Hartvigsen, T.**, Sen, C., Rundensteiner, E. (2017) **Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data**. Currently in review at the Journal of Infection Control and Hospital Epidemiology.
 - **Hartvigsen, T.**, Sen, C., Brownell, S., Teeple, E., Kong, X. and Rundensteiner, E. **Early Prediction of MRSA Infections using Electronic Health Records**. In Proceedings of the 11th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 5: HEALTHINF, pages 156-167, ISBN: 978-989-758-281-3. **Nominated for Best Student Paper**.
 - Sen, C., **Hartvigsen, T.**, Claypool, K., Rundensteiner, E. (2017, September). **CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining**. ECML/PKDD 2017.
-- **Hartvigsen, T.**, Sen, C., Teeple, E., Rundensteiner, E. (2017) **Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data**. Currently in review at the Journal of Infection Control and Hospital Epidemiology.
 
 # Past Research
 ## Worcester Polytechnic Institute: 2016 - Present
 
 ### 2016-2017
 
-### Leading Research Experiences for Undergraduates - Early Prediction of MRSA Infections Using EHRs
+### Leading a Research Experience for Undergraduates Project - Early Prediction of MRSA Infections Using EHRs
 
 - Over the course of 10 weeks during summer 2017, I worked with Sarah Brownell, an REU Intern, to generate Early Warnings for MRSA infections using historical clinical data.
 - We collected time series variables from the MIMIC III database, and aligned them in a tabular format.
@@ -41,7 +39,7 @@ I am currently interested in learning patterns in time series as early as possib
 - I will be presenting this work at HealthInf in January 2018 in Funchal, Madeira.
 - Sarah will also be presenting the poster version of this work at the 2017 IEEE MIT Undergraduate Research Technology Conference.
 
-### Leading Research Experiences for Undergraduates - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
+### Leading a Research Experience for Undergraduates Project - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 
 - Built on top of the CREST framework, I worked with Sean Tocci, another REU Intern, to figure out a deep learning approach to infection prediction.
 - We developed a [Python framework](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework) for Recurrent Neural Networks using [Keras](https://keras.io/)\*.
@@ -78,18 +76,12 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 ### 2015: Text Mining of Song Lyrics
 ### 2013-2014: Modeling Vaccination Strategies on Graphs
 
-# Conferences 
+# Conferences
 
 Since beginning my studies at WPI, I have attended the following conferences:
 - [BIOSTEC 2018](http://www.biostec.org/), Funchal, Madeira - Portugal
 - [Machine Learning for Health Care 2017](http://mucmd.org/), Northeastern University
 - [North East Database Day 2017](http://mitdbg.github.io/nedbday/2017/), Massachusetts Institute of Technology
-
-# Technology
-
-I use [**Python**](https://www.python.org/) for all of my programming due the overall speed of implementation. While run-time is significantly slower than a lower-level language, testing ideas using Python is extremely rapid, which in turn can provide feedback on the potential of research ideas. For general Machine Learning I use [**NumPy**](http://www.numpy.org/) and [**Scikit-Learn**](http://scikit-learn.org/stable/), for Deep Learning I use [**TensorFlow**](https://www.tensorflow.org/). I am also always building on top of my love for [**vim**](http://www.vim.org/).
-
-I have experience using R and MATLAB but have ultimately selected Python as my main language. Finally, I use Linux on my personal computer and for experiments on the [WPI high performance computers](http://arc.wpi.edu/resources/hardware/hpc-clusters/) and am gaining experience writing shell scripts. Other technical skills include LaTeX and GitHub.
 
 # Education
 
@@ -97,6 +89,6 @@ I have experience using R and MATLAB but have ultimately selected Python as my m
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
 
 # Personal
-Outside of research, I spend my time cycling (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently on a [Brandon Sanderson](https://brandonsanderson.com/) kick). I am also beginning to train for my first Half Ironman: Ironman 70.3 Syracuse.
+Outside of research, I spend my time cycling (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently reading [The Shadow of What Was Lost](http://www.jamesislington.com/)). I am also training for my first Half Ironman: Ironman 70.3 Syracuse.
 
 ![bike](/bike.jpg)
