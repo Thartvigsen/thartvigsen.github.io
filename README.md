@@ -1,4 +1,4 @@
-I am a Data Science Ph.D. student at Worcester Polytechnic Institute focused on Machine Learning on Time Series and am primarily working on Deep Learning and Reinforcement Learning. I am eventually aiming for a teaching faculty position. 
+I am a Data Science Ph.D. student at Worcester Polytechnic Institute primarily focused on Recurrent Neural Networks and Reinforcement Learning. I am eventually aiming for a faculty position. 
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
@@ -32,20 +32,18 @@ I am currently interested in learning patterns in time series as early as possib
 
 ### Leading a Research Experience for Undergraduates Project - Early Prediction of MRSA Infections Using EHRs
 
-- Over the course of 10 weeks during summer 2017, I worked with Sarah Brownell, an REU Intern, to generate Early Warnings for MRSA infections using historical clinical data.
-- We collected time series variables from the MIMIC III database, and aligned them in a tabular format.
+- Worked with Sarah Brownell, an REU Intern, to generate Early Warnings for MRSA infections using historical clinical data.
+- Used time series from the MIMIC III database and aligned them into a tabular format for use by common machine learning algorithms.
 - Varying the number of days used to predict MRSA along with the number of days in advance of MRSA to generate prediction allowed us to understand what portions of a patient's stay should be used to make predictions.
-- We uncovered that our selected models could detect signs of MRSA infections accurately far in advance of actual diagnosis dates.
-- I will be presenting this work at HealthInf in January 2018 in Funchal, Madeira.
-- Sarah will also be presenting the poster version of this work at the 2017 IEEE MIT Undergraduate Research Technology Conference.
+- Our models detected signs of MRSA infections accurately far in advance of actual diagnosis dates.
+- Our paper was published at BIOSTEC 2018 and I presented this work in January 2018 in Funchal, Madeira.
+- Sarah also presented the poster version of this work at the 2017 IEEE MIT Undergraduate Research Technology Conference.
 
 ### Leading a Research Experience for Undergraduates Project - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 
-- Built on top of the CREST framework, I worked with Sean Tocci, another REU Intern, to figure out a deep learning approach to infection prediction.
-- We developed a [Python framework](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework) for Recurrent Neural Networks using [Keras](https://keras.io/)\*.
-- Using the same patients as in CREST, we trained Long Short-Term Memory Recurrent Neural Networks to identify *Clostridium Difficile* infections, approaching similar results as in CREST.
-
-\*I have since moved away from my Keras framework to TensorFlow, which allows for more flexibility. However, Keras was a good starting place for quick implementation. 
+- Worked with Sean Tocci, another REU Intern, to figure out a deep learning approach to infection prediction.
+- We developed a [Python framework](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework) for Recurrent Neural Networks using [Keras](https://keras.io/).
+- Using the same patients as in CREST, we trained Long Short-Term Memory Recurrent Neural Networks to identify *Clostridium Difficile* infections, approaching similar results as in our prior work, CREST.
 
 ### Clostridium Difficile Risk Estimation (CREST)
 Clinical data offers many opportunities for impactful and technically fascinating research. Beginning in August, 2016, I worked with Cansu Sen using the [*MIMIC III Intensive Care Unit Database*](https://mimic.physionet.org/). **This database is publicly available**, consists of 12 years of clinical data from ~58,000 admissions. You can request access to the database [here](https://mimic.physionet.org/gettingstarted/access/). We focused on the detection of one infection, *Clostridium Difficile*, and therefore extracted patients who got this infection during their stay. As is required for supervised-learning algorithms, we also extracted a set of patients who did not get this infection and trained Logistic Regression, Random Forest, and Support Vector Machine models to detect patterns that indicate *C. Diff.* based on the following data sources:
@@ -55,9 +53,9 @@ Clinical data offers many opportunities for impactful and technically fascinatin
 - 80-dimensional time series of clinical measurements
 - Hand-crafted features summarizing the time series to capture their temporal nature
 
-We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. This work was published in the Applied Data Science Track of the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. The paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
+We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. This work was published at the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. Our paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
 
-## University of Arizona: Summer 2015
+## University of Arizona REU: Summer 2015
 
 From June-August 2015, I took part in an NSF-funded Research Experience for Undergraduates at the University of Arizona in Tucson, AZ. I was stationed at [BioSphere 2](http://biosphere2.org/) and worked with Dr. Shirley Papuga in the School of Natural Resources and the Environment.
 
@@ -65,8 +63,8 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 - We worked with images of one such plant (a creosote bush) to  uncover how its health changed through the seasons and across many years.
 - Using MATLAB, I trained decision trees to segment these color-images into sections consisting of *background*, *leaves*, *stems*, and *flowers*.
 - We asked two main questions:
--- How do the sections change through the seasons and over the years?
--- Can we use such image-segmentation information to approximate the *normalized difference vegetation index*, an expensive but reliable method for understanding global plant health?
+-- How does the image segmentation change through the seasons and over the years?
+-- Can we use such segmented information to approximate the *normalized difference vegetation index* (NDVI), an expensive but reliable method for understanding global plant health?
 - By the end of the summer we had uncovered that this method of segmenting images captured seasonal trends but did not approximate NDVI.
 - I presented this work at a poster-session at the 2015 Undergraduate Research Opportunities Consortium (UROC 2015).
 
