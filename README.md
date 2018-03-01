@@ -87,6 +87,6 @@ Since beginning my studies at WPI, I have attended the following conferences:
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
 
 # Personal
-Outside of research, I spend my time cycling (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books (currently reading [The Shadow of What Was Lost](http://www.jamesislington.com/)). I am also training for my first Half Ironman: Ironman 70.3 Syracuse.
+Outside of research, I spend my time cycling (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books. I am also training for my first Half Ironman: Ironman 70.3 Syracuse.
 
 ![bike](/bike.jpg)
