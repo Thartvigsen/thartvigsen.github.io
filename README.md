@@ -1,4 +1,4 @@
-I am a Data Science Ph.D. student at Worcester Polytechnic Institute primarily focused on Recurrent Neural Networks and Reinforcement Learning. I am eventually aiming for a faculty position. 
+I am a second-year Data Science Ph.D. student at Worcester Polytechnic Institute primarily focused on Recurrent Neural Networks and Reinforcement Learning. I am eventually aiming for a faculty position. 
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
@@ -13,7 +13,7 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - Reinforcement Learning
 - Recurrent Neural Networks
 - Time Series Classification
-- Healthcare data
+- Clinical Decision Making
 
 # Current Research
 
@@ -21,7 +21,7 @@ I am currently interested in learning patterns in time series as early as possib
 
 # Publications
 
-- Teeple, E., **Hartvigsen, T.**, Sen, C., Rundensteiner, E. (2017) **Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data**. Currently in review at the Journal of Infection Control and Hospital Epidemiology.
+- Teeple, E., **Hartvigsen, T.**, Sen, C., Rundensteiner, E. (2018) **Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data**. Currently in review at the Journal of Infection Control and Hospital Epidemiology.
 - **Hartvigsen, T.**, Sen, C., Brownell, S., Teeple, E., Kong, X. and Rundensteiner, E. **Early Prediction of MRSA Infections using Electronic Health Records**. In Proceedings of the 11th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 5: HEALTHINF, pages 156-167, ISBN: 978-989-758-281-3. **Nominated for Best Student Paper**.
 - Sen, C., **Hartvigsen, T.**, Claypool, K., Rundensteiner, E. (2017, September). **CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining**. ECML/PKDD 2017.
 
@@ -70,7 +70,7 @@ From June-August 2015, I took part in an NSF-funded Research Experience for Unde
 
 ## SUNY Geneseo: 2012 - 2016
 
-### 2016: IMDB-Scraped Movie Networks
+### 2016: Scraped Movie Networks from IMDB
 ### 2015: Text Mining of Song Lyrics
 ### 2013-2014: Modeling Vaccination Strategies on Graphs
 
@@ -83,10 +83,10 @@ Since beginning my studies at WPI, I have attended the following conferences:
 
 # Education
 
-- Ph.D. Data Science, 2021, Worcester Polytechnic Institute.
+- Ph.D. Data Science, est. 2021, Worcester Polytechnic Institute.
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
 
 # Personal
-Outside of research, I spend my time cycling (2016 Giant TCR Advanced Ultegra), rock climbing, and reading fantasy books. I am also training for my first Half Ironman: Ironman 70.3 Syracuse.
+Outside of research, I spend my time cycling (2016 Giant TCR Advanced), rock climbing, and reading fantasy books. I am also training for my first Half Ironman: Ironman 70.3 Syracuse.
 
 ![bike](/bike.jpg)
