@@ -10,10 +10,10 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Research Interests
 
-- Reinforcement Learning
-- Recurrent Neural Networks
-- Time Series Classification
-- Clinical Decision Making
+* Recurrent Neural Networks
+* Reinforcement Learning
+* Time Series Classification
+* Clinical Decision Making
 
 # Current Research
 
