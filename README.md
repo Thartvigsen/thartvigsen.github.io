@@ -2,11 +2,11 @@ I am a Data Science Ph.D. student at Worcester Polytechnic Institute working wit
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
-<img style="float: right;" src="/profile.png">
+<img style="float: right;" src="/images/profile.png">
 # Links
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
 - [GitHub](https://github.com/Thartvigsen)
-- [Resume](/Hartvigsen_resume.pdf)
+- [Resume](/documents/Hartvigsen_resume.pdf)
 
 # Research Interests
 
@@ -20,6 +20,8 @@ Please feel free to contact me with questions regarding my research or Data Scie
 I am currently interested in learning patterns in time series as early as possible, analogous to  predictions using the shortest possible time series prefixes. In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and earliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. While so far my work has been evaluated on Electronic Health Records, I am far more interested in the techniques, and these problems are present in many domains. 
 
 # Publications
+
+[publications](/pages/publications.md)
 
 - Teeple, E., **Hartvigsen, T.**, Sen, C., Rundensteiner, E. (2018) **Risk Stratification and Diagnostic Performance of a Machine Learning Algorithm for Clostridium Difficile Detection Using Electronic Health Records Data**. Currently in review at the Journal of Health Informatics Research.
 - **Hartvigsen, T.**, Sen, C., Brownell, S., Teeple, E., Kong, X. and Rundensteiner, E. **Early Prediction of MRSA Infections using Electronic Health Records**. In Proceedings of the 11th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 5: HEALTHINF, pages 156-167, ISBN: 978-989-758-281-3. **Nominated for Best Student Paper**.
@@ -89,4 +91,4 @@ Since beginning my studies at WPI, I have attended the following conferences:
 # Personal
 Outside of research, I spend my time cycling (2016 Giant TCR Advanced), rock climbing, and reading fantasy books. I am also training for my first Half Ironman: Ironman 70.3 Syracuse.
 
-![bike](/bike.jpg)
+![bike](/images/bike.jpg)
