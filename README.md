@@ -2,7 +2,6 @@ I am a Data Science Ph.D. student at Worcester Polytechnic Institute working wit
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
-<img style="float: right;" src="/images/profile.png">
 # Links
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
 - [GitHub](https://github.com/Thartvigsen)
