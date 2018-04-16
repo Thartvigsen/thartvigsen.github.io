@@ -1,4 +1,4 @@
-I am a second-year Data Science Ph.D. student at Worcester Polytechnic Institute primarily focused on Recurrent Neural Networks and Reinforcement Learning. I am eventually aiming for a faculty position. 
+I am a Data Science Ph.D. student at Worcester Polytechnic Institute working with [Dr. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/). I am primarily focused on Recurrent Neural Networks and Reinforcement Learning. I am eventually aiming for a faculty position.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
