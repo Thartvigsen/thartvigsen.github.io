@@ -12,6 +12,7 @@ Please feel free to contact me with questions regarding my research or Data Scie
 # Research Interests
 
 * Recurrent Neural Networks
+* Sensor fusion and irregular sampling rates
 * Reinforcement Learning
 * Time Series Classification
 * Clinical Decision Making
