@@ -27,4 +27,9 @@ I am currently interested in learning patterns in time series as early as possib
 
 # News
 
-**April 16:** Sister's birthday
+**January 19, 2018: PRESENTATION** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
+**December 12, 2017: AWARD** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was nominated for the HEALTHINF 2018 best student paper award.
+**October 16, 2017: PAPER** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was accepted to HEALTHINF 2018 as a full paper.
+**August 19, 2017: Conference** - Attended Machine Learning for Healthcare (MLHC) 2017.
+**June 23, 2017: PAPER** - Our paper, "CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining", was accepted to ECML-PKDD 2017 as a full paper.
+**February 8, 2017: AWARD** - Received the People's Choice award at the WPI Graduate Research Innovation Exchange.
