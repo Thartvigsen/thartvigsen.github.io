@@ -12,7 +12,7 @@ Please feel free to contact me with questions regarding my research or Data Scie
 # Research Interests
 
 * Recurrent Neural Networks
-* Sequence modeling
+* Long sequence modeling
 * Sensor fusion and irregular sampling rates
 * Time Series Classification
 
