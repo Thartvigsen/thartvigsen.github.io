@@ -9,3 +9,6 @@ footer-links:
   github: thartvigsen
   linkedin: https://www.linkedin.com/in/thartvigsen/
   rss: RSS # just type anything here for a working RSS icon
+
+gems:
+    - jekyll-sitemap
