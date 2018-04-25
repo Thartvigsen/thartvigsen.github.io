@@ -23,11 +23,14 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Current Research
 
-I am currently interested in learning patterns in time series as early as possible, analogous to  predictions using the shortest possible time series prefixes. In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and earliness. For instance, detecting an infection perfectly immediately before a discriminative test is given has almost no potential impact, while a less accurate prediction made far in advance of infection has potential to positively impact a patient's stay. While so far my work has been evaluated on Electronic Health Records, I am far more interested in the techniques, and these problems are present in many domains. 
+I am currently interested in learning patterns in time series as early as possible.
+In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and earliness.
+In general I am interested in modeling very long sequences and sensor fusion through Recurrent Neural Networks.
+While so far my work has been evaluated in the clinical domain, I am far more interested in the theory behind these techniques, and these problems are present in many domains. 
 
 # News
 
-- **April 24, 2018: PRESENTATION** - Poster presentation at the WPI Graduate Research and Innovation Exchange.
+- **April 24, 2018: PRESENTATION** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event.
 - **January 19, 2018: PRESENTATION** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
 - **December 14, 2017** - Completed courses Big Data Management and Business Intelligence.
 - **December 12, 2017: AWARD** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was nominated for the HEALTHINF 2018 best student paper award.
