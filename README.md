@@ -32,7 +32,7 @@ While so far my work has been evaluated in the clinical domain, I am far more in
 
 - **April 30, 2018: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
 - **April 30, 2018** - Completed course: *Deep Learning*.
-- **April 24, 2018: PRESENTATION** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event.
+- **April 24, 2018: PRESENTATION** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event, one of which won the *People's Choice Award*.
 - **January 19, 2018: PRESENTATION** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
 - **December 14, 2017** - Completed courses: *Big Data Management* and *Business Intelligence*.
 - **December 12, 2017: AWARD** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was nominated for the HEALTHINF 2018 best student paper award.
