@@ -30,6 +30,7 @@ While so far my work has been evaluated in the clinical domain, I am far more in
 
 # News
 
+- **April 30, 2018: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
 - **April 24, 2018: PRESENTATION** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event.
 - **January 19, 2018: PRESENTATION** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
 - **December 14, 2017** - Completed courses Big Data Management and Business Intelligence.
@@ -37,7 +38,8 @@ While so far my work has been evaluated in the clinical domain, I am far more in
 - **October 16, 2017: PAPER** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was accepted to HEALTHINF 2018 as a full paper.
 - **August 19, 2017: Conference** - Attended Machine Learning for Healthcare (MLHC) 2017.
 - **June 23, 2017: PAPER** - Our paper, "CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining", was accepted to ECML-PKDD 2017 as a full paper.
-- **May 1, 2017** - Completed courses Statistical Methods for Data Science and Database Management Systems.
+- **May 2, 2017: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
+- **May 2, 2017** - Completed courses Statistical Methods for Data Science and Database Management Systems.
 - **February 8, 2017: AWARD** - Poster presentation with Cansu Sen at the WPI Graduate Research and Innovation Exchange, received the People's Choice award.
-- **December 14, 2016** - Completed courses Introduction to Data Science and Data Mining.
+- **December 14, 2016** - Completed courses ~Introduction to Data Science~ and ~Data Mining~.
 - **August 25, 2016** - Began Ph.D. at Worcester Polytechnic Institute, Worcester, Massachusetts.
