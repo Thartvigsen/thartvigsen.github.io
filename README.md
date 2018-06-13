@@ -31,6 +31,9 @@ While so far my work has been evaluated in the clinical domain, I am far more in
 
 # News
 
+- **June 15, 2018: Paper Submission** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
+- **June 05, 2018: Paper Submission** - We submitted 1 paper regarding text classification to the International Conference on Data Mining (ICDM 2018).
+- **May 30, 2018: New Project** - I am working with 2 undergraduate Research Experience for Undergraduates (REU) students this summer to develop a state-of-the-art model for classifying time series with missing values.
 - **April 30, 2018: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
 - **April 30, 2018** - Completed course: *Deep Learning*.
 - **April 24, 2018: PRESENTATION** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event, one of which won the *People's Choice Award*.
