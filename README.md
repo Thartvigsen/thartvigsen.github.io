@@ -1,4 +1,8 @@
-I am a Data Science Ph.D. student at Worcester Polytechnic Institute working with [Dr. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst), [Dr. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), and [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/). I study sequential learning algorithms, particularly recurrent neural networks for multi-rate time series classification. I am also fascinated by gradient-based policy search methods for reinforcement learning problems along with conditional computing in neural networks. I am eventually aiming for a faculty position after 2021.
+I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing on Machine Learning, advised [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and collaborating with [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
+
+# Interests
+
+I investigate sequential learning algorithms, particularly recurrent neural networks, with a focus on handling a variety of sequential data sources. I believe that in the future, a major player in integrating Artificial Intelligence into daily life will be a variety of small sensors strapped to every-day items. I am working to develop algorithms that handle such a paradigm effectively, aiding potential for global impact of Artificial Intelligence. I am also deeply invested in environmental issues solvable through AI.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
