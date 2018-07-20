@@ -1,4 +1,4 @@
-I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing on Machine Learning, advised [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and collaborating with [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
+I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing on Machine Learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and collaborating with [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
 
 # Interests
 
@@ -12,15 +12,7 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - [Resume](/documents/Hartvigsen_resume.pdf)
 - [Publications](/pages/publications.md)
 - [Past Research](/pages/past_research.md)
-- [Hobbies](/pages/hobbies.md)
-
-# Research Interests
-
-* Recurrent Neural Networks
-* Reinforcement Learning
-* Long-term dependencies in sequences
-* Sensor fusion and irregular sampling rates
-* Time Series Classification
+- [Personal](/pages/hobbies.md)
 
 # Education
 
