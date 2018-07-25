@@ -2,7 +2,7 @@ I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing o
 
 # Interests
 
-I investigate sequential learning algorithms, particularly recurrent neural networks, with a focus on handling a variety of sequential data sources. I believe that in the future, a major player in integrating Artificial Intelligence into daily life will be a variety of small sensors strapped to every-day items. I am working to develop algorithms that handle such a paradigm effectively, aiding potential for global impact of Artificial Intelligence. I am also deeply invested in environmental issues solvable through AI.
+I investigate sequential machine learning algorithms, particularly recurrent neural networks. My research revolves around three main topics related to recurrent neural networks: long-term dependencies in sequential data, asynchronous temporal data, and conditional computing. I also dabble in reinforcement learning, taking particular interest in gradient-based policy-search methods.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
