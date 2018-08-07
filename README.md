@@ -28,6 +28,7 @@ While so far my work has been evaluated in the clinical domain, I am far more in
 
 # News
 
+- **August 02, 2018: REU Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poseter will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
 - **June 15, 2018: Paper Submission** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
 - **June 05, 2018: Paper Submission** - We submitted one paper studying sequential document classification to the International Conference on Data Mining (ICDM 2018).
 - **May 30, 2018: New Project** - I am working with 2 undergraduate Research Experience for Undergraduates (REU) students this summer to develop a state-of-the-art model for classifying time series with missing values.
