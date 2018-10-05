@@ -1,8 +1,9 @@
-I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing on Machine Learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and collaborating with [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
+I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing on sequential machine learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and collaborating with [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
 
 # Interests
 
-I investigate sequential machine learning algorithms, particularly recurrent neural networks. My research revolves around three main topics related to recurrent neural networks: long-term dependencies in sequential data, asynchronous temporal data, and conditional computing. I also dabble in reinforcement learning, taking particular interest in gradient-based policy-search methods.
+I am broadly interested in studying *useful* representations of the world that allow computers to solve problems. Recently, this agenda has led me down the path of recurrent neural networks (RNN), which loosely emulate human information representation. I am pushing the envelope in this direction in the context of reinforcement learning.
+My current research revolves around advancing RNNs for a variety of tasks including time series classification, sequential text document classification, and conditional computing.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
@@ -18,13 +19,6 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 - Ph.D. Data Science, est. 2021, Worcester Polytechnic Institute.
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
-
-# Current Research
-
-I am currently interested in learning patterns in time series as early as possible.
-In many domains, the evaluation of a predictive model should not only be accuracy, but a trade-off between accuracy and earliness.
-In general I am interested in modeling very long sequences and sensor fusion through Recurrent Neural Networks.
-While so far my work has been evaluated in the clinical domain, I am far more interested in the theory behind these techniques, and these problems are present in many domains. 
 
 # News
 
