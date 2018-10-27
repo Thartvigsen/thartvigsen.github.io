@@ -2,8 +2,7 @@ I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing o
 
 # Interests
 
-I am broadly interested in studying *useful* representations of the world that allow computers to solve problems. Recently, this agenda has led me down the path of recurrent neural networks (RNN), which loosely emulate human information representation. I am pushing the envelope in this direction in the context of reinforcement learning.
-My current research revolves around advancing RNNs for a variety of tasks including time series classification, sequential text document classification, and conditional computing.
+I am broadly interested in human learning and how we can emulate this process in computers, particularly how computers can build *useful* representations of the world. Recently, this agenda has led me down the path of recurrent neural networks (RNN), which loosely emulate human information representation. I am also interested in reinforcement learning as it relates to how people learn. My current research revolves around advancing RNNs for a variety of tasks including time series classification, sequential text document classification, and conditional computing.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
