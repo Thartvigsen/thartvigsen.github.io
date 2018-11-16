@@ -22,7 +22,7 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # News
 
-- **November 15, 2018** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
+- **November 15, 2018: Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
 - **October 12, 2018: Paper Submission** - We submitted 3 papers to SIAM International Conference on Data Mining. These papers study recurrent neural networks in 3 situations: early time series classification, sequential document classification, and time-based attention mechanisms.
 - **August 02, 2018: REU Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poseter will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
 - **June 15, 2018: Paper Submission** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
