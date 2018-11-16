@@ -1,8 +1,8 @@
-I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing on sequential machine learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and collaborating with [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
+I'm a Ph.D student in Data Science at Worcester Polytechnic Institute focusing on sequential machine learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
 
 # Interests
 
-I am broadly interested in human learning and how we can emulate this process in computers, particularly how computers can build *useful* representations of the world. Recently, this agenda has led me down the path of recurrent neural networks (RNN), which loosely emulate human information representation. I am also interested in reinforcement learning as it relates to how people learn. My current research revolves around advancing RNNs for a variety of tasks including time series classification, sequential text document classification, and conditional computing.
+I am broadly interested in human learning and how we can emulate this process in computers, particularly how computers can build *useful* representations of the world. Recently, this agenda has led me down the path of recurrent neural networks (RNN), which loosely emulate human information representation. I am also interested in reinforcement learning and how it models sequential decision making, an integral part of how we interact with the world. My current research revolves around advancing RNNs for a variety of tasks including time series classification, sequential text document classification, and conditional computing.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
@@ -16,11 +16,13 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Education
 
-- Ph.D. Data Science, est. 2021, Worcester Polytechnic Institute.
+- Ph.D. Data Science, May 2021, Worcester Polytechnic Institute.
+- M.S. Data Science, November 2018, Worcester Polytechnic Institute.
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
 
 # News
 
+- **November 15, 2018** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
 - **October 12, 2018: Paper Submission** - We submitted 3 papers to SIAM International Conference on Data Mining. These papers study recurrent neural networks in 3 situations: early time series classification, sequential document classification, and time-based attention mechanisms.
 - **August 02, 2018: REU Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poseter will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
 - **June 15, 2018: Paper Submission** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
