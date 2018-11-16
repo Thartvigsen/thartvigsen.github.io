@@ -12,7 +12,6 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - [Resume](/documents/Hartvigsen_resume.pdf)
 - [Publications](/pages/publications.md)
 - [Past Research](/pages/past_research.md)
-[comment]: <> (- [Personal](/pages/hobbies.md))
 
 # Education
 
@@ -46,3 +45,4 @@ In my spare time, I enjoy rock climbing, cycling, reading (fantasy and science o
 - **February 8, 2017: AWARD** - Poster presentation with Cansu Sen at the WPI Graduate Research and Innovation Exchange, received the People's Choice award.
 - **December 14, 2016** - Completed courses: *Introduction to Data Science* and *Data Mining*.
 - **August 25, 2016** - Began Ph.D. at Worcester Polytechnic Institute, Worcester, Massachusetts.
+
