@@ -12,13 +12,17 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - [Resume](/documents/Hartvigsen_resume.pdf)
 - [Publications](/pages/publications.md)
 - [Past Research](/pages/past_research.md)
-- [Personal](/pages/hobbies.md)
+[comment]: <> (- [Personal](/pages/hobbies.md))
 
 # Education
 
 - Ph.D. Data Science, May 2021, Worcester Polytechnic Institute.
 - M.S. Data Science, November 2018, Worcester Polytechnic Institute.
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
+
+# Personal
+
+In my spare time, I enjoy rock climbing, cycling, reading (fantasy and science outreach), and music (I play guitar/violin and listen mainly to folk, indie rock, and power metal).
 
 # News
 
