@@ -21,13 +21,13 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Personal
 
-In my spare time, I enjoy rock climbing, cycling, reading (fantasy and science outreach), and music (I play guitar/violin and listen mainly to folk, indie rock, and power metal).
+In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), [reading](https://www.goodreads.com/review/list/59979444) (fantasy and science outreach), and music (I play guitar/violin and listen mainly to folk, indie rock, and power metal).
 
 # News
 
 - **November 15, 2018: Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
 - **October 12, 2018: Paper Submission** - We submitted 3 papers to SIAM International Conference on Data Mining. These papers study recurrent neural networks in 3 situations: early time series classification, sequential document classification, and time-based attention mechanisms.
-- **August 02, 2018: REU Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poseter will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
+- **August 02, 2018: REU Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poster will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
 - **June 15, 2018: Paper Submission** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
 - **June 05, 2018: Paper Submission** - We submitted one paper studying sequential document classification to the International Conference on Data Mining (ICDM 2018).
 - **May 30, 2018: New Project** - I am working with 2 undergraduate Research Experience for Undergraduates (REU) students this summer to develop a state-of-the-art model for classifying time series with missing values.
