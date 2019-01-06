@@ -2,7 +2,7 @@ I'm a Ph.D student in Data Science at Worcester Polytechnic Institute studying m
 
 # Research objectives
 
-I am broadly interested in representation learning to build low-dimensional representations of the physical world for a variety of machine learning tasks. When we make decisions we heavily rely on a model of the world which we meticulously cultivate throughout our lives. Most of our "interactions" with the world are passive - we don't need to drop thousands of objects to understand the effects of gravity. I am interested in enabling artificially intelligent machines through the development of such models, which seem essential to animal intelligence, and am particularly interested in the learning process of children and how they cultivate their representations of the world. Recently, this agenda has led me down the path of recurrent neural networks (RNN), which loosely emulate human information representation. I am also interested in reinforcement learning and how it models sequential decision making, a crucial part of the human learning process. My current focus is on building sequential representations of clinical decision making scenarios with high levels of uncertainty: noisy sensors, infrequent and irregular variable recordings, and unexplained clinical actions, mandating assumptions from machine learning-based decision support systems.
+My research focuses on representation learning, building low-dimensional representations of the physical world for a variety of machine learning tasks. Decisions we make rely heavily on models of the world which we meticulously cultivate through experience. I am interested in enabling artificially intelligent machines through the development of such models, which seem essential to animal intelligence, and am particularly interested in the learning process of children and how they develop world models. Ultimately, this is taking me down the path of Model-Based Reinforcement Learning and Recurrent Neural Networks, which together loosely emulate how human brains process information. My current and previous focus has been on building sequential representations of clinical decision making scenarios with high levels of uncertainty: noisy sensors, infrequent and irregular variable recordings, and unexplained clinical actions, mandating assumptions from machine learning-based decision support systems.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
@@ -21,12 +21,12 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Personal
 
-In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), [reading](https://www.goodreads.com/review/list/59979444) (fantasy and science outreach), and music (I play guitar/violin and listen mainly to folk, indie rock, and power metal).
+In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), [reading](https://www.goodreads.com/review/list/59979444) (fantasy, science fiction, science fact), and music (I play guitar/violin and listen mainly to folk and indie rock).
 
 # News
 
+- **February 03, 2019: Three papers submitted** - We submitted 3 papers to KDD 2019. These papers study recurrent neural networks in 3 situations: early time series classification, sequential document classification, and time-based attention mechanisms.
 - **November 15, 2018: Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
-- **October 12, 2018: Papers in Review** - We submitted 3 papers to SIAM International Conference on Data Mining. These papers study recurrent neural networks in 3 situations: early time series classification, sequential document classification, and time-based attention mechanisms.
 - **August 02, 2018: REU Mentoring Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poster will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
 - **June 15, 2018: Paper in Review** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
 - **June 05, 2018: Paper in Review** - We submitted one paper studying sequential document classification to the International Conference on Data Mining (ICDM 2018).
