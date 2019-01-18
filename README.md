@@ -2,7 +2,7 @@ I'm a Ph.D student in Data Science at Worcester Polytechnic Institute studying m
 
 # Research objectives
 
-My research focuses on representation learning, building low-dimensional representations of the physical world for a variety of machine learning tasks. Decisions we make rely heavily on models of the world which we meticulously cultivate through experience and I am interested in enabling artificially intelligent machines through the development of such models. Eventually I would like to approach representation learning problems through the lense of early childhood development. Ultimately, this is taking me down the path of Model-Based Reinforcement Learning and Recurrent Neural Networks, which together loosely emulate how human brains process information. My current and previous focus has been on building sequential representations of clinical decision making scenarios with high levels of uncertainty: noisy sensors, infrequent and irregular variable recordings, and unexplained clinical actions, mandating assumptions from machine learning-based decision support systems.
+My high-level interest is in mental models and their impact on Artificial Intelligence. I am particularly interested in how we learn and curate our mental models and would eventually like to approach this representation learning problem through the lense of early childhood development. During my PhD so far, my research has involved the combination of Recurrent Neural Networks and some Reinforcement Learning techniques (which together loosely emulate human decision making). I have so far applied these techniques on modeling clinical decision making scenarios with high levels of uncertainty: noisy sensors, irregular multivariate time series, and early classification. My current trajectory is towards Model-Based Reinforcement Learning to focus more on computation mental models.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
@@ -25,6 +25,7 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 
 # News
 
+- **January 18, 2019: Workshop** - Attended the Geometric Analysis Approach to AI Workshop at Harvard University.
 - **November 15, 2018: Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
 - **August 02, 2018: REU Mentoring Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poster will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
 - **June 15, 2018: Paper in Review** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
