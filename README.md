@@ -20,9 +20,13 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - M.S. Data Science, December 2018, Worcester Polytechnic Institute.
 - B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
 
+# Some useful links
+* [Latex template for scientific publications](https://github.com/Thartvigsen/latex_template)
+* [Getting up to speed for our research](pages/learning_resources.md)
+
 # Personal
 
-In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), [reading](https://www.goodreads.com/review/list/59979444) (fantasy, science fiction, science fact), and music (I play guitar/violin and listen mainly to folk and indie rock).
+In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), [reading](https://www.goodreads.com/review/list/59979444) (fantasy, science fiction, science fact), and music (playing guitar/violin and listen mainly to folk and indie rock).
 
 # News
 
