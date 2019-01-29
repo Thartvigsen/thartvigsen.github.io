@@ -1,4 +1,4 @@
-I'm a Ph.D student in Data Science at Worcester Polytechnic Institute studying machine learning for sequential data, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
+I'm a Ph.D student in Data Science at Worcester Polytechnic Institute studying sequential representation learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
 
 # Research objectives
 
@@ -14,15 +14,9 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - [Past Research](/pages/past_research.md)
 - [Resources](/pages/resources.md)
 
-# Education
-
-- Ph.D. Data Science, May 2021, Worcester Polytechnic Institute.
-- M.S. Data Science, December 2018, Worcester Polytechnic Institute.
-- B.A. Applied Mathematics, Minor in BioMathematics, 2016, SUNY Geneseo.
-
-# Some useful links
+# Useful links
 * [Latex template for scientific publications](https://github.com/Thartvigsen/latex_template)
-* [Getting up to speed for our research](pages/learning_resources.md)
+* [Getting up to speed for our research with me](pages/learning_resources.md)
 
 # Personal
 
