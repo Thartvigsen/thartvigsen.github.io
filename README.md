@@ -12,7 +12,6 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - [Resume](/documents/Hartvigsen_resume.pdf)
 - [Publications](/pages/publications.md)
 - [Past Research](/pages/past_research.md)
-- [Resources](/pages/resources.md)
 
 # Useful links
 * [Latex template for scientific publications](https://github.com/Thartvigsen/latex_template)
