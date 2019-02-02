@@ -15,7 +15,7 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Useful links
 * [Latex template for scientific publications](https://github.com/Thartvigsen/latex_template)
-* [Getting up to speed for our research with me](pages/learning_resources.md)
+* [Getting up to speed for research with me](pages/learning_resources.md)
 
 # Personal
 
