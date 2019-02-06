@@ -48,7 +48,7 @@ We trained classifiers on each source of data, then merged their outputs to crea
 
 ### University of Arizona REU: Summer 2015
 
-#### Image segmentation a computational understanding of the phenological development of desert shrubs through drought periods
+#### Image segmentation to understand the phenological development of desert shrubs through drought periods
 
 From June-August 2015, I took part in an NSF-funded Research Experience for Undergraduates at the University of Arizona in Tucson, AZ. I was stationed at [BioSphere 2](http://biosphere2.org/) and worked with Dr. Shirley Papuga in the School of Natural Resources and the Environment.
 
