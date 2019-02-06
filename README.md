@@ -26,7 +26,8 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 
 - **January 18, 2019: Workshop** - Attended the Geometric Analysis Approach to AI Workshop at Harvard University.
 - **November 15, 2018: Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
-- **August 02, 2018: REU Mentoring Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poster will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
+- **September 1, 2018: Internship** - Beginning a part-time internship with UMass Medical School in the quantitative sciences department.
+- **August 02, 2018: REU Project Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poster will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
 - **June 15, 2018: Paper in Review** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
 - **May 30, 2018: Mentoring REU students** - I am working with 2 undergraduate Research Experience for Undergraduates (REU) students this summer to develop a state-of-the-art model for classifying time series with missing values.
 - **April 30, 2018: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
