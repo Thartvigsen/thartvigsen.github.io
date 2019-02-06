@@ -2,6 +2,8 @@
 
 ## Worcester Polytechnic Institute: 2016 - Present
 
+More details to come...
+
 ### 2018-2019
 #### Sequential Document Classification
 #### Attributed-Attention
@@ -44,7 +46,9 @@ Clinical data offers many opportunities for impactful and technically fascinatin
 
 We trained classifiers on each source of data, then merged their outputs to create a well-informed meta-learner to detect *C. Diff.* far in advance of the date of infection-confirmation. This work was published at the **European Conference of Machine Learning (ECML)**, presented by Cansu Sen on September 19, 2017 in Skopje, Macedonia. Our paper can be found [here](http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf).
 
-#### University of Arizona REU: Summer 2015
+### University of Arizona REU: Summer 2015
+
+#### Image segmentation a computational understanding of the phenological development of desert shrubs through drought periods
 
 From June-August 2015, I took part in an NSF-funded Research Experience for Undergraduates at the University of Arizona in Tucson, AZ. I was stationed at [BioSphere 2](http://biosphere2.org/) and worked with Dr. Shirley Papuga in the School of Natural Resources and the Environment.
 
