@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 title: Tom Hartvigsen
 avatar: https://github.com/Thartvigsen/thartvigsen.github.io/blob/master/profile.png
 description: Data Science Ph.D. student at Worcester Polytechnic Institute.
