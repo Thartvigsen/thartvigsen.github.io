@@ -5,8 +5,8 @@
 More details to come...
 
 ### 2018-2019
-#### Sequential Document Classification
-#### Attributed-Attention
+#### Time-aware attention
+#### Attributed hierarchical attention
 #### Early Classification
 #### Disentangled recurrent memory curation
 #### Mentoring one new PhD student on time series missing value imputation
