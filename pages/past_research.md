@@ -1,8 +1,8 @@
-# Past Research
+# Previous research
 
 ## Worcester Polytechnic Institute: 2016 - Present
 
-More details to come...
+More details to come for recent projects...
 
 ### 2018-2019
 #### Time-aware attention
@@ -14,15 +14,14 @@ More details to come...
 - Working with Jomol Matthew on a Microsoft Word plugin for automatically extracting and recommending eligibility criteria from the US NLM [clinical trials database](https://clinicaltrials.gov/) to assist clinicians with writing new clinical trials.
 
 ### 2017-2018
-#### Published one paper studying multimodal data combination for MRSA predictions
+#### Multimodal data fusion for MRSA detection
 #### Joke Generation
-#### Thesis studying early time series classification
-#### Mentoring NSF Research Experience for Undergraduates project - Classifying time series with missing values
+#### Early time series classification
+#### Led NSF REU project - Classifying time series with missing values
 
 ### 2016-2017
 
-#### Leading a Research Experience for Undergraduates Project - Early Prediction of MRSA Infections Using EHRs
-
+#### Leading NSF REU project - Early Prediction of MRSA Infections Using EHRs
 - Worked with Sarah Brownell, an REU Intern, to generate Early Warnings for MRSA infections using historical clinical data.
 - Used time series from the MIMIC III database and aligned them into a tabular format for use by common machine learning algorithms.
 - Varying the number of days used to predict MRSA along with the number of days in advance of MRSA to generate prediction allowed us to understand what portions of a patient's stay should be used to make predictions.
@@ -30,8 +29,7 @@ More details to come...
 - Our paper was published at BIOSTEC 2018 and I presented this work in January 2018 in Funchal, Madeira.
 - Sarah also presented the poster version of this work at the 2017 IEEE MIT Undergraduate Research Technology Conference.
 
-#### Leading a Research Experience for Undergraduates Project - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
-
+#### Leading NSF REU project - Detecting Clostridium Difficile Infections Using Recurrent Neural Networks
 - Worked with Sean Tocci, another REU Intern, to figure out a deep learning approach to infection prediction.
 - We developed a [Python framework](https://github.com/Thartvigsen/Keras-LSTM-Experimental-Framework) for Recurrent Neural Networks using [Keras](https://keras.io/).
 - Using the same patients as in CREST, we trained Long Short-Term Memory Recurrent Neural Networks to identify *Clostridium Difficile* infections, approaching similar results as in our prior work, CREST.
