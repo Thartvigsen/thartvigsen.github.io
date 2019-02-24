@@ -2,7 +2,7 @@ I'm a Ph.D student in Data Science at Worcester Polytechnic Institute studying s
 
 # Research objectives
 
-My high-level interest is in mental models and their role in Artificial Intelligence. I am particularly interested in how we learn and curate our mental models and would eventually like to approach this representation learning problem through the lense of early childhood development. During my PhD so far, my research has involved the combination of Recurrent Neural Networks and some Reinforcement Learning techniques (which together loosely emulate human decision making). I have so far applied these techniques on modeling clinical decision making scenarios with high levels of uncertainty: noisy sensors, irregular multivariate time series, and early classification. My current trajectory is towards Model-Based Reinforcement Learning to focus more on computational mental models.
+My high-level interest is in mental models and their role in Artificial Intelligence. I am particularly interested in how we learn and curate our mental models and would eventually like to approach this representation learning problem through the lense of early childhood development. During my PhD so far, my research has involved the combination of Recurrent Neural Networks and some Reinforcement Learning techniques (which together loosely emulate human decision making). I have so far applied these techniques on modeling clinical decision making scenarios using both clinical time series and sequences of notes, studying irregular time series, early classification, attributed document classification, and medical word embedding.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
