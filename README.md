@@ -25,6 +25,7 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 # News
 
 - **April 16, 2019: Research Qualifier** - Passed my research qualifier, studying the classification of irregular multivariate time series.
+- **April 9, 2019: First place in poster competition** - I was awarded first place in WPI's annual graduate research poster competition.
 - **March 5, 2019: Paper Accepted** - Our paper titled "Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining" was accepted to the IEEE International Conference on Biomedical and Health Informatics.
 - **January 18, 2019: Workshop** - Attended the Geometric Analysis Approach to AI Workshop at Harvard University.
 - **November 15, 2018: Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
