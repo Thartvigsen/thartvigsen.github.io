@@ -1,4 +1,4 @@
-I'm a Ph.D student in Data Science at Worcester Polytechnic Institute studying sequential representation learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
+I'm a Ph.D Candidate in the Data Science program at Worcester Polytechnic Institute studying sequential representation learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
 
 # Research objectives
 
@@ -24,6 +24,7 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 
 # News
 
+- **April 16, 2019: Research Qualifier** - Passed my research qualifier, studying the classification of irregular multivariate time series.
 - **March 5, 2019: Paper Accepted** - Our paper titled "Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining" was accepted to the IEEE International Conference on Biomedical and Health Informatics.
 - **January 18, 2019: Workshop** - Attended the Geometric Analysis Approach to AI Workshop at Harvard University.
 - **November 15, 2018: Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
