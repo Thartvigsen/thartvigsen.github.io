@@ -9,7 +9,7 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - [WPI homepage](https://www.wpi.edu/people/doctoral-student/twhartvigsen)
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
 - [GitHub](https://github.com/Thartvigsen)
-- [Resume](/documents/Hartvigsen_resume.pdf)
+- [Resume](/documents/hartvigsen_cv.pdf)
 - [Publications](/pages/publications.md)
 - [Past Research](/pages/past_research.md)
 
