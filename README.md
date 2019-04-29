@@ -7,7 +7,6 @@ My high-level interest is in mental models and their role in Artificial Intellig
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
 - [CV](/documents/hartvigsen_cv.pdf)
-- [Publications](/pages/publications.md)
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
 - [GitHub](https://github.com/Thartvigsen)
 - [Past Research](/pages/past_research.md)
