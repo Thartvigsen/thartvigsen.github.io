@@ -22,7 +22,7 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 
 # News
 
-- **April 29, 2019: Paper Accepted to KDD** - Our paper title "Adaptive-Halting Policy Network for Early Classification" was accapted to KDD 2019 and will be presented in Anchorage this August.
+- **April 29, 2019: Paper Accepted to KDD** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
 - **April 16, 2019: Research Qualifier** - Passed my research qualifier, studying the classification of irregular multivariate time series.
 - **April 9, 2019: First place in poster competition** - I was awarded first place in WPI's annual graduate research poster competition.
 - **March 5, 2019: Paper Accepted to BHI** - Our paper titled "Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining" was accepted to the IEEE International Conference on Biomedical and Health Informatics.
