@@ -44,3 +44,7 @@ Here's how to get started:
 * The MIMIC III database is a rather complex relational database containing clinical records of over 45,000 patients. We will be extracting a subset of the data and detecting different adverse events contained within.
   * I recommend reading through the data pages to get a hint of how the database is laid out (i.e., what information is contained? How would we extract one person's heart rate? Or uncover whether or not they died in the hospital?).
   * As it is a relational database, extracting the data is easiest via SQL, a relational query language. It is very intuitive to use, but takes a bit of exploration, please look up a SQL tutorial. Don't get started on this until we discuss, it's likely that you won't need to do this at all and I will just send you a dataset.
+
+Some useful specific stuff:
+* Copying files to/from a remote server (e.g. Turing)? Use [Rsync](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/).
+* Searching through your history of terminal commands to repeat a command? Use [Fuzzy Finder](https://github.com/junegunn/fzf).
