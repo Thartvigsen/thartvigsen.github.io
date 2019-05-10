@@ -25,27 +25,26 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Personal
 
-In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), [reading](https://www.goodreads.com/review/list/59979444) (fantasy, science fiction, science fact), and music (playing guitar/violin and listen mainly to folk and indie rock).
+In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), [reading](https://www.goodreads.com/review/list/59979444) (fantasy, science fiction, science fact), and playing guitar.
 
 # News
 
-- **May 10, 2019: Poster Presentation** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day.
-- **April 29, 2019: Paper Accepted to KDD** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
-- **April 16, 2019: Research Qualifier** - Passed my research qualifier, studying the classification of irregular multivariate time series.
+- **May 10, 2019: Poster Presentation** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
+- **April 29, 2019: Paper Accepted to ACM SIGKDD** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
+- **April 16, 2019: Passed Research Qualifier** - Passed my research qualifier, studying the classification of irregular multivariate time series.
 - **April 9, 2019: First place in poster competition** - I was awarded first place in WPI's annual graduate research poster competition.
 - **March 5, 2019: Paper Accepted to BHI** - Our paper titled "Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining" was accepted to the IEEE International Conference on Biomedical and Health Informatics.
 - **January 18, 2019: Workshop** - Attended the Geometric Analysis Approach to AI Workshop at Harvard University.
-- **November 15, 2018: Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
-- **September 1, 2018: Internship** - Beginning a part-time internship with UMass Medical School in the quantitative sciences department.
+- **November 15, 2018: Defended Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
+- **September 1, 2018: Machine Learning Internship** - Beginning a part-time internship with UMass Medical School in the quantitative sciences department.
 - **August 02, 2018: REU Project Complete** - Mentored two undergraduate REU students, resulting in one paper and one poster. They submitted a paper to the MIT URTC and their poster will be presented at the Research Experience for Undergraduates Symposium in Washington, D.C.
-- **June 15, 2018: Paper in Review** - We submitted one paper on Early Classification of MRSA Infections to CCIS.
 - **May 30, 2018: Mentoring REU students** - I am working with 2 undergraduate Research Experience for Undergraduates (REU) students this summer to develop a state-of-the-art model for classifying time series with missing values.
 - **April 30, 2018: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
-- **April 24, 2018: Presented On-going work** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event, one of which won the *People's Choice Award*.
-- **January 19, 2018: Presented Paper** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
-- **December 12, 2017: AWARD** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was nominated for the HEALTHINF 2018 best student paper award.
+- **April 24, 2018: Poster Presentation** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event, one of which won the *People's Choice Award*.
+- **January 19, 2018: Conference Talk** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
+- **December 12, 2017: Paper award** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was nominated for the HEALTHINF 2018 best student paper award.
 - **October 16, 2017: Paper Accepted to HEALTHINF** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was accepted to HEALTHINF 2018 as a full paper.
-- **August 19, 2017: Conference** - Attended Machine Learning for Healthcare (MLHC) 2017.
+- **August 19, 2017: Conference Attendence** - Attended Machine Learning for Healthcare (MLHC) 2017 at Northeastern University.
 - **June 23, 2017: Paper Accepted to ECML** - Our paper, "CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining", was accepted to ECML-PKDD 2017 as a full paper.
 - **May 2, 2017: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
 - **February 8, 2017: AWARD** - Poster presentation with Cansu Sen at the WPI Graduate Research and Innovation Exchange, received the People's Choice award.
