@@ -6,6 +6,12 @@ My high-level interest is in mental models and their role in Artificial Intellig
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
 # Publications
 - Thomas Hartvigsen, Cansu Sen, Xiangnan Kong, Elke Rundensteiner. Adaptive-Halting Policy Network for Early Classification. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019.
 - Jidapa Thadajarassiri, Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. IEEE International Conference on Biomedical and Health Informatics (BHI), 2019.
