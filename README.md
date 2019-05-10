@@ -1,3 +1,46 @@
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f88379;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+</style>
+</head>
+<body>
+
+<h2>Navigation Menu</h2>
+<p>In this example, we use CSS to style the list horizontally, to create a navigation menu:</p>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+</body>
+</html>
+
 I'm a Ph.D Candidate in the Data Science program at Worcester Polytechnic Institute studying sequential representation learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
 
 # Research objectives
@@ -8,11 +51,11 @@ Please feel free to contact me with questions regarding my research or Data Scie
 
 # Publications
 <ul style="list-style: none;">
-<li><b>KDD</b> Thomas Hartvigsen, Cansu Sen, Xiangnan Kong, Elke Rundensteiner. Adaptive-Halting Policy Network for Early Classification. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019.</li>
-<li><b>BHI</b> Jidapa Thadajarassiri, Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. IEEE International Conference on Biomedical and Health Informatics (BHI), 2019.</li>
-<li><b>CCIS</b> Hartvigsen, T., Sen, C., Rundensteiner, E. Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data. To appear in Communications in Computer and Information Science.</li>
-<li><b>HEALTHINF</b> Hartvigsen, T., Sen, C., Brownell, S., Teeple, E., Kong, X. and Rundensteiner, E. (2018). Early Prediction of MRSA Infections using Electronic Health Records. International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 5: HEALTHINF, pages 156-167, ISBN: 978-989-758-281-3. Shortlisted for Best Student Paper. <a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">pdf.</a></li>
-<li><b>ECML/PKDD</b> Sen, C., Hartvigsen, T., Claypool, K., Rundensteiner, E. (2017). CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. ECML/PKDD 2017. <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">pdf.</a></li>
+<li><b>[KDD]</b> Thomas Hartvigsen, Cansu Sen, Xiangnan Kong, Elke Rundensteiner. Adaptive-Halting Policy Network for Early Classification. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019.</li>
+<li><b>[BHI]</b> Jidapa Thadajarassiri, Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. IEEE International Conference on Biomedical and Health Informatics (BHI), 2019.</li>
+<li><b>[CCIS]</b> Hartvigsen, T., Sen, C., Rundensteiner, E. Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data. To appear in Communications in Computer and Information Science.</li>
+<li><b>[HEALTHINF]</b> Hartvigsen, T., Sen, C., Brownell, S., Teeple, E., Kong, X. and Rundensteiner, E. (2018). Early Prediction of MRSA Infections using Electronic Health Records. International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 5: HEALTHINF, pages 156-167, ISBN: 978-989-758-281-3. Shortlisted for Best Student Paper. <a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">pdf.</a></li>
+<li><b>[ECML/PKDD]</b> Sen, C., Hartvigsen, T., Claypool, K., Rundensteiner, E. (2017). CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. ECML/PKDD 2017. <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">pdf.</a></li>
 </ul>
 - **[KDD]** Thomas Hartvigsen, Cansu Sen, Xiangnan Kong, Elke Rundensteiner. Adaptive-Halting Policy Network for Early Classification. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019.
 - **[BHI]** Jidapa Thadajarassiri, Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. IEEE International Conference on Biomedical and Health Informatics (BHI), 2019.
