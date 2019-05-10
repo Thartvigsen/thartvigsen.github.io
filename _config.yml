@@ -4,8 +4,10 @@ title: Tom Hartvigsen
 avatar: https://github.com/Thartvigsen/thartvigsen.github.io/blob/master/profile.png
 description: Ph.D. Candidate at Worcester Polytechnic Institute.
 logo: /images/profile.png
-github: "thartvigsen"
-googlescholar: "https://scholar.google.com/citations?user=rIjeeRsAAAAJ&hl=en"
+
+author:
+    github: "thartvigsen"
+    googlescholar: "https://scholar.google.com/citations?user=rIjeeRsAAAAJ&hl=en"
 
 footer-links:
   email: twhartvigsen@wpi.edu
