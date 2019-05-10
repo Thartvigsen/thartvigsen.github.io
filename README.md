@@ -2,7 +2,7 @@ I'm a Ph.D Candidate in the Data Science program at Worcester Polytechnic Instit
 
 # Research objectives
 
-My high-level interest is in mental models and their role in Artificial Intelligence. I am particularly interested in how we learn and curate our mental models and would eventually like to approach this representation learning problem through the lense of early childhood development. During my PhD so far, my research has involved the combination of Recurrent Neural Networks and some Reinforcement Learning techniques (which together loosely emulate human decision making). I have so far applied these techniques on modeling clinical decision making scenarios using both clinical time series and sequences of notes, studying irregular time series, early classification, attributed document classification, and medical word embedding.
+My high-level interest is in mental models and their role in Artificial Intelligence, especially in planning problems. I am particularly interested in how we learn and curate our mental models and would eventually like to approach this representation learning problem through the lense of early childhood development. During my PhD so far, my research has involved the combination of Recurrent Neural Networks and some Reinforcement Learning techniques (which together loosely emulate human decision making). I have so far applied these techniques on modeling clinical decision making scenarios using both clinical time series and sequences of notes, studying irregular time series, early classification, attributed document classification, and medical word embedding.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
@@ -22,6 +22,7 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 
 # News
 
+- **May 10, 2019: Poster Presentation** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day.
 - **April 29, 2019: Paper Accepted to KDD** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
 - **April 16, 2019: Research Qualifier** - Passed my research qualifier, studying the classification of irregular multivariate time series.
 - **April 9, 2019: First place in poster competition** - I was awarded first place in WPI's annual graduate research poster competition.
