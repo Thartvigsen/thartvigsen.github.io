@@ -2,7 +2,7 @@ I'm a Ph.D Candidate in the Data Science program at Worcester Polytechnic Instit
 
 # Research objectives
 
-My high-level interest is in mental models and their role in Artificial Intelligence, especially in planning problems. I am particularly interested in how we learn and curate our mental models and would eventually like to approach this representation learning problem through the lense of early childhood development. During my PhD so far, my research has involved the combination of Recurrent Neural Networks and some Reinforcement Learning techniques (which together loosely emulate human decision making). I have so far applied these techniques on modeling clinical decision making scenarios using both clinical time series and sequences of notes, studying irregular time series, early classification, attributed document classification, and medical word embedding.
+My high-level interest is in mental models and their role in the future of Artificial Intelligence. I am particularly interested in how we learn and curate our mental models and would eventually like to approach this representation learning problem through the lense of early childhood development. During my PhD so far, my research has involved the combination of Recurrent Neural Networks and some Reinforcement Learning techniques (which together loosely emulate human decision making). I have so far applied these techniques on modeling clinical decision making scenarios using both clinical time series and sequences of notes, studying irregular time series, early classification, attributed document classification, and medical word embedding.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
 
@@ -19,10 +19,9 @@ Please feel free to contact me with questions regarding my research or Data Scie
 - [CV](/documents/hartvigsen_cv.pdf)
 - [LinkedIn](http://linkedin.com/in/thartvigsen)
 - [GitHub](https://github.com/Thartvigsen)
-- [Past Research](/pages/past_research.md)
+- [My Research](/pages/past_research.md)
 * [Latex template for scientific publications](https://github.com/Thartvigsen/latex_template)
 * [Latex poster template for WPI](https://github.com/Thartvigsen/wpi_latex_poster)
-* [Getting up to speed for research with me](pages/learning_resources.md)
 
 # Personal
 
