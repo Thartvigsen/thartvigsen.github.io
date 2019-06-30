@@ -1,10 +1,11 @@
-I'm a Ph.D Candidate in the Data Science program at Worcester Polytechnic Institute studying sequential representation learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
+Hello! I'm a fourth-year Ph.D. student in the Data Science at Worcester Polytechnic Institute studying sequential representation learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
 
-# Research objectives
+# Research Interests
 
-My high-level interest is in mental models and their role in the future of Artificial Intelligence. I am particularly interested in how we learn and curate our mental models and would eventually like to approach this representation learning problem through the lense of early childhood development. During my PhD so far, my research has involved the combination of Recurrent Neural Networks and some Reinforcement Learning techniques (which together loosely emulate human decision making). I have so far applied these techniques on modeling clinical decision making scenarios using both clinical time series and sequences of notes, studying irregular time series, early classification, attributed document classification, and medical word embedding.
+Broadly, I am interested in machine learning for clinical decision making. This domains combines my interests/work in irregularly-sampled multivariate time series (for example a patient's lab results), partially-observable markov decision processes (which medication should be given at a given time?), and Recurrent Neural Networks (high-capacity sequence modeling).
+So far, I have tackled specific topics such as time series interpolation, classifying clinical time series and sequences of notes, early classification, attributed document classification, and multi-source meta-embeddings for clinical notes.
 
-Please feel free to contact me with questions regarding my research or Data Science at WPI at **twhartvigsen@wpi.edu**.
+Please feel free to contact me with questions regarding my research or Data Science at WPI at twhartvigsen 'at' wpi 'dot' edu.
 
 # Publications
 <ul style="list-style: none;">
