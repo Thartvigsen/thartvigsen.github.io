@@ -2,7 +2,7 @@ Hello! I'm a fourth-year Ph.D. student in the Data Science at Worcester Polytech
 
 # Research Interests
 
-Broadly, I am interested in machine learning for clinical decision making. This domains combines my interests/work in irregularly-sampled multivariate time series (for example a patient's lab results), partially-observable markov decision processes (which medication should be given at a given time?), and Recurrent Neural Networks (high-capacity sequence modeling).
+I am interested in machine learning for clinical decision making. This domain combines my interests/work in irregularly-sampled multivariate time series (for example a patient's lab results), partially-observable markov decision processes (which medication should be given at a given time?), and Recurrent Neural Networks (high-capacity sequence modeling).
 So far, I have tackled specific topics such as time series interpolation, classifying clinical time series and sequences of notes, early classification, attributed document classification, and multi-source meta-embeddings for clinical notes.
 
 Please feel free to contact me with questions regarding my research or Data Science at WPI at twhartvigsen 'at' wpi 'dot' edu.
@@ -30,7 +30,7 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 
 # News
 
-- **06.19, 2019: KDD Travel Grant**- I have been awarded the 2019 KDD Student Travel Grant.
+- **June 19, 2019: KDD Travel Grant**- I have been awarded the 2019 KDD Student Travel Grant.
 - **May 10, 2019: Poster Presentation** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
 - **April 29, 2019: Paper Accepted to ACM SIGKDD** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
 - **April 16, 2019: Passed Research Qualifier** - Passed my research qualifier, studying irregular multivariate time series classification.
