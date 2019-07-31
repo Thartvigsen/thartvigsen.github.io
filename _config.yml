@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 #theme: minima
 title: Tom Hartvigsen
 avatar: https://github.com/Thartvigsen/thartvigsen.github.io/blob/master/profile.png
-description: Ph.D. Candidate at Worcester Polytechnic Institute.
+description: Ph.D. Candidate at Worcester Polytechnic Institute. Optimizing for minimal expected negative feedback.
 logo: /images/profile.png
 
 author:
