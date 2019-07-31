@@ -1,6 +1,8 @@
-Hello! I'm a fourth-year Ph.D. student in the Data Science at Worcester Polytechnic Institute studying sequential representation learning, advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) and collaborating with [Cansu Sen](http://users.wpi.edu/~csen/) in the [Data Science Research Group](http://davis.wpi.edu:8180/DSRG/).
+Hello! I'm currently a Ph.D. candidate in data science at Worcester Polytechnic Institute. I'm particularly interested in the challenges and promise of applying machine learning to aid clinical decision making. So far, I have enjoyed studying representation learning on clinical sequences (time series and notes).
 
-# Research Interests
+I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
+
+# Specific Research Interests
 
 I am interested in machine learning for clinical decision making. This domain combines my interests/work in irregularly-sampled multivariate time series (for example a patient's lab results), partially-observable markov decision processes (which medication should be given at a given time?), and Recurrent Neural Networks (high-capacity sequence modeling).
 So far, I have tackled specific topics such as time series interpolation, classifying clinical time series and sequences of notes, early classification, attributed document classification, and multi-source meta-embeddings for clinical notes.
@@ -30,9 +32,10 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 
 # News
 
+- **July 31, 2019: IMA Travel Grant** - I am excited to be attending the IMA Workshop: Recent Progress in Foundational Data Science in September at the University of Minnesota in September.
 - **June 19, 2019: KDD Travel Grant**- I have been awarded the 2019 KDD Student Travel Grant.
-- **May 10, 2019: Poster Presentation** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
-- **April 29, 2019: Paper Accepted to ACM SIGKDD** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
+- **May 10, 2019: Conference** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
+- **April 29, 2019: Paper Accepted to ACM SIGKDD!** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
 - **April 16, 2019: Passed Research Qualifier** - Passed my research qualifier, studying irregular multivariate time series classification.
 - **April 9, 2019: Best Poster Award** - I was awarded first place in WPI's annual interdisciplinary graduate research showcase.
 - **March 5, 2019: Paper Accepted to BHI** - Our paper titled "Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining" was accepted to the IEEE International Conference on Biomedical and Health Informatics.
