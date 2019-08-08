@@ -4,7 +4,7 @@ I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/ru
 
 # Specific Research Interests
 
-I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied early classification, clinical note classification, meta word embeddings, and representation learning for irregularly-sampled time series. Additionally, I have some *conditional computing in RNNs* work in submission with an extension on the way! I have also had the pleasure of advising many undergraduate students over the summers on some research involving missing values in clinical time series and sequential diagnosis prediction using RNNs.
+I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied early classification, clinical note classification, meta word embeddings, and representation learning for irregularly-sampled time series. Additionally, I have some *conditional computing in RNNs* work in submission with an extension on the way! I have also had the pleasure of advising many NSF-funded REU students over the summers on some research involving missing values in clinical time series and sequential diagnosis prediction using RNNs.
 
 Please feel free to contact me with questions regarding my research or our program at WPI at twhartvigsen 'at' wpi 'dot' edu. I would be happy to go into much more detail on my research one-on-one.
 
