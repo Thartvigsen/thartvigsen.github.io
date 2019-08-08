@@ -1,13 +1,12 @@
-Hello! I'm currently a Ph.D. candidate in data science at Worcester Polytechnic Institute. I'm particularly interested in the challenges and promise of applying machine learning to aid clinical decision making. So far, I have enjoyed studying representation learning on clinical sequences (time series and notes).
+Hi! I'm currently a Ph.D. candidate at Worcester Polytechnic Institute in our Data Science program, a part of the Computer Science department. Broadly, I am interested in sequence modeling and so my research often involves designing Recurrent Neural Networks to solve problems on a variety of sequential data. So far, I have enjoyed applying my representation learning methods to clinical sequences (*e.g.,* vital signs, lab results, and free-hand notes).
 
 I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
 # Specific Research Interests
 
-I am interested in machine learning for clinical decision making. This domain combines my interests/work in irregularly-sampled multivariate time series (for example a patient's lab results), partially-observable markov decision processes (which medication should be given at a given time?), and Recurrent Neural Networks (high-capacity sequence modeling).
-So far, I have tackled specific topics such as time series interpolation, classifying clinical time series and sequences of notes, early classification, attributed document classification, and multi-source meta-embeddings for clinical notes.
+I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied early classification, clinical note classification, meta word embeddings, and representation learning for irregularly-sampled time series. Additionally, I have some *conditional computing in RNNs* work in submission with an extension on the way! I have also had the pleasure of advising many undergraduate students over the summers on some research involving missing values in clinical time series and sequential diagnosis prediction using RNNs.
 
-Please feel free to contact me with questions regarding my research or Data Science at WPI at twhartvigsen 'at' wpi 'dot' edu.
+Please feel free to contact me with questions regarding my research or our program at WPI at twhartvigsen 'at' wpi 'dot' edu. I would be happy to go into much more detail on my research one-on-one.
 
 # Publications
 <ul style="list-style: none;">
@@ -32,6 +31,7 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 
 # News
 
+- **August 3-8, 2019: Presenting at ACM SIGKDD** - I am happy to be attending KDD 2019 and presenting my paper this week!
 - **July 31, 2019: IMA Travel Grant** - I am excited to be attending the IMA Workshop: Recent Progress in Foundational Data Science in September at the University of Minnesota in September.
 - **June 19, 2019: KDD Travel Grant**- I have been awarded the 2019 KDD Student Travel Grant.
 - **May 10, 2019: Conference** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
