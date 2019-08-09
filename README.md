@@ -34,7 +34,7 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 - **August 3-8, 2019: Presenting at ACM SIGKDD** - I am happy to be attending KDD 2019 and presenting my paper this week!
 - **July 31, 2019: IMA Travel Grant** - I am excited to be attending the IMA Workshop: Recent Progress in Foundational Data Science in September at the University of Minnesota in September.
 - **June 19, 2019: KDD Travel Grant**- I have been awarded the 2019 KDD Student Travel Grant.
-- **May 10, 2019: Conference** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
+- **May 10, 2019: Presenting at New England Machine Learning Day** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
 - **April 29, 2019: Paper Accepted to ACM SIGKDD!** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
 - **April 16, 2019: Passed Research Qualifier** - Passed my research qualifier, studying irregular multivariate time series classification.
 - **April 9, 2019: Best Poster Award** - I was awarded first place in WPI's annual interdisciplinary graduate research showcase.
