@@ -1,4 +1,4 @@
-Hi! I'm currently a Ph.D. candidate at Worcester Polytechnic Institute in our Data Science program, a part of the Computer Science department. Broadly, I am interested in sequence modeling and so my research often involves designing Recurrent Neural Networks to solve problems on a variety of sequential data. So far, I have enjoyed applying my representation learning methods to clinical sequences (*e.g.,* vital signs, lab results, and free-hand notes) and look forward to expanding my horizons in new directions.
+Hi! I'm currently a Ph.D. candidate at Worcester Polytechnic Institute in our Data Science program, a part of the Computer Science department. Broadly, I am interested in sequence modeling and so my research often involves designing Recurrent Neural Networks to solve problems on a variety of sequential data. So far, I have enjoyed developing and applying my representation learning methods to clinical sequences (*e.g.,* vital signs, lab results, and free-hand notes) and look forward to expanding my horizons in new directions.
 
 I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
@@ -30,28 +30,25 @@ Please feel free to contact me with questions regarding my research or our progr
 In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), reading (fantasy, science fiction, science fact), and playing guitar.
 
 # News
-
-- **September 16, 2019: Talk at UMN** - Presenting our KDD paper at the University of Minnesota Workshop: Recent Progress in Foundational Data Science.
+- **September 16, 2019: Talk at University of Minnesota** - Presenting our KDD paper at the University of Minnesota Workshop: Recent Progress in Foundational Data Science.
 - **August 19-20, 2019: Conference** - Attending Big Data 2019 at Harvard University.
 - **August 3-8, 2019: Talk at ACM SIGKDD** - I am happy to be attending KDD 2019 and presenting my paper this week!
-- **July 31, 2019: IMA Travel Grant** - I am excited to be attending the IMA Workshop: Recent Progress in Foundational Data Science at the University of Minnesota in September.
-- **June 19, 2019: KDD Travel Grant**- I have been awarded the 2019 KDD Student Travel Grant.
-- **May 10, 2019: Presenting at New England Machine Learning Day** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
+- **May 10, 2019: Talk at New England Machine Learning Day** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
 - **April 29, 2019: Paper Accepted to ACM SIGKDD!** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
 - **April 16, 2019: Passed Research Qualifier** - Passed my research qualifier, studying irregular multivariate time series classification.
 - **April 9, 2019: Best Poster Award** - I was awarded first place in WPI's annual interdisciplinary graduate research showcase.
 - **March 5, 2019: Paper Accepted to BHI** - Our paper titled "Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining" was accepted to the IEEE International Conference on Biomedical and Health Informatics.
 - **January 18, 2019: Workshop** - Attended the Geometric Analysis Approach to AI Workshop at Harvard University.
-- **November 15, 2018: Defended Master's Thesis** - Successfully defended Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
+- **November 15, 2018: Defended Master's Thesis** - I successfully defended my Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
 - **September 1, 2018: Machine Learning Research Internship** - Beginning a part-time internship with UMass Medical School in the quantitative sciences department.
 - **August 02, 2018: REU Project Complete** - Mentored two undergraduate REU students. Their research manifested into a paper at the MIT URTC and their poster was presented at the REU Symposium in Washington, D.C.
 - **May 30, 2018: Mentoring REU students** - I am working with 2 undergraduate Research Experience for Undergraduates (REU) students this summer to develop a state-of-the-art model for classifying time series with missing values.
 - **April 30, 2018: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
 - **April 24, 2018: Poster Presentation** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event, one of which won the *People's Choice Award*.
-- **January 19, 2018: Conference Talk** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
+- **January 19, 2018: Talk at BIOSTEC** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
 - **December 12, 2017: Paper award** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was nominated for the HEALTHINF 2018 best student paper award.
 - **October 16, 2017: Paper Accepted to HEALTHINF** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was accepted to HEALTHINF 2018 as a full paper.
-- **August 19, 2017: Conference Attendence** - Attended Machine Learning for Healthcare (MLHC) 2017 at Northeastern University.
+- **August 19, 2017: Conference** - Attended Machine Learning for Healthcare (MLHC) 2017 at Northeastern University.
 - **June 23, 2017: Paper Accepted to ECML** - Our paper, "CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining", was accepted to ECML-PKDD 2017 as a full paper.
 - **May 2, 2017: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
 - **February 8, 2017: AWARD** - Poster presentation with Cansu Sen at the WPI Graduate Research and Innovation Exchange, received the People's Choice award.
