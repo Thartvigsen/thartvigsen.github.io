@@ -6,5 +6,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "News"
+    url: /news/
