@@ -1,50 +1,66 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: "About me" 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi! I'm currently a Ph.D. candidate at Worcester Polytechnic Institute in our Data Science program, a part of the Computer Science department. Broadly, I am interested in sequence modeling and so my research often involves designing Recurrent Neural Networks to solve problems on a variety of sequential data. So far, I have enjoyed developing and applying my representation learning methods to clinical sequences (*e.g.,* vital signs, lab results, and free-hand notes) and look forward to expanding my horizons in new directions.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Specific Research Interests
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied early classification, clinical note classification, meta word embeddings, and representation learning for irregularly-sampled time series. Additionally, I have some *conditional computing in RNNs* work in submission with an extension on the way! I have also had the pleasure of advising many NSF-funded REU students over the summers on some research involving missing values in clinical time series and sequential diagnosis prediction using RNNs.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Please feel free to contact me with questions regarding my research or our program at WPI at twhartvigsen 'at' wpi 'dot' edu. I would be happy to go into much more detail on my research one-on-one.
 
-**Markdown generator**
+# Publications
+<ul style="list-style: none;">
+<li><b>[KDD]</b> Thomas Hartvigsen, Cansu Sen, Xiangnan Kong, Elke Rundensteiner. Adaptive-Halting Policy Network for Early Classification. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019. <a href="https://dl.acm.org/authorize.cfm?key=N688339">[ACM Paper Link]</a><a href="https://thartvigsen.github.io/papers/adaptive_halting_kdd19.pdf">[pdf]</a><a href="https://github.com/Thartvigsen/EARLIEST">[code].</a></li>
+<li><b>[BHI]</b> Jidapa Thadajarassiri, Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. IEEE International Conference on Biomedical and Health Informatics (BHI), 2019. <a href="papers/embeddings_bhi19.pdf">[pdf].</a></li>
+<li><b>[CCIS]</b> Thomas Hartvigsen, Cansu Sen, Elke Rundensteiner. Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data. Communications in Computer and Information Science. <a href="https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21">[pdf]</a></li>
+<li><b>[HEALTHINF]</b> Thomas Hartvigsen, Cansu Sen, Sarah Brownell, Erin Teeple, Xiangnan Kong,  Elke Rundensteiner. Early Prediction of MRSA Infections using Electronic Health Records. International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 5: HEALTHINF, pages 156-167, ISBN: 978-989-758-281-3. Shortlisted for Best Student Paper. <a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">[pdf]</a></li>
+<li><b>[ECML/PKDD]</b> Cansu Sen, Thomas Hartvigsen, Kajal Claypool, Elke Rundensteiner. CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD) 2017. <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">[pdf]</a></li>
+</ul>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+# Useful links
+- [CV](/documents/hartvigsen_cv.pdf)
+- [LinkedIn](http://linkedin.com/in/thartvigsen)
+- [GitHub](https://github.com/Thartvigsen)
+- [My Research](/pages/past_research.md)
+* [Latex template for scientific publications](https://github.com/Thartvigsen/latex_template)
+* [Latex poster template for WPI](https://github.com/Thartvigsen/wpi_latex_poster)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+# Personal
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), reading (fantasy, science fiction, science fact), and playing guitar.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# News
+- **September 16, 2019: Talk at University of Minnesota** - Presenting our KDD paper at the University of Minnesota Workshop: Recent Progress in Foundational Data Science.
+- **August 19-20, 2019: Conference** - Attending Big Data 2019 at Harvard University.
+- **August 3-8, 2019: Talk at ACM SIGKDD** - I am happy to be attending KDD 2019 and presenting my paper this week!
+- **May 10, 2019: Talk at New England Machine Learning Day** - Presented a poster titled "Adaptive-Halting Policy Network for Early Classification" at the New England Machine Learning Day at Northeastern University.
+- **April 29, 2019: Paper Accepted to ACM SIGKDD!** - Our paper titled "Adaptive-Halting Policy Network for Early Classification" was accepted to KDD 2019, research track, acceptance 14%.
+- **April 16, 2019: Passed Research Qualifier** - Passed my research qualifier, studying irregular multivariate time series classification.
+- **April 9, 2019: Best Poster Award** - I was awarded first place in WPI's annual interdisciplinary graduate research showcase.
+- **March 5, 2019: Paper Accepted to BHI** - Our paper titled "Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining" was accepted to the IEEE International Conference on Biomedical and Health Informatics.
+- **January 18, 2019: Workshop** - Attended the Geometric Analysis Approach to AI Workshop at Harvard University.
+- **November 15, 2018: Defended Master's Thesis** - I successfully defended my Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
+- **September 1, 2018: Machine Learning Research Internship** - Beginning a part-time internship with UMass Medical School in the quantitative sciences department.
+- **August 02, 2018: REU Project Complete** - Mentored two undergraduate REU students. Their research manifested into a paper at the MIT URTC and their poster was presented at the REU Symposium in Washington, D.C.
+- **May 30, 2018: Mentoring REU students** - I am working with 2 undergraduate Research Experience for Undergraduates (REU) students this summer to develop a state-of-the-art model for classifying time series with missing values.
+- **April 30, 2018: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
+- **April 24, 2018: Poster Presentation** - Poster presentation at the WPI Graduate Research and Innovation Exchange. We had three posters at this event, one of which won the *People's Choice Award*.
+- **January 19, 2018: Talk at BIOSTEC** - I presented our paper "Early Prediction of MRSA Infections Using Electronic Health Records" at HEALTHINF 2018 in Madeira, Funchal.
+- **December 12, 2017: Paper award** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was nominated for the HEALTHINF 2018 best student paper award.
+- **October 16, 2017: Paper Accepted to HEALTHINF** - Our paper, "Early Prediction of MRSA Infections Using Electronic Health Records", was accepted to HEALTHINF 2018 as a full paper.
+- **August 19, 2017: Conference** - Attended Machine Learning for Healthcare (MLHC) 2017 at Northeastern University.
+- **June 23, 2017: Paper Accepted to ECML** - Our paper, "CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining", was accepted to ECML-PKDD 2017 as a full paper.
+- **May 2, 2017: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
+- **February 8, 2017: AWARD** - Poster presentation with Cansu Sen at the WPI Graduate Research and Innovation Exchange, received the People's Choice award.
+- **August 25, 2016** - Began Ph.D. at Worcester Polytechnic Institute, Worcester, Massachusetts.
