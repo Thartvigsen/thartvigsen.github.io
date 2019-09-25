@@ -53,4 +53,3 @@ In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/ima
 - **May 2, 2017: AWARD** - I was awarded the WPI Data Science Citizen Award for involvement and participation in the growth of the department.
 - **February 8, 2017: AWARD** - Poster presentation with Cansu Sen at the WPI Graduate Research and Innovation Exchange, received the People's Choice award.
 - **August 25, 2016** - Began Ph.D. at Worcester Polytechnic Institute, Worcester, Massachusetts.
-
