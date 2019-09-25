@@ -1,11 +1,8 @@
 ---
-permalink: /research
-title: ""
-excerpt: "My Research" 
+layout: archive
+permalink: /research/
+title: "Research"
 author_profile: false
-redirect_from: 
-    - /research/ 
-    - /research.html 
 ---
 
 Here is my research?
