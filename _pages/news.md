@@ -2,7 +2,7 @@
 layout: archive
 title: "News"
 permalink: /news/
-author_profile: true
+author_profile: false
 ---
 
 - **September 16, 2019: Talk at University of Minnesota** - Presenting our KDD paper at the University of Minnesota Workshop: Recent Progress in Foundational Data Science.
