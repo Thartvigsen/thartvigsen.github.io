@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Adaptive-Halting Policy Network for Early Classification"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2019-08-03-adaptive-halting.md
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2019-08-03
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://dl.acm.org/authorize.cfm?key=N688339'
+citation: 'Hartvigsen et al. (2019). &quot;Adaptive-Halting Policy Network for Early Classification.&quot; <i>ACM SIGKDD</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://dl.acm.org/authorize.cfm?key=N688339)
