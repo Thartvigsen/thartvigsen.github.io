@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
-- **October 16, 2019: Paper Accepted** - Our paper "Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention" was accepted to IEEE BigData 2019, acceptance 19%.
+- **October 16, 2019: Papers Accepted** - Our papers titled "Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention" and "Learning Temporal Relevance in Longitudinal Medical Notes" were accepted to IEEE BigData 2019, acceptance 19%.
 - **September 16, 2019: Talk at University of Minnesota** - Presenting our KDD paper at the University of Minnesota Workshop: Recent Progress in Foundational Data Science.
 - **August 19-20, 2019: Conference** - Attending Big Data 2019 at Harvard University.
 - **August 3-8, 2019: Talk at ACM SIGKDD** - I am happy to be attending KDD 2019 and presenting our paper this week!

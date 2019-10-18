@@ -22,6 +22,7 @@ Please feel free to contact me with questions regarding my research or our progr
 # Publications
 <ul style="list-style: none;">
 <li><b>[BigData]</b> Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention. IEEE BigData, 2019.</li>
+<li><b>[BigData]</b> Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Learning Temporal Relevance in Longitudinal Medical Notes. IEEE BigData, 2019.</li>
 <li><b>[KDD]</b> Thomas Hartvigsen, Cansu Sen, Xiangnan Kong, Elke Rundensteiner. Adaptive-Halting Policy Network for Early Classification. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019. <a href="https://dl.acm.org/authorize.cfm?key=N688339">[ACM Paper Link]</a><a href="https://thartvigsen.github.io/files/adaptive_halting_kdd19.pdf">[pdf]</a><a href="https://github.com/Thartvigsen/EARLIEST">[code].</a></li>
 <li><b>[BHI]</b> Jidapa Thadajarassiri, Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. IEEE International Conference on Biomedical and Health Informatics (BHI), 2019. <a href="files/embeddings_bhi19.pdf">[pdf].</a></li>
 <li><b>[CCIS]</b> Thomas Hartvigsen, Cansu Sen, Elke Rundensteiner. Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data. Communications in Computer and Information Science. <a href="https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21">[pdf]</a></li>
