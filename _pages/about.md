@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I'm currently a Ph.D. candidate at Worcester Polytechnic Institute in our Data Science program, a part of the Computer Science department. Broadly, I am interested in sequence modeling and so my research often involves designing Recurrent Neural Networks to solve problems on a variety of sequential data. So far, I have enjoyed developing and applying my representation learning methods to clinical sequences (*e.g.,* vital signs, lab results, and free-hand notes) and look forward to expanding my horizons in new directions.
+Hi! I'm currently a Ph.D. candidate at Worcester Polytechnic Institute in our Data Science program, a part of the Computer Science department. Broadly, I am interested in sequence modeling and so my research often involves designing Recurrent Neural Networks to solve problems on a variety of sequential data. So far, I have enjoyed developing and applying my representation learning methods to clinical sequences (*e.g.,* vital signs, lab results, and free-hand notes).
 
 I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
