@@ -10,7 +10,7 @@ citation: 'Hartvigsen et al. (2019). &quot;Adaptive-Halting Policy Network for E
 
 
 bibtex:
-'''
+---
 @inproceedings{hartvigsen2019adaptive,
   title={Adaptive-Halting Policty Network for Early Classification},
   author={Hartvigsen, Thomas and Sen, Cansu and Kong, Xiangnan and Rundensteiner, Elke},
@@ -19,4 +19,4 @@ bibtex:
   year={2019},
   organization={ACM}
 }
-'''
+---
