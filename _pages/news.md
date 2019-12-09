@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: false
 ---
 
+- **December 09, 2019: Papers submitted** - We have submitted two papers to ACL, fingers crossed!
+- **November 19, 2019: Talk at WPI** - Presenting my recent work on Selective Neuron Activation in RNNs at our department meeting.
 - **October 16, 2019: Papers Accepted** - Our papers titled "Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention" and "Learning Temporal Relevance in Longitudinal Medical Notes" were accepted to IEEE BigData 2019, acceptance 19%.
 - **September 16, 2019: Talk at University of Minnesota** - Presenting our KDD paper at the University of Minnesota Workshop: Recent Progress in Foundational Data Science.
 - **August 19-20, 2019: Conference** - Attending Big Data 2019 at Harvard University.
