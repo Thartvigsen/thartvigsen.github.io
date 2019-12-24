@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **December 20, 2019: Paper accepted** - Our paper titled Predicting Hospital-Acquired Clostridium Difficile Infection Using Electronic Health Record Information" was accepted for publication at HEALTHINF 2020.
 - **December 09, 2019: Papers submitted** - We have submitted two papers to ACL, fingers crossed!
 - **November 19, 2019: Talk at WPI** - Presenting my recent work on Selective Neuron Activation in RNNs at our department meeting.
 - **October 16, 2019: Papers Accepted** - Our papers titled "Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention" and "Learning Temporal Relevance in Longitudinal Medical Notes" were accepted to IEEE BigData 2019, acceptance 19%.
