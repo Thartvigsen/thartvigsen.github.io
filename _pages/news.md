@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **February 06, 2020: Paper submitted** - We have submitted one paper to ICML!
 - **December 20, 2019: Paper accepted** - Our paper titled Predicting Hospital-Acquired Clostridium Difficile Infection Using Electronic Health Record Information" was accepted for publication at HEALTHINF 2020.
 - **December 09, 2019: Papers submitted** - We have submitted two papers to ACL, fingers crossed!
 - **November 19, 2019: Talk at WPI** - Presenting my recent work on Selective Neuron Activation in RNNs at our department meeting.
