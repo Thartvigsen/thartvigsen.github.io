@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **February 13, 2020: Papers submitted** - We have submitted 3 papers to KDD regarding Early Classification, Biased Positive and Unlabeled Learning, and Supervised Attention Mechanisms in RNNs.
 - **February 06, 2020: Paper submitted** - We have submitted one paper to ICML!
 - **December 20, 2019: Paper accepted** - Our paper titled Predicting Hospital-Acquired Clostridium Difficile Infection Using Electronic Health Record Information" was accepted for publication at HEALTHINF 2020.
 - **December 09, 2019: Papers submitted** - We have submitted two papers to ACL, fingers crossed!
