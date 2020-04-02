@@ -15,6 +15,8 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 
 I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
+- [CV](/files/hartvigsen_cv.pdf)
+
 # Specific Research Interests
 
 I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied early classification, clinical note classification, meta word embeddings, explainable neural time series classification, and representation learning for irregularly-sampled time series. Most of my work involves some form of *conditional computing in RNNs*. I have also had the pleasure of advising many NSF-funded REU students over the summers on some research involving missing values in clinical time series and sequential diagnosis prediction using RNNs.
@@ -33,11 +35,6 @@ Clinical Performance Evaluation of a Machine Learning System for Predicting Hosp
 <li><b>[HEALTHINF]</b> Thomas Hartvigsen, Cansu Sen, Sarah Brownell, Erin Teeple, Xiangnan Kong,  Elke Rundensteiner. Early Prediction of MRSA Infections using Electronic Health Records. International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 5: HEALTHINF, pages 156-167, ISBN: 978-989-758-281-3. Shortlisted for Best Student Paper. <a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">[pdf]</a></li>
 <li><b>[ECML/PKDD]</b> Cansu Sen, Thomas Hartvigsen, Kajal Claypool, Elke Rundensteiner. CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD) 2017. <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">[pdf]</a></li>
 </ul>
-
-# Useful links
-- [CV](/files/hartvigsen_cv.pdf)
-* [Latex template for scientific publications](https://github.com/Thartvigsen/latex_template)
-* [Latex poster template for WPI](https://github.com/Thartvigsen/wpi_latex_poster)
 
 # Personal
 
