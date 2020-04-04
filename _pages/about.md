@@ -16,12 +16,13 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
 - [CV](/files/hartvigsen_cv.pdf)
+- Email: twhartvigsen 'at' wpi 'dot' edu.
 
 # Specific Research Interests
 
 I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied early classification, clinical note classification, meta word embeddings, explainable neural time series classification, and representation learning for irregularly-sampled time series. Most of my work involves some form of *conditional computing in RNNs*. I have also had the pleasure of advising many NSF-funded REU students over the summers on some research involving missing values in clinical time series and sequential diagnosis prediction using RNNs.
 
-Please feel free to contact me with questions regarding my research or our program at WPI at twhartvigsen 'at' wpi 'dot' edu. I would be happy to go into much more detail on my research one-on-one.
+Please feel free to contact me with questions regarding my research or our program at WPI. I would be happy to go into much more detail on my research one-on-one.
 
 # Publications
 <ul style="list-style: none;">
