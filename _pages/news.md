@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **April 4, 2020: Paper accepted** - Our paper *Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?* was accepted at **ACL 2020**!
 - **February 26, 2020: Award** - Our paper at HEALTHINF this year was awarded **best poster**.
 - **February 13, 2020: Papers submitted** - We have submitted 3 papers to KDD regarding Early Classification, Biased Positive and Unlabeled Learning, and Supervised Attention Mechanisms in RNNs.
 - **February 06, 2020: Paper submitted** - We have submitted one paper to ICML!
