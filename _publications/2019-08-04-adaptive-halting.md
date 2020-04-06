@@ -1,7 +1,7 @@
 ---
 title: "Adaptive-Halting Policy Network for Early Classification"
 collection: publications
-venue: ACL
+venue: KDD
 date: 2019-08-04
 ---
 
