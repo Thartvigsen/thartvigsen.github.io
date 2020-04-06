@@ -1,8 +1,8 @@
 ---
 title: "Adaptive-Halting Policy Network for Early Classification"
 collection: publications
+venue: ACL
 date: 2019-08-04
-citation: 'T. Hartvigsen, C. Sen, X. Kong, E. Rundensteiner. (2019). &quot;Adaptive-Halting Policy Network for Early Classification.&quot; <i>ACM SIGKDD</i>.'
 ---
 
 This paper proposes the first deep learning solution to Early Classification, which is the multi-objective optimization problem of picking a timestep at which a classification can be made with tunable confidence.

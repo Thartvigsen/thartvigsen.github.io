@@ -1,6 +1,7 @@
 ---
 title: "Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?"
 collection: publications
+venue: ACL
 date: 2020-07-05
 ---
 
