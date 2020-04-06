@@ -1,6 +1,7 @@
 ---
 title: "Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?"
 collection: publications
+excerpt: 'This paper studies the interpretability of attention mechanisms in RNNs for Text Classification and describes a new and publicly-available dataset containing crowd-sourced human attention maps.'
 venue: ACL
 date: 2020-07-05
 ---
