@@ -12,6 +12,7 @@ redirect_from:
 Hi! I'm currently a Ph.D. candidate at Worcester Polytechnic Institute in our Data Science program, a part of the Computer Science department.
 Broadly, I am interested in sequence modeling and so my research has revolved heavily around Recurrent Neural Networks.
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning.
+Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 
 I am advised by [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
