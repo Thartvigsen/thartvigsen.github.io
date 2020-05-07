@@ -24,7 +24,7 @@ Please feel free to contact me with questions regarding my research or our progr
 
 # Publications
 <ul style="list-style: none;">
-<li><b>[ACL]</b> Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words? ACL, 2020. <a href="files/acl20.pdf">[pdf]</a>.</br> (with Cansu Sen, Biao Yin, Xiangnan Kong, and Elke Rundensteiner)</li>
+<li><b>[ACL]</b> Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words? ACL, 2020. <a href="files/acl20.pdf">[pdf]</a>.<br /> (with Cansu Sen, Biao Yin, Xiangnan Kong, and Elke Rundensteiner)</li>
 <li><b>[HEALTHINF]</b> Erin Teeple, Thomas Hartvigsen, Cansu Sen, Kajal Claypool, Elke Rundensteiner. 
 Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection. HEALTHINF, 2020. <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">[Paper].</a></li>
 <li><b>[BigData]</b> Cansu Sen, Thomas Hartvigsen, Xiangnan Kong, Elke Rundensteiner. Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention. IEEE BigData, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/9006403">[IEEE Link].</a></li>
