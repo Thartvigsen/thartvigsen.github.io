@@ -4,7 +4,7 @@ collection: publications
 excerpt: 'This paper proposes the first solution to the open problem of Early Multi-Label Classification.'
 venue: KDD
 paperurl: 'https://thartvigsen.github.io/files/adaptive_halting_kdd19.pdf'
-date: 2019-08-04
+date: 2020-08-25
 ---
 
 Early Multi-label Classification is the marriage of the Early Classification and
