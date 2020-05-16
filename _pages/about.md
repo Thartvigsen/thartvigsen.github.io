@@ -13,7 +13,7 @@ Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute advised by [Elke Ru
 
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 
-- [CV](/files/hartvigsen_cv.pdf)
+- [Up-to-date CV](/files/hartvigsen_cv.pdf)
 - Email: twhartvigsen 'at' wpi 'dot' edu.
 
 # Specific Research Interests
