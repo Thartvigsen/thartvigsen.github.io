@@ -24,6 +24,7 @@ Please feel free to contact me with questions regarding my research or our progr
 
 # Publications
 <ul style="list-style: none;">
+<li><b>[KDD]</b> Recurrent Halting Chain for Early Multi-label Classification. KDD, 2020. <br /> (with Cansu Sen, Xiangnan Kong, and Elke Rundensteiner)</li>
 <li><b>[ACL]</b> Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words? ACL, 2020. <a href="files/acl20.pdf">[pdf]</a>.<br /> (with Cansu Sen, Biao Yin, Xiangnan Kong, and Elke Rundensteiner)</li>
 <li><b>[HEALTHINF]</b> 
 Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection. HEALTHINF, 2020. <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">[Scitepress Link].</a> <br />(with Erin Teeple, Cansu Sen, Kajal Claypool, and Elke Rundensteiner) </li>
