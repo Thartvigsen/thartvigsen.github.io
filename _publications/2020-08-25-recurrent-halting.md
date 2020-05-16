@@ -3,7 +3,6 @@ title: "Recurrent Halting Chain for Early Multi-label Classification"
 collection: publications
 excerpt: 'This paper proposes the first solution to the open problem of Early Multi-Label Classification.'
 venue: KDD
-paperurl: 'https://thartvigsen.github.io/files/adaptive_halting_kdd19.pdf'
 date: 2020-08-25
 ---
 
