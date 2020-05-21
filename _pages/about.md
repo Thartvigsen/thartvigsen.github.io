@@ -11,7 +11,9 @@ redirect_from:
 
 Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) in the Data Science program, a part of the Computer Science department. I am working on a variety of sequence modeling problems, often motivated by healthcare applications. My research has so far revolved heavily around Recurrent Neural Networks.
 
+<!---
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
+-->
 
 - [Up-to-date CV](/files/hartvigsen_cv.pdf)
 - Email: twhartvigsen 'at' wpi 'dot' edu.
