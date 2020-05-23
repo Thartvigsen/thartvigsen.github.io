@@ -44,7 +44,7 @@ Clinical Performance Evaluation of a Machine Learning System for Predicting Hosp
 # Publications
 <ul style="list-style: none;">
 <li><b>[KDD]</b> <b>Thomas Hartvigsen</b>, Cansu Sen, Xiangnan Kong, Elke Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. KDD, 2020. Research track, acceptance rate: 16.9%.</li>
-<li><b>[ACL]</b> Cansu Sen, <b>Thomas Hartvigsen</b>, Biao Yin, Xiangnan Kong, Elke Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? ACL, 2020. <a href="files/acl20.pdf">[pdf].</a><a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">[data].</a></li>
+<li><b>[ACL]</b> Cansu Sen, <b>Thomas Hartvigsen</b>, Biao Yin, Xiangnan Kong, Elke Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? ACL, 2020. <a href="files/acl20.pdf">[pdf]</a><a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">[data].</a></li>
 <li><b>[HEALTHINF]</b> Erin Teeple, <b>Thomas Hartvigsen</b>, Cansu Sen, Kajal Claypool, Elke Rundensteiner. 
 Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection. HEALTHINF, 2020. <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">[Paper].</a></li>
 <li><b>[BigData]</b> Cansu Sen, <b>Thomas Hartvigsen</b>, Xiangnan Kong, Elke Rundensteiner. Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention. IEEE BigData, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/9006403">[IEEE Link].</a></li>
