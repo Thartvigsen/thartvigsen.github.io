@@ -24,8 +24,9 @@ I am interested in sequence modeling, or building vector representations that ca
 
 Please feel free to contact me with questions regarding my research or our program at WPI. I would be happy to go into much more detail on my research one-on-one.
 
-# Publications
+# Selected Publications
 <ul style="list-style: none;">
+<small>
 <li><b>[KDD]</b> <b>Thomas Hartvigsen</b>, Cansu Sen, Xiangnan Kong, Elke Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. KDD, 2020. Research track, acceptance rate: 16.9%.</li>
 <li><b>[ACL]</b> Cansu Sen, <b>Thomas Hartvigsen</b>, Biao Yin, Xiangnan Kong, Elke Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? ACL, 2020. <a href="files/acl20.pdf">[pdf]</a> <a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">[data].</a></li>
 <li><b>[HEALTHINF]</b> Erin Teeple, <b>Thomas Hartvigsen</b>, Cansu Sen, Kajal Claypool, Elke Rundensteiner. 
@@ -37,6 +38,7 @@ Clinical Performance Evaluation of a Machine Learning System for Predicting Hosp
 <li><b>[CCIS]</b> <b>Thomas Hartvigsen</b>, Cansu Sen, Elke Rundensteiner. Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data. Communications in Computer and Information Science. <a href="https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21">[pdf].</a></li>
 <li><b>[HEALTHINF]</b> <b>Thomas Hartvigsen</b>, Cansu Sen, Sarah Brownell, Erin Teeple, Xiangnan Kong,  Elke Rundensteiner. Early Prediction of MRSA Infections using Electronic Health Records. International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 5: HEALTHINF, pages 156-167, ISBN: 978-989-758-281-3. Shortlisted for Best Student Paper. <a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">[pdf]</a></li>
 <li><b>[ECML/PKDD]</b> Cansu Sen, <b>Thomas Hartvigsen</b>, Kajal Claypool, Elke Rundensteiner. CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD) 2017. <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">[pdf]</a></li>
+</small>
 </ul>
 
 # Personal
