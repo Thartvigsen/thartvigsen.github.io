@@ -28,7 +28,7 @@ Please feel free to contact me with questions regarding my research or our progr
 <ul style="list-style: none;">
 <small>
 <li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%.</li>
-<li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? <b>ACL, 2020</b>. <a href="files/acl20.pdf">[pdf]</a> <a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">[data].</a></li>
+<li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? <b>ACL, 2020</b>. [<a href="files/acl20.pdf">pdf</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
 <li>E. Teeple, <b>T. Hartvigsen</b>, C. Sen, K. Claypool, E. Rundensteiner. Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection. <b>HEALTHINF, 2020</b>. <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">[Paper Link].</a></li>
 <li>C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner. Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention. <b>IEEE BigData, 2019</b>. <a href="https://ieeexplore.ieee.org/abstract/document/9006403">[IEEE Link].</a></li>
 <li>C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner. Learning Temporal Relevance in Longitudinal Medical Notes. <b>IEEE BigData, 2019</b>.<a href="https://ieeexplore.ieee.org/abstract/document/9006400">[IEEE Link].</a></li>
