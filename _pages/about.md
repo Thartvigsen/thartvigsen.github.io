@@ -36,7 +36,7 @@ Please feel free to contact me with questions regarding my research or our progr
 <li>J. Thadajarassiri, C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. In proc. of <b>IEEE BHI, 2019</b>. [<a href="files/bhi19.pdf">pdf</a>]</li>
 <li><b>T. Hartvigsen</b>, C. Sen, E. Rundensteiner. Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data. <b>Communications in Computer and Information Science, Volume 1024</b>. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21">pdf</a>]</li>
 <li><b>T. Hartvigsen</b>, C. Sen, S. Brownell, E. Teeple, X. Kong, E. Rundensteiner. Early Prediction of MRSA Infections using Electronic Health Records. In proc. of <b>HEALTHINF, 2018</b>. Shortlisted for Best Student Paper. [<a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">pdf</a>]</li>
-<li>C. Sen, <b>T. Hartvigsen</b>, K. Claypool, E. Rundensteiner. CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. In proc. of <b>ECML, 2017</b> [<a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">pdf</a>]</li>
+<li>C. Sen, <b>T. Hartvigsen</b>, K. Claypool, E. Rundensteiner. CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. In proc. of <b>ECML, 2017</b>. [<a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">pdf</a>]</li>
 </small>
 </ul>
 

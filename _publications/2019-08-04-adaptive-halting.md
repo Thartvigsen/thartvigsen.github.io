@@ -3,7 +3,6 @@ title: "Adaptive-Halting Policy Network for Early Classification"
 collection: publications
 excerpt: 'This paper proposes the first deep learning solution to Early Classification of Time Series, allowing intuitive tuning between contradictory goals of earliness and accuracy.'
 venue: KDD
-paperurl: 'https://thartvigsen.github.io/files/adaptive_halting_kdd19.pdf'
 date: 2019-08-04
 ---
 
