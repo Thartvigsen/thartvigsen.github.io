@@ -10,7 +10,7 @@ This paper proposes the first deep learning solution to Early Classification, wh
 
 ```
 @inproceedings{hartvigsen2019adaptive,
-  title={Adaptive-Halting Policty Network for Early Classification},
+  title={Adaptive-Halting Policy Network for Early Classification},
   author={Hartvigsen, Thomas and Sen, Cansu and Kong, Xiangnan and Rundensteiner, Elke},
   booktitle={Proceedings of the 25th ACM SIGKDD international conference on Knowledge discovery and data mining},
   pages={101--110},
