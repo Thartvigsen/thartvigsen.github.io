@@ -5,8 +5,8 @@ permalink: /news/
 author_profile: false
 ---
 
-- **May 15, 2020: Paper accepted to KDD** - Our paper *Recurrent Halting Chain for Early Multi-label Classification* was accepted at **KDD 2020**!
-- **April 4, 2020: Paper accepted** - Our paper *Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?* was accepted at **ACL 2020**!
+- **May 15, 2020: KDD paper accepted** - Our paper *Recurrent Halting Chain for Early Multi-label Classification* was accepted at **KDD 2020**!
+- **April 4, 2020: ACL paper accepted** - Our paper *Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?* was accepted at **ACL 2020**!
 - **February 26, 2020: Award** - Our paper at HEALTHINF this year was awarded **best poster**.
 - **December 20, 2019: Paper accepted** - Our paper *Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection* was accepted for publication at HEALTHINF 2020.
 - **November 19, 2019: Talk at WPI** - Presenting my recent work on Selective Neuron Activation in RNNs at our department meeting.
