@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
-- **June 04, 2020: Talk at FSU** - Gave a talk on Early Classification.
+- **June 04, 2020: Talk at FSU**
 - **May 15, 2020: KDD paper accepted** - Our paper *Recurrent Halting Chain for Early Multi-label Classification* was accepted at **KDD 2020**!
 - **April 4, 2020: ACL paper accepted** - Our paper *Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?* was accepted at **ACL 2020**!
 - **February 26, 2020: Award** - Our paper at HEALTHINF this year was awarded **best poster**.
