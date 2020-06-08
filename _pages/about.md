@@ -16,7 +16,6 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 -->
 
 - [Up-to-date CV](/files/hartvigsen_cv.pdf)
-- Email: twhartvigsen 'at' wpi 'dot' edu.
 
 ### News
 <ul style="margin-bottom: 5px;">
