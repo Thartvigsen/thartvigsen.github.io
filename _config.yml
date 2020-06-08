@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Tom Hartvigsen"
   avatar           : "headshot.png"
-  bio              : "twhartvigsen@wpi.edu\nOptimizing for minimal negative feedback"
+  bio              : "twhartvigsen@wpi.edu\n\nOptimizing for minimal negative feedback"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rIjeeRsAAAAJ&hl=en"
+  cv               : "files/hartvigsen_cv.pdf"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
