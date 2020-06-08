@@ -20,7 +20,7 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 
 ### News
 <ul style="list-style: none;">
-<li> June 04, 2020: Talk at FSU on Early Classification.</li>
+<li margin=10px> June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New KDD paper on Early Multi-label Classification.</li>
 <li> April 04, 2020: New ACL paper on the <a href="files/acl20.pdf">Interpretability of Attention Mechanisms for classification</a>.</li>
 <li> Feb 26, 2020: New HEALTHINF paper on interpretability in C. Diff. predictions with machine learning won best poster.</li>
