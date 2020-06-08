@@ -18,7 +18,7 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 - [Up-to-date CV](/files/hartvigsen_cv.pdf)
 - Email: twhartvigsen 'at' wpi 'dot' edu.
 
-## News
+#### News
 - June 04, 2020: Talk at FSU on Early Classification.
 - May 15, 2020: New KDD paper on Early Multi-label Classification.
 - April 04, 2020: New ACL paper on the [Interpretability of Attention Mechanisms for classification](files/acl20.pdf).
@@ -28,13 +28,14 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 - Sep 16, 2019: Talk at University of Minnesota on Early Classification.
 - May 10, 2019: Talk at Northeastern University's New England Machine Learning day poster session.
 - April 29, 2019: New KDD paper on [Early Classificaiton](files/kdd19.pdf).
-## Interests
+
+#### Interests
 
 I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves some form of *conditional computing in RNNs*. I have also had the pleasure of advising many NSF-funded REU students over the summers on some research involving missing values in clinical time series and sequential diagnosis prediction using RNNs. On the [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail.
 
 Please feel free to contact me with questions regarding my research or our program at WPI. I would be happy to go into much more detail on my research one-on-one.
 
-## Selected Publications
+#### Selected Publications
 <ul style="list-style: none;">
 <small>
 <li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain/blob/master/README.md">code</a>]</li>
@@ -52,6 +53,6 @@ Please feel free to contact me with questions regarding my research or our progr
 </small>
 </ul>
 
-## Personal
+#### Personal
 
 In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), reading (fantasy, science fiction, science fact), and playing guitar.
