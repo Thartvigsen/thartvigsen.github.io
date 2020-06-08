@@ -19,8 +19,9 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 - Email: twhartvigsen 'at' wpi 'dot' edu.
 
 ### News
-<ul style="margin-bottom: 1px;">
-<li style="margin: 5px;"> June 04, 2020: Talk at FSU on Early Classification.</li>
+<ul style="margin: 5px;">
+<small>
+<li style="margin: 5px;">June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New KDD paper on Early Multi-label Classification.</li>
 <li> April 04, 2020: New ACL paper on the <a href="files/acl20.pdf">Interpretability of Attention Mechanisms for classification</a>.</li>
 <li> Feb 26, 2020: New HEALTHINF paper on interpretability in C. Diff. predictions with machine learning won best poster.</li>
@@ -29,6 +30,7 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 <li> Sep 16, 2019: Talk at University of Minnesota on Early Classification.</li>
 <li> May 10, 2019: Talk at Northeastern University's New England Machine Learning day poster session.</li>
 <li> April 29, 2019: New KDD paper on <a href="files/kdd19.pdf">Early Classificaiton</a>.</li>
+</small>
 </ul>
 
 ### Interests
@@ -38,7 +40,7 @@ I am interested in sequence modeling, or building vector representations that ca
 Please feel free to contact me with questions regarding my research or our program at WPI. I would be happy to go into much more detail on my research one-on-one.
 
 ### Selected Publications
-<ul style="list-style: none; background-color: #f8f9f9;">
+<ul style="list-style: none; background-color: #f8f9f9; margin: 20px;">
 <small>
 <li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain/blob/master/README.md">code</a>]</li>
 <li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? In Proc. of <b>ACL, 2020</b>. [<a href="files/acl20.pdf">pdf</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
