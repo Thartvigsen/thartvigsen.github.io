@@ -23,13 +23,13 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 <small>
 <li> June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New KDD paper on Early Multi-label Classification.</li>
-<li> April 04, 2020: New ACL paper on the <a href="files/acl20.pdf">Interpretability of Attention Mechanisms for classification</a>.</li>
+<li> April 04, 2020: New ACL paper on the <a href="papers/acl20.pdf">Interpretability of Attention Mechanisms for classification</a>.</li>
 <li> Feb 26, 2020: New HEALTHINF paper on interpretability in C. Diff. predictions with machine learning won best poster.</li>
 <li> Nov 19, 2019: Talk at WPI on Selective Neuron Activation in RNNs.</li>
 <li> Oct 16, 2019: Two new papers at IEEE BigData on classifying series of clinical note series and trainable decay in attention mechanisms for clinical notes.</li>
 <li> Sep 16, 2019: Talk at University of Minnesota on Early Classification.</li>
 <li> May 10, 2019: Talk at Northeastern University's New England Machine Learning day poster session.</li>
-<li> April 29, 2019: New KDD paper on <a href="files/kdd19.pdf">Early Classification</a>.</li>
+<li> April 29, 2019: New KDD paper on <a href="papers/kdd19.pdf">Early Classification</a>.</li>
 </small>
 </ul>
 
@@ -42,14 +42,14 @@ Please feel free to contact me with questions regarding my research or our progr
 ### Selected Publications
 <ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
 <small>
-<li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain/blob/master/README.md">code</a>]</li>
-<li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? In Proc. of <b>ACL, 2020</b>. [<a href="files/acl20.pdf">pdf</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
+<li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]</li>
+<li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? In Proc. of <b>ACL, 2020</b>. [<a href="papers/acl20.pdf">pdf</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
 <li>E. Teeple, <b>T. Hartvigsen</b>, C. Sen, K. Claypool, E. Rundensteiner. Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection. In Proc. of <b>HEALTHINF, 2020</b>. [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">Paper Link</a>]</li>
 <li>C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner. Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention. In Proc. of <b>IEEE BigData, 2019</b>. [<a href="https://ieeexplore.ieee.org/abstract/document/9006403">IEEE Link</a>]</li>
 <li>C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner. Learning Temporal Relevance in Longitudinal Medical Notes. In Proc. of <b>IEEE BigData, 2019</b>. [<a href="https://ieeexplore.ieee.org/abstract/document/9006400">IEEE Link</a>]</li>
-<li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Adaptive-Halting Policy Network for Early Classification. In Proc. of <b>KDD, 2019</b>. Research track, acceptance rate: 14.2%. [<a href="https://dl.acm.org/authorize.cfm?key=N688339">ACM Paper Link</a>] [<a href="files/kdd19.pdf">pdf</a>] [<a href="https://github.com/Thartvigsen/EARLIEST">code</a>] [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]</li>
+<li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Adaptive-Halting Policy Network for Early Classification. In Proc. of <b>KDD, 2019</b>. Research track, acceptance rate: 14.2%. [<a href="https://dl.acm.org/authorize.cfm?key=N688339">ACM Paper Link</a>] [<a href="papers/kdd19.pdf">pdf</a>] [<a href="https://github.com/Thartvigsen/EARLIEST">code</a>] [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]</li>
 <li>D. Johnston, L. Klindziuk, L. Nazarov, <b>T. Hartvigsen</b>, E. Rundensteiner. Early Diagnosis Prediction with Recurrent Neural Networks. In Proc. of <b>IEEE URTC, 2019</b>.</li>
-<li>J. Thadajarassiri, C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. In Proc. of <b>IEEE BHI, 2019</b>. [<a href="files/bhi19.pdf">pdf</a>]</li>
+<li>J. Thadajarassiri, C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner. Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining. In Proc. of <b>IEEE BHI, 2019</b>. [<a href="papers/bhi19.pdf">pdf</a>]</li>
 <li>J. Friend, A. Hauck, S. Kurada, C. Sen, <b>T. Hartvigsen</b>, E. Rundensteiner. Handling Missing Values in Multivariate Time Series Classification. In Proc. of <b>IEEE URTC, 2018</b>.</li>
 <li><b>T. Hartvigsen</b>, C. Sen, E. Rundensteiner. Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data. <b>Communications in Computer and Information Science, Volume 1024, 2018</b>. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21">pdf</a>]</li>
 <li><b>T. Hartvigsen</b>, C. Sen, S. Brownell, E. Teeple, X. Kong, E. Rundensteiner. Early Prediction of MRSA Infections using Electronic Health Records. In Proc. of <b>HEALTHINF, 2018</b>. Shortlisted for Best Student Paper. [<a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">pdf</a>]</li>
