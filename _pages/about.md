@@ -19,7 +19,7 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 - Email: twhartvigsen 'at' wpi 'dot' edu.
 
 ### News
-<ul style="margin-bottom: 5px;">
+<ul style="margin-bottom: 1px;">
 <li> June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New KDD paper on Early Multi-label Classification.</li>
 <li> April 04, 2020: New ACL paper on the <a href="files/acl20.pdf">Interpretability of Attention Mechanisms for classification</a>.</li>
