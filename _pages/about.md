@@ -29,7 +29,7 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 <li> Oct 16, 2019: Two new papers at IEEE BigData on classifying series of clinical note series and trainable decay in attention mechanisms for clinical notes.</li>
 <li> Sep 16, 2019: Talk at University of Minnesota on Early Classification.</li>
 <li> May 10, 2019: Talk at Northeastern University's New England Machine Learning day poster session.</li>
-<li> April 29, 2019: New KDD paper on <a href="files/kdd19.pdf">Early Classificaiton</a>.</li>
+<li> April 29, 2019: New KDD paper on <a href="files/kdd19.pdf">Early Classification</a>.</li>
 </small>
 </ul>
 
@@ -40,7 +40,7 @@ I am interested in sequence modeling, or building vector representations that ca
 Please feel free to contact me with questions regarding my research or our program at WPI. I would be happy to go into much more detail on my research one-on-one.
 
 ### Selected Publications
-<ul style="list-style: none; background-color: #f8f9f9; margin: 20px;">
+<ul style="list-style: none; background-color: #f8f9f9; margin: 20px 0; border-radius: 4px;">
 <small>
 <li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain/blob/master/README.md">code</a>]</li>
 <li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? In Proc. of <b>ACL, 2020</b>. [<a href="files/acl20.pdf">pdf</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
