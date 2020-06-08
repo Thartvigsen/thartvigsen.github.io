@@ -40,7 +40,7 @@ I am interested in sequence modeling, or building vector representations that ca
 Please feel free to contact me with questions regarding my research or our program at WPI. I would be happy to go into much more detail on my research one-on-one.
 
 ### Selected Publications
-<ul style="list-style: none; background-color: #f8f9f9; border-radius: 4px; margin: 20px 0;">
+<ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
 <small>
 <li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain/blob/master/README.md">code</a>]</li>
 <li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? In Proc. of <b>ACL, 2020</b>. [<a href="files/acl20.pdf">pdf</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
