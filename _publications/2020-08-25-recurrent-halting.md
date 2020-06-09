@@ -26,7 +26,6 @@ proposed Recurrent Halting Chain.
   title={Recurrent Halting Chain for Early Multi-label Classification},
   author={Hartvigsen, Thomas and Sen, Cansu and Kong, Xiangnan and Rundensteiner, Elke},
   booktitle={Proceedings of the 26th ACM SIGKDD international conference on Knowledge discovery and data mining},
-  pages={101--110},
   year={2020},
   organization={ACM}
 }
