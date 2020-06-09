@@ -21,7 +21,7 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 <ul style="margin-bottom: 5px;">
 <small>
 <li> June 04, 2020: Talk at FSU on Early Classification.</li>
-<li> May 15, 2020: New KDD paper on Early Multi-label Classification.</li>
+<li> May 15, 2020: New KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
 <li> April 04, 2020: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
 <li> Feb 26, 2020: New HEALTHINF paper on interpretable machine learning for C. Diff. Won best poster.</li>
 <li> Nov 19, 2019: Talk at WPI Colloquium on Selective Neuron Activation in RNNs.</li>
@@ -41,7 +41,7 @@ Please feel free to contact me with questions regarding my research or our progr
 ### Selected Publications
 <ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
 <small>
-<li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]</li>
+<li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="papers/kdd20.pdf">pdf</a>] [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]</li>
 <li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? In Proc. of <b>ACL, 2020</b>. [<a href="papers/acl20.pdf">pdf</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
 <li>E. Teeple, <b>T. Hartvigsen</b>, C. Sen, K. Claypool, E. Rundensteiner. Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection. In Proc. of <b>HEALTHINF, 2020</b>. [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">Paper Link</a>]</li>
 <li>C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner. Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention. In Proc. of <b>IEEE BigData, 2019</b>. [<a href="https://ieeexplore.ieee.org/abstract/document/9006403">IEEE Link</a>]</li>
