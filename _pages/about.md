@@ -22,9 +22,9 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 <small>
 <li> June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New KDD paper on Early Multi-label Classification.</li>
-<li> April 04, 2020: New ACL paper on the <a href="papers/acl20.pdf">Interpretability of Attention Mechanisms for classification</a>.</li>
-<li> Feb 26, 2020: New HEALTHINF paper on interpretability in C. Diff. predictions with machine learning won best poster.</li>
-<li> Nov 19, 2019: Talk at WPI on Selective Neuron Activation in RNNs.</li>
+<li> April 04, 2020: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
+<li> Feb 26, 2020: New HEALTHINF paper on interpretable machine learning for C. Diff. Won best poster.</li>
+<li> Nov 19, 2019: Talk at WPI Colloquium on Selective Neuron Activation in RNNs.</li>
 <li> Oct 16, 2019: Two new papers at IEEE BigData on classifying series of clinical note series and trainable decay in attention mechanisms for clinical notes.</li>
 <li> Sep 16, 2019: Talk at University of Minnesota on Early Classification.</li>
 <li> May 10, 2019: Talk at Northeastern University's New England Machine Learning day poster session.</li>
