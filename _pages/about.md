@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) in the Data Science program, a part of the Computer Science department. I work on a variety of sequence modeling problems, often motivated by healthcare applications.
+Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) in the Data Science program, a part of the Computer Science department. I am looking to combine reinforcement learning with sequence modeling to train computers to perceive the world like humans do and solve problems in healthcare and sustainability.
 
 <!---
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
