@@ -34,9 +34,9 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 
 ### Interests
 
-I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves some form of *conditional computing in RNNs*. I have also had the pleasure of advising many NSF-funded REU students over the summers on some research involving missing values in clinical time series and sequential diagnosis prediction using RNNs. On the [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail. I am also interested in applications to problems of human health and sustainability (particularly wildlife conservation).
+I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves Reinforcement Learning. On my [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail. I am also interested in applications to problems of human health and sustainability (particularly conservation biology).
 
-Please feel free to contact me with questions regarding my research or our program at WPI. I would be happy to go into much more detail on my research one-on-one.
+Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
 
 ### Selected Publications
 <ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
