@@ -10,9 +10,15 @@ Attention mechanisms have dramatically improved the accuracy of recent RNN-based
 
 ```
 @inproceedings{sen2020human,
-  title={Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?},
-  author={Sen, Cansu and Hartvigsen, Thomas and Yin, Biao and Kong, Xiangnan and Rundensteiner, Elke},
-  booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
-  year={2020}
+    title = "Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?",
+    author = "Sen, Cansu  and
+      Hartvigsen, Thomas  and
+      Yin, Biao  and
+      Kong, Xiangnan  and
+      Rundensteiner, Elke",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+    pages = "4596--4608"
 }
 ```
