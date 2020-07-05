@@ -69,8 +69,6 @@ Please feel free to contact me with questions regarding my research or our progr
 
 <ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
   <li>
-  <i class="fa-li fa fa-file-text-o"></i>
-
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
 
   <div style="color:blue">
