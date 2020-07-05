@@ -73,7 +73,7 @@ Please feel free to contact me with questions regarding my research or our progr
 
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
 
-  <div>
+  <div style="color:blue">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner
   </div>
 
