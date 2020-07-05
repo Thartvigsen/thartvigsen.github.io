@@ -17,28 +17,6 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 
 My CV can be found [here](/files/hartvigsen_cv.pdf).
 
-<div class="row">
-	<div class="column">
-		<h3>Interests</h3>
-        <ul>
-          <li>Time series modelling</li>
-          <li>Recurrent Neural Networks</li>
-          <li>Early Classification</li>
-          <li>Healthcare applications</li>
-        </ul>
-	</div>
-
-	<div class="column" style="right;">
-		<h3>Education</h3>
-        <ul>
-          <li>Time series modelling</li>
-          <li>Recurrent Neural Networks</li>
-          <li>Early Classification</li>
-          <li>Healthcare applications</li>
-        </ul>
-	</div>
-</div>
-
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
@@ -55,8 +33,16 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
 </ul>
 
 ### Interests
+<ul style="margin-bottom: 5px;">
+<small>
+  <li>Time series modelling</li>
+  <li>Recurrent Neural Networks</li>
+  <li>Early Classification</li>
+  <li>Healthcare applications</li>
+</small>
+</ul>
 
-I am interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves Reinforcement Learning. On my [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail. I am also interested in applications to problems of human health and sustainability (particularly conservation biology).
+I am generally interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves Reinforcement Learning. On my [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail. I am also interested in applications to problems of human health and sustainability (particularly conservation biology).
 
 Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
 
