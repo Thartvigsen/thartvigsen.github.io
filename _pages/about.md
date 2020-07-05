@@ -18,7 +18,7 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 My CV can be found [here](/files/hartvigsen_cv.pdf).
 
 <div class="row">
-	<div class="col-sm-5">
+	<div class="column">
 		<h3>Interests</h3>
         <ul>
           <li>Time series modelling</li>
@@ -28,7 +28,7 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
         </ul>
 	</div>
 
-	<div class="col-sm-5">
+	<div class="column">
 		<h3>Education</h3>
         <ul>
           <li>Time series modelling</li>
