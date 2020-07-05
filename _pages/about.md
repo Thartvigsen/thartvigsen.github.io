@@ -71,11 +71,11 @@ Please feel free to contact me with questions regarding my research or our progr
   <li>
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
 
-  <div style="color:blue">
+  <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner
   </div>
 
-  <div>
+  <div style="color:#8fbcbb">
   <strong>KDD, 2020</strong>. Research track, acceptance rate: 16.9%.
   </div>
 
