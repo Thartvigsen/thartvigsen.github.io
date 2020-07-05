@@ -28,7 +28,7 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
         </ul>
 	</div>
 
-	<div class="column">
+	<div class="column" style="right;">
 		<h3>Education</h3>
         <ul>
           <li>Time series modelling</li>
