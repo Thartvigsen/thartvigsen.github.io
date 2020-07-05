@@ -15,7 +15,29 @@ Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute advised by [Elke Ru
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 -->
 
-[CV](/files/hartvigsen_cv.pdf)
+My CV can be found [here](/files/hartvigsen_cv.pdf).
+
+<div class="row">
+	<div class="col-sm-5">
+		<h3>Interests</h3>
+        <ul>
+          <li>Time series modelling</li>
+          <li>Recurrent Neural Networks</li>
+          <li>Early Classification</li>
+          <li>Healthcare applications</li>
+        </ul>
+	</div>
+
+	<div class="col-sm-5">
+		<h3>Education</h3>
+        <ul>
+          <li>Time series modelling</li>
+          <li>Recurrent Neural Networks</li>
+          <li>Early Classification</li>
+          <li>Healthcare applications</li>
+        </ul>
+	</div>
+</div>
 
 ### News
 <ul style="margin-bottom: 5px;">
