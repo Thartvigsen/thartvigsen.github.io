@@ -75,7 +75,7 @@ Please feel free to contact me with questions regarding my research or our progr
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner
   </div>
 
-  <div style="color:#8fbcbb">
+  <div style="color:#a3be8c">
   <strong>KDD, 2020</strong>. Research track, acceptance rate: 16.9%.
   </div>
 
