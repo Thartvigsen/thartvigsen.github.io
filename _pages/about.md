@@ -225,7 +225,7 @@ Please feel free to contact me with questions regarding my research or our progr
   </div>
 
   <div style="color:#a3be8c">
-  <strong>HEALTHINF</strong> 2018. Best student paper short list.
+  <strong>HEALTHINF, 2018</strong>. Best student paper short list.
   </div>
 
   <div>
