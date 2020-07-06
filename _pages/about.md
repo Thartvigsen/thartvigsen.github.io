@@ -186,9 +186,6 @@ Please feel free to contact me with questions regarding my research or our progr
 
   <div>
   [<a href="papers/bhi19.pdf">pdf</a>]
-  [<a href="https://dl.acm.org/doi/10.1145/3292500.3330974?cid=99659453882">link</a>]
-  [<a href="https://github.com/Thartvigsen/EARLIEST">code</a>]
-  [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]
   </div>
   </li>
 
