@@ -70,7 +70,6 @@ Please feel free to contact me with questions regarding my research or our progr
 <ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
   <li>
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
-
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner
   </div>
@@ -82,8 +81,26 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="papers/kdd20.pdf">pdf</a>] [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
   </div>
-
   </li>
+
+  <li>
+  <h3 itemprop="name">Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?</h3>
+  <div style="color:#5e81ac">
+  C. Sen, <strong>T. Hartvigsen</strong>, B. Yin, X. Kong, E. Rundensteiner
+  </div>
+
+  <div style="color:#a3be8c">
+  <strong>ACL, 2020</strong>.
+  </div>
+
+  <div>
+  [<a href="papers/acl20.pdf">pdf</a>]
+  [<a href="https://www.aclweb.org/anthology/2020.acl-main.419/">link</a>]
+  [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>]
+  </div>
+  </li>
+
+  <li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? In Proc. of <b>ACL, 2020</b>. [<a href="papers/acl20.pdf">pdf</a>] [<a href="https://www.aclweb.org/anthology/2020.acl-main.419/">ACL link</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
 
   <li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="papers/kdd20.pdf">pdf</a>] [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]</li>
   <li>C. Sen, <b>T. Hartvigsen</b>, B. Yin, X. Kong, E. Rundensteiner. Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words? In Proc. of <b>ACL, 2020</b>. [<a href="papers/acl20.pdf">pdf</a>] [<a href="https://www.aclweb.org/anthology/2020.acl-main.419/">ACL link</a>] [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>].</li>
