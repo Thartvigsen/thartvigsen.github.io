@@ -216,7 +216,7 @@ Please feel free to contact me with questions regarding my research or our progr
   </li>
 
   <li>
-  <h3 itemprop="name">Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data</h3>
+  <h3 itemprop="name">Early Prediction of MRSA Infections using Electronic Health Records</h3>
   <div style="color:#5e81ac">
   <b>T. Hartvigsen</b>, C. Sen, S. Brownell, E. Teeple, X. Kong, E. Rundensteiner.
   </div>
