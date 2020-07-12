@@ -90,7 +90,7 @@ Please feel free to contact me with questions regarding my research or our progr
   </div>
 
   <div style="color:#a3be8c">
-  <strong>ACL, 2020</strong>.
+  <strong>ACL, 2020</strong>. Long paper, acceptance rate: 17.6%.
   </div>
 
   <div>
