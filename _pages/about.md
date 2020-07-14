@@ -42,7 +42,7 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
 </small>
 </ul>
 
-I am generally interested in sequence modeling, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves Reinforcement Learning. On my [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail. I am also interested in applications to problems of human health and sustainability (particularly conservation biology).
+I am generally interested in sequential representation learning, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves Reinforcement Learning. On my [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail. I am also interested in applications to problems of human health and sustainability (particularly conservation biology).
 
 Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
 
