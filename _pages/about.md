@@ -20,6 +20,7 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
+<li> July 17, 2020: New CIKM paper on Conditional Computation in RNNs.</li>
 <li> June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
 <li> April 04, 2020: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
@@ -68,7 +69,18 @@ Please feel free to contact me with questions regarding my research or our progr
 -->
 
 <ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
-  <li>
+ <li>
+  <h3 itemprop="name">Learning to Selectively Update State Neurons in Recurrent Networks</h3>
+  <div style="color:#5e81ac">
+  <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
+  </div>
+
+  <div style="color:#a3be8c">
+  <strong>CIKM, 2020</strong>.
+  </div>
+ </li>
+
+ <li>
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
@@ -81,9 +93,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="papers/kdd20.pdf">pdf</a>] [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?</h3>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, B. Yin, X. Kong, E. Rundensteiner.
@@ -98,9 +110,9 @@ Please feel free to contact me with questions regarding my research or our progr
   [<a href="https://www.aclweb.org/anthology/2020.acl-main.419/">link</a>]
   [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection</h3>
   <div style="color:#5e81ac">
   E. Teeple, <strong>T. Hartvigsen</strong>, C. Sen, K. Claypool, E. Rundensteiner.
@@ -113,9 +125,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">Paper Link</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention</h3>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner. 
@@ -128,9 +140,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="https://ieeexplore.ieee.org/abstract/document/9006403">Link</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Learning Temporal Relevance in Longitudinal Medical Notes</h3>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner. 
@@ -143,9 +155,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="https://ieeexplore.ieee.org/abstract/document/9006400">Link</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Adaptive-Halting Policy Network for Early Classification</h3>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner. 
@@ -161,9 +173,9 @@ Please feel free to contact me with questions regarding my research or our progr
   [<a href="https://github.com/Thartvigsen/EARLIEST">code</a>]
   [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Early Diagnosis Prediction with Recurrent Neural Networks</h3>
   <div style="color:#5e81ac">
   D. Johnston, L. Klindziuk, L. Nazarov, <b>T. Hartvigsen</b>, E. Rundensteiner.
@@ -172,9 +184,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div style="color:#a3be8c">
   <strong>IEEE URTC, 2019</strong>.
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining</h3>
   <div style="color:#5e81ac">
   J. Thadajarassiri, C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
@@ -187,9 +199,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="papers/bhi19.pdf">pdf</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Handling Missing Values in Multivariate Time Series Classification</h3>
   <div style="color:#5e81ac">
   J. Friend, A. Hauck, S. Kurada, C. Sen, <b>T. Hartvigsen</b>, E. Rundensteiner.
@@ -198,9 +210,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div style="color:#a3be8c">
   <strong>IEEE URTC, 2018</strong>.
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data</h3>
   <div style="color:#5e81ac">
   <b>T. Hartvigsen</b>, C. Sen, E. Rundensteiner.
@@ -213,9 +225,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21">link</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">Early Prediction of MRSA Infections using Electronic Health Records</h3>
   <div style="color:#5e81ac">
   <b>T. Hartvigsen</b>, C. Sen, S. Brownell, E. Teeple, X. Kong, E. Rundensteiner.
@@ -228,9 +240,9 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">pdf</a>]
   </div>
-  </li>
+ </li>
 
-  <li>
+ <li>
   <h3 itemprop="name">CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining</h3>
   <div style="color:#5e81ac">
   C. Sen, <b>T. Hartvigsen</b>, K. Claypool, E. Rundensteiner.
@@ -243,7 +255,7 @@ Please feel free to contact me with questions regarding my research or our progr
   <div>
   [<a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">link</a>]
   </div>
-  </li>
+ </li>
 </ul>
 
 ### Personal
