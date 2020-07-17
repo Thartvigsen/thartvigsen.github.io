@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **July 17, 2020: CIKM paper accepted** - Our paper *Learning to Selectively Update State Neurons in Recurrent Networks* was accepted at **CIKM 2020**!
 - **June 04, 2020: Talk at FSU**
 - **May 15, 2020: KDD paper accepted** - Our paper *Recurrent Halting Chain for Early Multi-label Classification* was accepted at **KDD 2020**!
 - **April 4, 2020: ACL paper accepted** - Our paper *Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?* was accepted at **ACL 2020**!
