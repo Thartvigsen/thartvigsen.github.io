@@ -76,7 +76,7 @@ Please feel free to contact me with questions regarding my research or our progr
   </div>
 
   <div style="color:#a3be8c">
-  <strong>CIKM, 2020</strong>.
+  <strong>CIKM, 2020</strong>. Research track.
   </div>
  </li>
 
