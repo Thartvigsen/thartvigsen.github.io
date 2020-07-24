@@ -22,7 +22,7 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
-<li> July 17, 2020: New CIKM paper on Conditional Computation in RNNs.</li>
+<li> July 17, 2020: New CIKM paper on <a href="papers/cikm20.pdf">Conditional Computation in RNNs</a>.</li>
 <li> June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
 <li> April 04, 2020: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
@@ -79,6 +79,10 @@ Please feel free to contact me with questions regarding my research or our progr
 
   <div style="color:#a3be8c">
   <strong>CIKM, 2020</strong>. Research track.
+  </div>
+  
+  <div>
+  [<a href="papers/cikm20.pdf">pdf</a>] [<a href="https://github.com/thartvigsen/sarnn">code</a>]
   </div>
  </li>
 
