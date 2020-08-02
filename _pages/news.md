@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **August 1, 2020: Award** - I am extremely grateful to have been awarded the KDD Travel Grant this year from ACM and the NSF.
 - **July 17, 2020: CIKM paper accepted** - Our paper *Learning to Selectively Update State Neurons in Recurrent Networks* was accepted at **CIKM 2020**!
 - **June 04, 2020: Talk at FSU**
 - **May 15, 2020: KDD paper accepted** - Our paper *Recurrent Halting Chain for Early Multi-label Classification* was accepted at **KDD 2020**!
