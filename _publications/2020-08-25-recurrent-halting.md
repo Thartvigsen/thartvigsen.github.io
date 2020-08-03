@@ -6,20 +6,20 @@ venue: KDD
 date: 2020-08-25
 ---
 
-Early Multi-label Classification is the marriage of the Early Classification and
-Multi-label Classification problems. Early Classification is the goal of
-classifying time series while using as few timesteps as possible. Multi-label
-classification is the goal of predicting a set of labels for each instance. The
-problem of Early Multi-label Classification is to both predict each label in the
-label set as early as possible while concurrently modeling the dependencies
-between labels themselves.
-This setting is extremely important in settings such as diagnosis, where a
-person may have multiple ailments concurrently and their set of ailments often
-come in groups (for instance, if a person has diabetes, there is a larger chance
-that they have heart disease than bone spurs).  We solve this problem using a
-novel combination of Classifier Chains for multi-label classification and
-Adaptive-Halting Policy Networks for early classification, resulting in our
-proposed Recurrent Halting Chain.
+Early Multi-label Classification of the Time Series is the task of predicting a
+label set for a time series instance while observing as few time steps per
+class as possible. This is extremely important in time-sensitive domains such
+as healthcare, finance, and weather prediction. A key example of this setting
+is in Clinical Diagnosis: Given a patient's physiological stream, predict their
+set of conditions. The key challenge/opportunity in this problem is to use the
+correlations between labels to predict more-accurate label sets earlier. We
+propose the first solution to this open problem, combining a recurrent neural
+network, classifier chain, and reinforcement-learning based halting policy
+network. At every time step, the model chooses whether or not to halt and
+predict each class. Once a label is predicted, it is added to a growing set of
+already-predicted labels which is fed back into the model itself, serving as a
+classifier chain. We validate our approach using human activity recognition
+data.
 
 ```
 @inproceedings{hartvigsen2020recurrent,
