@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) in the Data Science program, a part of the Computer Science department.
-I am developing deep learning methods for time series data mining/machine learning and am interested in applications in healthcare and sustainability.
+I am developing deep learning and reinforcement learning methods for time series data mining/machine learning and am interested in applications in healthcare and sustainability.
 I have also worked on natural language processing and explainability for machine learning.
 Generally I use recurrent neural networks combined with reinforcement learning to solve time series classification problems.
 
