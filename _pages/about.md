@@ -98,7 +98,9 @@ Please feel free to contact me with questions regarding my research or our progr
   </div>
 
   <div>
-  [<a href="papers/kdd20.pdf">pdf</a>] [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
+  [<a href="papers/kdd20.pdf">pdf</a>]
+  [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
+  [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">KDD Poster Video</a>]
   </div>
  </li>
 
