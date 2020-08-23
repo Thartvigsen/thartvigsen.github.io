@@ -99,6 +99,7 @@ Please feel free to contact me with questions regarding my research or our progr
 
   <div>
   [<a href="papers/kdd20.pdf">pdf</a>]
+  [<a href="https://dl.acm.org/doi/10.1145/3394486.3403191">link</a>]
   [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
   [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">KDD Poster Video</a>]
   </div>
