@@ -13,7 +13,9 @@ Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute advised by [Elke Ru
 I am developing deep learning and reinforcement learning methods for time series data mining/machine learning and am interested in applications in healthcare and sustainability.
 I have published several papers at top data mining and machine learning conferences and have been fortunate to collaborate with some wonderful people on a wide variety of topics including NLP and explainability.
 
+<!--
 I am actively seeking post-doc positions starting in 2021.
+-->
 <!---
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 -->
