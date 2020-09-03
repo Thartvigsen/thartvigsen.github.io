@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) in the Data Science program, a part of the Computer Science department.
+Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute in the [DAISY Lab](daisy.wpi.edu) advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) in the Data Science program, a part of the Computer Science department.
 I am developing deep learning and reinforcement learning methods for time series data mining/machine learning and am interested in applications in healthcare and sustainability.
 I have published several papers at top data mining and machine learning conferences and have been fortunate to collaborate with some wonderful people on a wide variety of topics including NLP and explainability.
 
