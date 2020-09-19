@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **September 19, 2020** - I will be attending the Computational Sustainability Doctoral Consortium in October.
 - **September 1, 2020: Award** - I am extremely grateful to have been awarded the CIKM Travel Grant this year from ACM. See you "there"!
 - **August 31, 2020: Program Committee** - I have been asked to serve on the program committee for AAAI 2021.
 - **August 1, 2020: Award** - I am extremely grateful to have been awarded the KDD Travel Grant this year from ACM and the NSF.
