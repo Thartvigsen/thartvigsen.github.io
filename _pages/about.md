@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I'm a Ph.D. candidate at Worcester Polytechnic Institute in the [DAISY Lab](http://daisy.wpi.edu) advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) in the Data Science program, a part of the Computer Science department.
+Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu) advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 I am developing deep learning and reinforcement learning methods for time series data mining/machine learning and am interested in applications in healthcare and sustainability.
 I have published several papers at top data mining and machine learning conferences and have been fortunate to collaborate with some wonderful people on a wide variety of topics including NLP and explainability.
 
@@ -29,26 +29,22 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
 <li> June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New first-author KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
 <li> April 04, 2020: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
-<li> Feb 26, 2020: New HEALTHINF paper on <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">interpretable machine learning for C. Diff. detection</a>. Won best poster.</li>
-<li> Nov 19, 2019: Talk at WPI Colloquium on Conditional Computation in RNNs.</li>
-<li> Oct 16, 2019: Two new papers at IEEE BigData on <a href="https://ieeexplore.ieee.org/abstract/document/9006403">hierarchical RNNs for classifying series of clinical notes</a> and <a href="https://ieeexplore.ieee.org/abstract/document/9006400">trainable decay in attention mechanisms for clinical notes</a>.</li>
-<li> Sep 16, 2019: Talk at University of Minnesota on Early Classification.</li>
-<li> May 10, 2019: Talk at Northeastern University's New England Machine Learning day poster session.</li>
-<li> April 29, 2019: New first-author KDD paper on <a href="papers/kdd19.pdf">Early Classification</a>.</li>
 </small>
 </ul>
 
 ### Interests
 <ul style="margin-bottom: 5px;">
 <small>
-  <li>Time series modelling</li>
+  <li>Time series modeling</li>
   <li>Recurrent Neural Networks</li>
   <li>Early Classification</li>
-  <li>Healthcare applications</li>
+  <li>Healthcare/sustainability applications</li>
 </small>
 </ul>
 
+<!--
 I am generally interested in sequential representation learning, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves Recurrent Neural Networks and Reinforcement Learning. On my [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail. I am also interested in applications to problems of human health and sustainability (particularly conservation biology).
+-->
 
 Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
 
