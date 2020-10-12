@@ -22,9 +22,12 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 
 My CV can be found [here](/files/hartvigsen_cv.pdf).
 
+Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
+
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
+<li> September 17, 2020: Talk at Harvard.</li>
 <li> July 17, 2020: New first-author CIKM paper on <a href="papers/cikm20.pdf">Conditional Computation in RNNs</a>.</li>
 <li> June 04, 2020: Talk at FSU on Early Classification.</li>
 <li> May 15, 2020: New first-author KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
@@ -46,7 +49,6 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
 I am generally interested in sequential representation learning, or building vector representations that capture relevant temporal dynamics in sequential data such as time series or text. So far, I have studied and published on early classification, clinical note classification, attention mechanisms for RNNs, meta word embeddings, interpretable machine learning, and irregularly-sampled time series. Much of my work involves Recurrent Neural Networks and Reinforcement Learning. On my [Publications](https://thartvigsen.github.io/publications/) page I describe some of my representative research in more detail. I am also interested in applications to problems of human health and sustainability (particularly conservation biology).
 -->
 
-Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
 
 ### Publications
 
