@@ -27,11 +27,11 @@ Please feel free to contact me with questions regarding my research or our progr
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
-<li> September 17, 2020: Talk at Harvard.</li>
-<li> July 17, 2020: New first-author CIKM paper on <a href="papers/cikm20.pdf">Conditional Computation in RNNs</a>.</li>
-<li> June 04, 2020: Talk at FSU on Early Classification.</li>
-<li> May 15, 2020: New first-author KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
-<li> April 04, 2020: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
+<li> September 17: Talk at Harvard.</li>
+<li> July 17: New first-author CIKM paper on <a href="papers/cikm20.pdf">Conditional Computation in RNNs</a>.</li>
+<li> June 04: Talk at FSU on Early Classification.</li>
+<li> May 15: New first-author KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
+<li> April 04: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
 </small>
 </ul>
 
