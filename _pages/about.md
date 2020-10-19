@@ -27,6 +27,7 @@ Please feel free to contact me with questions regarding my research or our progr
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
+<li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
 <li> Sept 17: Talk at Harvard.</li>
 <li> July 17: New first-author CIKM paper on <a href="papers/cikm20.pdf">Conditional Computation in RNNs</a>.</li>
 <li> June 4: Talk at FSU.</li>
@@ -99,7 +100,10 @@ I am generally interested in sequential representation learning, or building vec
 
   <div>
   [<a href="papers/kdd20.pdf">pdf</a>]
-  [<a href="https://dl.acm.org/doi/10.1145/3394486.3403191">link</a>]
+  [<a href="https://dl.acm.org/doi/10.1145/3394486.3403191?cid=99659453882">link</a>]
+  <!--
+  https://dl.acm.org/doi/10.1145/3394486.3403191[<a href="https://dl.acm.org/doi/10.1145/3394486.3403191">link</a>]
+  -->
   [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
   [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">KDD Poster Video</a>]
   </div>
