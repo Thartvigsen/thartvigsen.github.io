@@ -75,6 +75,7 @@ I am generally interested in sequential representation learning, or building vec
 
 <ul style="list-style: none; border-radius: 8px; margin: 20px 0;">
  <li>
+  <span class="fa-li"><i class="far fa-square"></i></span>
   <h3 itemprop="name">Learning Similarity-Preserving Meta-Embedding for Text Mining</h3>
   <div style="color:#5e81ac">
   J. Thadajarassiri, C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
