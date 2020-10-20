@@ -86,7 +86,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
  </li>
 
- <li style="margin: 0; padding: 16px 0 16px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 20px;">
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 20px;">
   <h3 itemprop="name">Learning to Selectively Update State Neurons in Recurrent Networks</h3>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
