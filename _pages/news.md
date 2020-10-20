@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **October 20, 2020** - I am excited to announce our paper *Learning Similarity-Preserving Meta-Embedding for Text Mining* was accepted at **IEEE BigData 2020**!
 - **September 19, 2020** - I will be attending the Computational Sustainability Doctoral Consortium in October.
 - **September 1, 2020: Award** - I am extremely grateful to have been awarded the CIKM Travel Grant this year from ACM. See you "there"!
 - **August 31, 2020: Program Committee** - I have been asked to serve on the program committee for AAAI 2021.
