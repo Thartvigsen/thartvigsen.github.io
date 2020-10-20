@@ -74,7 +74,7 @@ I am generally interested in sequential representation learning, or building vec
 <ul style="list-style: none; border-radius: 8px; margin: 20px 0;">
 -->
 
-<ul style="list-style-image: url('images/paper_icon.png'); border-radius: 8px; margin: 20px 0;">
+<ul style="border-radius: 8px; margin: 20px 0;">
  <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Learning Similarity-Preserving Meta-Embedding for Text Mining</h3>
   <div style="color:#5e81ac">
@@ -86,7 +86,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
  </li>
 
- <li>
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Learning to Selectively Update State Neurons in Recurrent Networks</h3>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
@@ -101,7 +101,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
  </li>
 
- <li>
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
@@ -122,7 +122,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
  </li>
 
- <li>
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?</h3>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, B. Yin, X. Kong, E. Rundensteiner.
@@ -139,7 +139,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
  </li>
 
- <li>
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection</h3>
   <div style="color:#5e81ac">
   E. Teeple, <strong>T. Hartvigsen</strong>, C. Sen, K. Claypool, E. Rundensteiner.
@@ -153,8 +153,8 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">Paper Link</a>]
   </div>
  </li>
-
- <li>
+ 
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention</h3>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner. 
@@ -168,8 +168,8 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="https://ieeexplore.ieee.org/abstract/document/9006403">Link</a>]
   </div>
  </li>
-
- <li>
+ 
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Learning Temporal Relevance in Longitudinal Medical Notes</h3>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner. 
@@ -183,8 +183,8 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="https://ieeexplore.ieee.org/abstract/document/9006400">Link</a>]
   </div>
  </li>
-
- <li>
+ 
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Adaptive-Halting Policy Network for Early Classification</h3>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner. 
@@ -201,8 +201,8 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]
   </div>
  </li>
-
- <li>
+ 
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Early Diagnosis Prediction with Recurrent Neural Networks</h3>
   <div style="color:#5e81ac">
   D. Johnston, L. Klindziuk, L. Nazarov, <b>T. Hartvigsen</b>, E. Rundensteiner.
@@ -212,8 +212,8 @@ I am generally interested in sequential representation learning, or building vec
   <strong>IEEE URTC, 2019</strong>.
   </div>
  </li>
-
- <li>
+ 
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining</h3>
   <div style="color:#5e81ac">
   J. Thadajarassiri, C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
@@ -227,8 +227,8 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="papers/bhi19.pdf">pdf</a>]
   </div>
  </li>
-
- <li>
+ 
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Handling Missing Values in Multivariate Time Series Classification</h3>
   <div style="color:#5e81ac">
   J. Friend, A. Hauck, S. Kurada, C. Sen, <b>T. Hartvigsen</b>, E. Rundensteiner.
@@ -238,8 +238,8 @@ I am generally interested in sequential representation learning, or building vec
   <strong>IEEE URTC, 2018</strong>.
   </div>
  </li>
-
- <li>
+ 
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data</h3>
   <div style="color:#5e81ac">
   <b>T. Hartvigsen</b>, C. Sen, E. Rundensteiner.
@@ -253,8 +253,8 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21">link</a>]
   </div>
  </li>
-
- <li>
+ 
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">Early Prediction of MRSA Infections using Electronic Health Records</h3>
   <div style="color:#5e81ac">
   <b>T. Hartvigsen</b>, C. Sen, S. Brownell, E. Teeple, X. Kong, E. Rundensteiner.
@@ -269,7 +269,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
  </li>
 
- <li>
+ <li style="margin: 0; padding: 36px 0 36px 84px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left center; background-size: 40px;">
   <h3 itemprop="name">CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining</h3>
   <div style="color:#5e81ac">
   C. Sen, <b>T. Hartvigsen</b>, K. Claypool, E. Rundensteiner.
