@@ -83,10 +83,6 @@ I am generally interested in sequential representation learning, or building vec
   <div style="color:#a3be8c">
   <strong>IEEE BigData, 2020</strong>. Long paper, acceptance rate: 15.5%.
   </div>
-  
-  <div>
-  [<a href="papers/cikm20.pdf">pdf</a>] [<a href="https://github.com/thartvigsen/sarnn">code</a>]
-  </div>
  </li>
 
  <li>
