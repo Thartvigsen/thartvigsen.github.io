@@ -75,6 +75,21 @@ I am generally interested in sequential representation learning, or building vec
 
 <ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
  <li>
+  <h3 itemprop="name">Learning Similarity-Preserving Meta-Embedding for Text Mining</h3>
+  <div style="color:#5e81ac">
+  J. Thadajarassiri, C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
+  </div>
+
+  <div style="color:#a3be8c">
+  <strong>IEEE BigData, 2020</strong>. Long paper, acceptance rate: 15.5%.
+  </div>
+  
+  <div>
+  [<a href="papers/cikm20.pdf">pdf</a>] [<a href="https://github.com/thartvigsen/sarnn">code</a>]
+  </div>
+ </li>
+
+ <li>
   <h3 itemprop="name">Learning to Selectively Update State Neurons in Recurrent Networks</h3>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
