@@ -71,9 +71,10 @@ I am generally interested in sequential representation learning, or building vec
 <li>C. Sen, <b>T. Hartvigsen</b>, K. Claypool, E. Rundensteiner. CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. In Proc. of <b>ECML, 2017</b>. [<a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">pdf</a>]</li>
 </small>
 </ul>background-color: #f8f9f9;
+<ul style="list-style: none; border-radius: 8px; margin: 20px 0;">
 -->
 
-<ul style="list-style: none; border-radius: 8px; margin: 20px 0;">
+<ul style="border-radius: 8px; margin: 20px 0;">
  <li>
   <span class="fa-li"><i class="far fa-square"></i></span>
   <h3 itemprop="name">Learning Similarity-Preserving Meta-Embedding for Text Mining</h3>
