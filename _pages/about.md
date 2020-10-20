@@ -150,7 +150,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
 
   <div>
-  [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">Paper Link</a>]
+  [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">link</a>]
   </div>
  </li>
  
@@ -165,7 +165,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
 
   <div>
-  [<a href="https://ieeexplore.ieee.org/abstract/document/9006403">Link</a>]
+  [<a href="https://ieeexplore.ieee.org/abstract/document/9006403">link</a>]
   </div>
  </li>
  
@@ -180,7 +180,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
 
   <div>
-  [<a href="https://ieeexplore.ieee.org/abstract/document/9006400">Link</a>]
+  [<a href="https://ieeexplore.ieee.org/abstract/document/9006400">link</a>]
   </div>
  </li>
  
