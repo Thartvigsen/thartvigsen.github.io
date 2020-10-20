@@ -70,10 +70,10 @@ I am generally interested in sequential representation learning, or building vec
 <li><b>T. Hartvigsen</b>, C. Sen, S. Brownell, E. Teeple, X. Kong, E. Rundensteiner. Early Prediction of MRSA Infections using Electronic Health Records. In Proc. of <b>HEALTHINF, 2018</b>. Shortlisted for Best Student Paper. [<a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">pdf</a>]</li>
 <li>C. Sen, <b>T. Hartvigsen</b>, K. Claypool, E. Rundensteiner. CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining. In Proc. of <b>ECML, 2017</b>. [<a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">pdf</a>]</li>
 </small>
-</ul>
+</ul>background-color: #f8f9f9;
 -->
 
-<ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
+<ul style="list-style: none; border-radius: 8px; margin: 20px 0;">
  <li>
   <h3 itemprop="name">Learning Similarity-Preserving Meta-Embedding for Text Mining</h3>
   <div style="color:#5e81ac">
