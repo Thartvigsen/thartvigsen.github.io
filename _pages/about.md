@@ -93,7 +93,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
 
   <div style="color:#a3be8c">
-  <strong>CIKM, 2020</strong>. Research track.
+  <strong>CIKM, 2020</strong>. Research track, acceptance rate: 18%.
   </div>
   
   <div>
