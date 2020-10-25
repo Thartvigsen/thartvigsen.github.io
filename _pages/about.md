@@ -27,7 +27,7 @@ Please feel free to contact me with questions regarding my research or our progr
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
-<li> Oct 20: New IEEE BigData paper on Meta Word-Embeddings.</li>
+<li> Oct 20: New IEEE BigData paper on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
 <li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
 <li> Sept 17: Talk at Harvard.</li>
 <li> July 17: New first-author CIKM paper on <a href="papers/cikm20.pdf">Conditional Computation in RNNs</a>.</li>
