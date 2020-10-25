@@ -84,6 +84,10 @@ I am generally interested in sequential representation learning, or building vec
   <div style="color:#a3be8c">
   <strong>IEEE BigData, 2020</strong>. Long paper, acceptance rate: 15.5%.
   </div>
+
+  <div>
+  [<a href="papers/bigdata20.pdf">pdf</a>]
+  </div>
  </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
