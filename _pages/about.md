@@ -124,7 +124,7 @@ I am generally interested in sequential representation learning, or building vec
   https://dl.acm.org/doi/10.1145/3394486.3403191[<a href="https://dl.acm.org/doi/10.1145/3394486.3403191">link</a>]
   -->
   [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
-  [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">KDD Poster Video</a>]
+  [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">KDD Poster Talk</a>]
   </div>
  </li>
 
@@ -142,6 +142,7 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="papers/acl20.pdf">pdf</a>]
   [<a href="https://www.aclweb.org/anthology/2020.acl-main.419/">link</a>]
   [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>]
+  [<a href="http://slideslive.com/38929024">ACL talk</a>]
   </div>
  </li>
 
