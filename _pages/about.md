@@ -10,8 +10,8 @@ redirect_from:
 
 
 Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu) advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
-I am developing deep learning and reinforcement learning methods for time series data mining/machine learning and am interested in applications in healthcare and sustainability.
-I have published several papers at top data mining and machine learning conferences and have been fortunate to collaborate with some wonderful people on a wide variety of topics including NLP and explainability.
+I am developing deep learning and reinforcement learning methods for time series data mining/machine learning and am interested in conserving wildlife and increasing the accessibility of high-quality healthcare.
+I have published several papers at top data mining and machine learning conferences and have also been fortunate enough to collaborate with some wonderful people on a wide variety of topics.
 
 <!--
 I am actively seeking post-doc positions starting in 2021.
@@ -37,10 +37,10 @@ Please feel free to contact me with questions regarding my research or our progr
 </small>
 </ul>
 
-### Interests
+### Technical Interests
 <ul style="margin-bottom: 5px;">
 <small>
-  <li>Time series modeling</li>
+  <li>Time series modeling and classification</li>
   <li>Recurrent Neural Networks</li>
   <li>Early Classification</li>
   <li>Healthcare/sustainability applications</li>
