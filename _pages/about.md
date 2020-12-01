@@ -75,37 +75,6 @@ I am generally interested in sequential representation learning, or building vec
 -->
 
 <ul style="border-radius: 8px; margin: 10px 0;">
- <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Learning Similarity-Preserving Meta-Embedding for Text Mining</h3>
-  <div style="color:#5e81ac">
-  J. Thadajarassiri, C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
-  </div>
-
-  <div style="color:#a3be8c">
-  <strong>IEEE BigData, 2020</strong>. Long paper, acceptance rate: 15.5%.
-  </div>
-
-  <div>
-  [<a href="papers/bigdata20.pdf">pdf</a>]
-  </div>
- </li>
-
- <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Learning to Selectively Update State Neurons in Recurrent Networks</h3>
-  <div style="color:#5e81ac">
-  <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
-  </div>
-
-  <div style="color:#a3be8c">
-  <strong>CIKM, 2020</strong>. Research track, acceptance rate: 18%.
-  </div>
-  
-  <div>
-  [<a href="papers/cikm20.pdf">pdf</a>]
-  [<a href="https://dl.acm.org/doi/10.1145/3340531.3412018">link</a>]
-  [<a href="https://github.com/thartvigsen/sarnn">code</a>]
-  </div>
- </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
@@ -143,6 +112,38 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="https://www.aclweb.org/anthology/2020.acl-main.419/">link</a>]
   [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>]
   [<a href="http://slideslive.com/38929024">ACL talk</a>]
+  </div>
+ </li>
+
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Learning to Selectively Update State Neurons in Recurrent Networks</h3>
+  <div style="color:#5e81ac">
+  <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
+  </div>
+
+  <div style="color:#a3be8c">
+  <strong>CIKM, 2020</strong>. Research track, acceptance rate: 18%.
+  </div>
+  
+  <div>
+  [<a href="papers/cikm20.pdf">pdf</a>]
+  [<a href="https://dl.acm.org/doi/10.1145/3340531.3412018">link</a>]
+  [<a href="https://github.com/thartvigsen/sarnn">code</a>]
+  </div>
+ </li>
+
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Learning Similarity-Preserving Meta-Embedding for Text Mining</h3>
+  <div style="color:#5e81ac">
+  J. Thadajarassiri, C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
+  </div>
+
+  <div style="color:#a3be8c">
+  <strong>IEEE BigData, 2020</strong>. Long paper, acceptance rate: 15.5%.
+  </div>
+
+  <div>
+  [<a href="papers/bigdata20.pdf">pdf</a>]
   </div>
  </li>
 
