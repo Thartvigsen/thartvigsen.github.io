@@ -27,6 +27,7 @@ Please feel free to contact me with questions regarding my research or our progr
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
+<li> Dec 1: I will be joining Microsoft next year as a summer intern.</li>
 <li> Oct 20: New IEEE BigData paper on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
 <li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
 <li> Sept 17: Talk at Harvard.</li>
