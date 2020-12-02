@@ -174,6 +174,24 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">link</a>]
   </div>
  </li>
+
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Adaptive-Halting Policy Network for Early Classification</h3>
+  <div style="color:#5e81ac">
+  <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner. 
+  </div>
+
+  <div style="color:#a3be8c">
+  <strong>KDD, 2019</strong>. Research track, acceptance rate: 14.2%.
+  </div>
+
+  <div>
+  [<a href="papers/kdd19.pdf">pdf</a>]
+  [<a href="https://dl.acm.org/doi/10.1145/3292500.3330974?cid=99659453882">link</a>]
+  [<a href="https://github.com/Thartvigsen/EARLIEST">code</a>]
+  [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]
+  </div>
+ </li>
  
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention</h3>
@@ -202,24 +220,6 @@ I am generally interested in sequential representation learning, or building vec
 
   <div>
   [<a href="https://ieeexplore.ieee.org/abstract/document/9006400">link</a>]
-  </div>
- </li>
- 
- <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Adaptive-Halting Policy Network for Early Classification</h3>
-  <div style="color:#5e81ac">
-  <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner. 
-  </div>
-
-  <div style="color:#a3be8c">
-  <strong>KDD, 2019</strong>. Research track, acceptance rate: 14.2%.
-  </div>
-
-  <div>
-  [<a href="papers/kdd19.pdf">pdf</a>]
-  [<a href="https://dl.acm.org/doi/10.1145/3292500.3330974?cid=99659453882">link</a>]
-  [<a href="https://github.com/Thartvigsen/EARLIEST">code</a>]
-  [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]
   </div>
  </li>
  
