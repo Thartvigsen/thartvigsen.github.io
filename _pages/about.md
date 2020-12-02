@@ -27,6 +27,7 @@ Please feel free to contact me with questions regarding my research or our progr
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
+<li> Dec 2: New AAAI paper on Semi-Supervised Knowledge Amalgamation.</li>
 <li> Dec 1: I will be joining Microsoft next year as a summer intern.</li>
 <li> Oct 20: New IEEE BigData paper on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
 <li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
@@ -76,6 +77,17 @@ I am generally interested in sequential representation learning, or building vec
 -->
 
 <ul style="border-radius: 8px; margin: 10px 0;">
+
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Semi-Supervised Knowledge Amalgamation for Sequence Classification</h3>
+  <div style="color:#5e81ac">
+  Jida Thadajarassiri, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
+  </div>
+
+  <div style="color:#a3be8c">
+  <strong>AAAI, 2021</strong>.
+  </div>
+ </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
