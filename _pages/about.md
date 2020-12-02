@@ -77,6 +77,7 @@ I am generally interested in sequential representation learning, or building vec
 -->
 
 <ul style="border-radius: 8px; margin: 10px 0;">
+  <h2 itemprop="name">2021</h2>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Semi-Supervised Knowledge Amalgamation for Sequence Classification</h3>
