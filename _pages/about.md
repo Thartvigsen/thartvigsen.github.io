@@ -177,6 +177,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
  </li>
 
+<h4 itemprop="name">2019</h4>
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Adaptive-Halting Policy Network for Early Classification</h3>
   <div style="color:#5e81ac">
@@ -250,7 +251,8 @@ I am generally interested in sequential representation learning, or building vec
   [<a href="papers/bhi19.pdf">pdf</a>]
   </div>
  </li>
- 
+
+<h4 itemprop="name">-2018</h4>
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Handling Missing Values in Multivariate Time Series Classification</h3>
   <div style="color:#5e81ac">
