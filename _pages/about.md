@@ -85,7 +85,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
 
   <div style="color:#a3be8c">
-  <strong>AAAI, 2021</strong>.
+  <strong>AAAI, 2021</strong>. Acceptance rate: 21%.
   </div>
  </li>
 
