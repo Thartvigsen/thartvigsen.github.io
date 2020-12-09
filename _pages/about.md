@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 
-Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu) advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
-I am developing deep learning and reinforcement learning methods for time series data mining/machine learning and am interested in conserving wildlife and increasing the accessibility of high-quality healthcare.
-I have published several papers at top data mining and machine learning conferences and have also been fortunate enough to collaborate with some wonderful people on a wide variety of topics.
-
+Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
+During my Ph.D., I have been developing deep learning and reinforcement learning methods for time series data mining/machine learning. I ultimately aim to advance time series data mining and machine learning to increase the quality and accessibility of healthcare and ultimately empower disadvantaged communities.
+My work has appeared at several top data mining and machine learning conferences and I have been fortunate enough to collaborate with some wonderful folks to push the needle on machine learning for time series and text.
 <!--
 I am actively seeking post-doc positions starting in 2021.
 -->
@@ -27,7 +26,7 @@ Please feel free to contact me with questions regarding my research or our progr
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
-<li> Dec 2: New AAAI paper on Semi-Supervised Knowledge Amalgamation.</li>
+<li> Dec 2: New AAAI paper on <a href="papers/aaai21.pdf">Semi-Supervised Knowledge Amalgamation</a>.</li>
 <li> Dec 1: I will be joining Microsoft next year as a PhD intern.</li>
 <li> Oct 20: New IEEE BigData paper on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
 <li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
@@ -87,6 +86,10 @@ I am generally interested in sequential representation learning, or building vec
 
   <div style="color:#a3be8c">
   <strong>AAAI, 2021</strong>. Acceptance rate: 21%.
+  </div>
+
+  <div>
+  [<a href="papers/aaai21.pdf">pdf</a>]
   </div>
  </li>
 
