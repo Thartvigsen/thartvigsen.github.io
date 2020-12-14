@@ -6,7 +6,8 @@ author_profile: false
 ---
 
 - **December 2, 2020: AAAI paper accepted** - Our paper *Semi-Supervised Knowledge Amalgamation for Sequence Classification* was accepted at **AAAI 2021**!
-- **December 1, 2020** - I will be interning with Microsoft next summer with the AI platform team.
+- **December 1, 2020** - I will be joining Microsoft next summer as a PhD intern on the AI platform team.
+- **November 29, 2020: Program Committee** - I have been asked to serve on the program committee for CVPR 2021.
 - **October 21, 2020** - I will be volunteering at **NeurIPS 2020** in December, see you "there"!
 - **October 20, 2020** - I am excited to announce our paper *Learning Similarity-Preserving Meta-Embedding for Text Mining* was accepted at **IEEE BigData 2020**!
 - **September 19, 2020** - I will be attending the Computational Sustainability Doctoral Consortium in October.
