@@ -90,6 +90,7 @@ I am generally interested in sequential representation learning, or building vec
 
   <div>
   [<a href="papers/aaai21.pdf">pdf</a>]
+  [<a href="https://github.com/jida-thada/ska">code</a>]
   </div>
  </li>
 
@@ -162,6 +163,7 @@ I am generally interested in sequential representation learning, or building vec
 
   <div>
   [<a href="papers/bigdata20.pdf">pdf</a>]
+  [<a href="https://github.com/jida-thada/simme">code</a>]
   </div>
  </li>
 
