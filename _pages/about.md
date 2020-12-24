@@ -76,6 +76,14 @@ I am generally interested in sequential representation learning, or building vec
 -->
 
 <ul style="border-radius: 8px; margin: 10px 0;">
+<h4 itemprop="name">Submitted Manuscripts</h4>
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Human-Guided Attention for Explainable Text Classification</h3>
+  <div style="color:#5e81ac">
+  Cansu Sen, <strong>T. Hartvigsen</strong>, Jidapa Thadajarassiri, Dongyu Zhang, X. Kong, E. Rundensteiner.
+  </div>
+ </li>
+
 <h4 itemprop="name">2021</h4>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
