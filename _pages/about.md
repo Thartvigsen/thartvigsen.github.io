@@ -77,10 +77,32 @@ I am generally interested in sequential representation learning, or building vec
 
 <ul style="border-radius: 8px; margin: 10px 0;">
 <h4 itemprop="name">Submitted Manuscripts</h4>
- <li style="margin: 0; padding: 0px 0 0px 80px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Maximizing Subset Accuracy on Incompletely-Labeled Data</h3>
+  <div style="color:#5e81ac">
+  W. Gerych, <strong>T. Hartvigsen</strong>, L. Buquicchio, E. Rundensteiner.
+  </div>
+ </li>
+
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Human-Guided Attention for Explainable Text Classification</h3>
   <div style="color:#5e81ac">
-  Cansu Sen, <strong>T. Hartvigsen</strong>, Jidapa Thadajarassiri, Dongyu Zhang, X. Kong, E. Rundensteiner.
+  C. Sen, <strong>T. Hartvigsen</strong>, J. Thadajarassiri, D. Zhang, X. Kong, E. Rundensteiner.
+  </div>
+ </li>
+
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Deep Positive Unlabeled Learning with a Sequential Bias</h3>
+  <div style="color:#5e81ac">
+  W. Gerych, <strong>T. Hartvigsen</strong>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
+  </div>
+ </li>
+
+
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Variational Open-Set Recognition</h3>
+  <div style="color:#5e81ac">
+  L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <strong>T. Hartvigsen</strong>, E. Rundensteiner.
   </div>
  </li>
 
