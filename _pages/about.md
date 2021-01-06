@@ -146,7 +146,8 @@ I am generally interested in sequential representation learning, or building vec
   https://dl.acm.org/doi/10.1145/3394486.3403191[<a href="https://dl.acm.org/doi/10.1145/3394486.3403191">link</a>]
   -->
   [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
-  [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">KDD Poster Talk</a>]
+  [<a href=" https://youtu.be/Z1_jFf4DrtI ">20-min KDD Talk</a>]
+  [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">5-min Poster Talk</a>]
   </div>
  </li>
 
