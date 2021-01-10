@@ -33,9 +33,9 @@ Please feel free to contact me with questions regarding my research or our progr
 <li> Oct 20: New IEEE BigData paper on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
 <li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
 <li> Sept 17: Talk at Harvard.</li>
-<li> July 17: New first-author CIKM paper on <a href="papers/cikm20.pdf">Conditional Computation in RNNs</a>.</li>
+<li> July 17: New CIKM paper on <a href="papers/cikm20.pdf">Conditional Computation in RNNs</a>.</li>
 <li> June 4: Talk at FSU.</li>
-<li> May 15: New first-author KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
+<li> May 15: New KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
 <li> April 4: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
 </small>
 </ul>
