@@ -10,7 +10,12 @@ redirect_from:
 
 
 Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
-During my Ph.D., I have been developing **deep learning** and **reinforcement learning** methods for **time series** data mining/machine learning. I ultimately aim to advance time series data mining and machine learning to increase the quality and accessibility of healthcare and ultimately empower disadvantaged communities.
+
+My research lies at the intersection of **deep reinforcement learning** and **data mining**, with a focus on time series.
+<!--
+I have been developing **deep learning** and **reinforcement learning** methods for **time series** data mining/machine learning.
+-->
+I aim to advance time series data mining and machine learning to increase the quality and accessibility of healthcare and ultimately empower disadvantaged communities.
 
 My work has appeared at several top data mining and machine learning conferences and I have been fortunate enough to collaborate with some wonderful folks to push the envelope on machine learning for time series and text. I also spent a year collaborating with the data science department in the UMass Medical School to assist doctors in expediting the clinical trial writing process using machine learning.
 
@@ -25,6 +30,17 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
 
 Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
 
+### Research Interests
+<ul style="margin-bottom: 5px;">
+<small>
+  <li>Time series modeling and classification</li>
+  <li>Recurrent Neural Networks (see [CIKM 2019]("papers/cikm20.pdf"))</li>
+  <li>Early Classification (see [KDD 2019]("papers/kdd19.pdf")[KDD 2020]("papers/kdd20.pdf")</li>
+  <li>Explainable Deep Learning (see [ACL 2020]("papers/acl20.pdf"))</li>
+  <li>Healthcare/sustainability applications</li>
+</small>
+</ul>
+
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
@@ -37,16 +53,6 @@ Please feel free to contact me with questions regarding my research or our progr
 <li> June 4: Talk at FSU.</li>
 <li> May 15: New KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
 <li> April 4: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
-</small>
-</ul>
-
-### Technical Interests
-<ul style="margin-bottom: 5px;">
-<small>
-  <li>Time series modeling and classification</li>
-  <li>Recurrent Neural Networks</li>
-  <li>Early Classification</li>
-  <li>Healthcare/sustainability applications</li>
 </small>
 </ul>
 
