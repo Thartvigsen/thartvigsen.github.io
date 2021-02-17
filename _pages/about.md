@@ -34,9 +34,9 @@ Please feel free to contact me with questions regarding my research or our progr
 <ul style="margin-bottom: 5px;">
 <small>
   <li>Time series modeling and classification</li>
-  <li>Recurrent Neural Networks (see <a href="https://thartvigsen.github.io/papers/cikm20.pdf">[CIKM 2019]</a>)</li>
-  <li>Early Classification (see <a href="https://thartvigsen.github.io/papers/kdd19.pdf">[KDD 2019]</a><a href="https://thartvigsen.github.io/papers/kdd20.pdf">[KDD 2020]</a>)</li>
-  <li>Explainable Deep Learning (see <a href="https://thartvigsen.github.io/papers/acl20.pdf">[ACL 2020]</a>)</li>
+  <li>Sequential Learning (see <a href="https://thartvigsen.github.io/papers/aaai21.pdf">[AAAI'21]</a><a href="https://thartvigsen.github.io/papers/cikm20.pdf">[CIKM'20]</a>)</li>
+  <li>Early Classification (see <a href="https://thartvigsen.github.io/papers/kdd19.pdf">[KDD'19]</a><a href="https://thartvigsen.github.io/papers/kdd20.pdf">[KDD'20]</a>)</li>
+  <li>Explainable Deep Learning (see <a href="https://thartvigsen.github.io/papers/acl20.pdf">[ACL'20]</a>)</li>
   <li>Healthcare/sustainability applications</li>
 </small>
 </ul>
