@@ -5,7 +5,6 @@ permalink: /news/
 author_profile: false
 ---
 
-- **February 16, 2021** - Attending [AI for the Planet](https://aifortheplanet.org/).
 - **January 31, 2021: Program Committee** - I have been asked to serve on the program committee for ICCV 2021.
 - **December 2, 2020: AAAI paper accepted** - Our paper *Semi-Supervised Knowledge Amalgamation for Sequence Classification* was accepted at **AAAI 2021**!
 - **December 1, 2020** - I will be joining Microsoft next summer as a PhD intern on the AI platform team.
