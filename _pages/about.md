@@ -187,7 +187,7 @@ I am generally interested in sequential representation learning, or building vec
   
   <div>
   [<a href="papers/cikm20.pdf">pdf</a>]
-  [<a href="https://dl.acm.org/doi/10.1145/3340531.3412018">link</a>]
+  [<a href="https://dl.acm.org/doi/10.1145/3340531.3412018?cid=99659453882">link</a>]
   [<a href="https://github.com/thartvigsen/sarnn">code</a>]
   </div>
  </li>
