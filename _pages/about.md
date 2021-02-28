@@ -11,11 +11,11 @@ redirect_from:
 
 Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
-My research lies at the intersection of **deep reinforcement learning** and **data mining**, with a focus on **time series**.
 <!--
-I have been developing **deep learning** and **reinforcement learning** methods for **time series** data mining/machine learning.
+My research lies at the intersection of  **data mining** and **sequential representation learning** with a focus on time series in partially-observable domains.
 -->
-I aim to advance time series data mining and machine learning to increase the quality and accessibility of healthcare to ultimately empower disadvantaged communities.
+In my research I am advancing **deep learning** and **reinforcement learning** methods for **time series** data mining/machine learning and am particularly interested in partially-observable domains.
+I aim to increase the quality and accessibility of healthcare to ultimately empower disadvantaged communities.
 
 My work has appeared at several top data mining and machine learning conferences and I have been fortunate enough to collaborate with some wonderful folks to push the envelope on machine learning for time series and text. I also spent a year collaborating with the data science department in the UMass Medical School to assist doctors in expediting the clinical trial writing process using machine learning.
 
