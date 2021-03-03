@@ -19,9 +19,7 @@ I aim to increase the quality and accessibility of healthcare to ultimately empo
 
 My work has appeared at several top data mining and machine learning conferences and I have been fortunate enough to collaborate with some wonderful folks to push the envelope on machine learning for time series and text. I also spent a year collaborating with the data science department in the UMass Medical School to assist doctors in expediting the clinical trial writing process using machine learning.
 
-<!--
-I am actively seeking post-doc positions starting in 2021.
--->
+**I am actively seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
 <!---
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 -->
@@ -33,10 +31,10 @@ Please feel free to contact me with questions regarding my research or our progr
 ### Research Interests
 <ul style="margin-bottom: 5px;">
 <small>
-  <li>Time series modeling and classification</li>
   <li>Sequential Learning in Time-Sensitive Domains (see <a href="https://thartvigsen.github.io/papers/kdd19.pdf">[KDD'19]</a><a href="https://thartvigsen.github.io/papers/kdd20.pdf">[KDD'20]</a>)</li>
   <li>Recurrent Neural Networks (see <a href="https://thartvigsen.github.io/papers/aaai21.pdf">[AAAI'21]</a><a href="https://thartvigsen.github.io/papers/cikm20.pdf">[CIKM'20]</a>)</li>
   <li>Explainable Deep Learning (see <a href="https://thartvigsen.github.io/papers/acl20.pdf">[ACL'20]</a>)</li>
+  <li>Learning from systems with partial observations or missing values.</li>
   <li>Healthcare/sustainability applications</li>
 </small>
 </ul>
