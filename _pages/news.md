@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **March 8, 2021: WIDS Conference** - I'm excited to attend and learn from the Women in Data Science Conference today hosted by WPI!
 - **January 31, 2021: Program Committee** - I have been asked to serve on the program committee for ICCV 2021.
 - **January 1, 2021: Program Committee** - I have been asked to serve on the program committee for ACL 2021.
 - **December 2, 2020: AAAI paper accepted** - Our paper *Semi-Supervised Knowledge Amalgamation for Sequence Classification* was accepted at **AAAI 2021**!
