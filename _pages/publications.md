@@ -27,7 +27,9 @@ Publication Summary: (conference: number of papers)
       <div style="color:#5e81ac">
       Prathyush Parvatharaju, Ramesh Doddiah,Thomas Hartvigsen, Elke Rundensteiner
       In submission to KDD 2021.
-      </li>
+    </li>
+
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification.</h3>
       Walter Gerych,Thomas Hartvigsen, Luke Buquicchio, Elke Rundensteiner.
       </div>
@@ -155,8 +157,8 @@ Publication Summary: (conference: number of papers)
  </li>
 </ul>
 
-<ul style="border-radius: 0px; margin: 0px 0;">
 <h3 itemprop="name">2020</h3>
+<ul style="border-radius: 0px; margin: 0px 0;">
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
   <div style="color:#5e81ac">
@@ -247,8 +249,8 @@ Publication Summary: (conference: number of papers)
 
 </ul>
 
-<ul style="border-radius: 0px; margin: 0px 0;">
 <h3 itemprop="name">2019</h3>
+<ul style="border-radius: 0px; margin: 0px 0;">
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Adaptive-Halting Policy Network for Early Classification</h3>
   <div style="color:#5e81ac">
@@ -322,11 +324,10 @@ Publication Summary: (conference: number of papers)
   [<a href="papers/bhi19.pdf">pdf</a>]
   </div>
  </li>
-
 </ul>
 
-<ul style="border-radius: 0px; margin: 0px 0;">
 <h3 itemprop="name">-2018</h3>
+<ul style="border-radius: 0px; margin: 0px 0;">
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Handling Missing Values in Multivariate Time Series Classification</h3>
   <div style="color:#5e81ac">
