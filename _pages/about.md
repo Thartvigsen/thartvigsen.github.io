@@ -59,9 +59,9 @@ I am generally interested in sequential representation learning, or building vec
 -->
 
 
+<!--
 ### Publications
 
-<!--
 <ul style="list-style: none; background-color: #f8f9f9; border-radius: 8px; margin: 20px 0;">
 <small>
 <li><b>T. Hartvigsen</b>, C. Sen, X. Kong, E. Rundensteiner. Recurrent Halting Chain for Early Multi-label Classification. In Proc. of <b>KDD, 2020</b>. Research track, acceptance rate: 16.9%. [<a href="papers/kdd20.pdf">pdf</a>] [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]</li>
@@ -79,10 +79,8 @@ I am generally interested in sequential representation learning, or building vec
 </small>
 </ul>background-color: #f8f9f9;
 <ul style="list-style: none; border-radius: 8px; margin: 20px 0;">
--->
 
 <ul style="border-radius: 8px; margin: 10px 0;">
-<!--
 <h4 itemprop="name">Submitted Manuscripts</h4>
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Maximizing Subset Accuracy on Incompletely-Labeled Data</h3>
@@ -112,7 +110,6 @@ I am generally interested in sequential representation learning, or building vec
   L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <strong>T. Hartvigsen</strong>, E. Rundensteiner.
   </div>
  </li>
- -->
 
 <h4 itemprop="name">2021</h4>
 
@@ -146,9 +143,6 @@ I am generally interested in sequential representation learning, or building vec
   <div>
   [<a href="papers/kdd20.pdf">pdf</a>]
   [<a href="https://dl.acm.org/doi/10.1145/3394486.3403191?cid=99659453882">link</a>]
-  <!--
-  https://dl.acm.org/doi/10.1145/3394486.3403191[<a href="https://dl.acm.org/doi/10.1145/3394486.3403191">link</a>]
-  -->
   [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
   [<a href=" https://youtu.be/Z1_jFf4DrtI ">20-min KDD Talk</a>]
   [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">5-min Poster Talk</a>]
@@ -353,6 +347,7 @@ I am generally interested in sequential representation learning, or building vec
   </div>
  </li>
 </ul>
+-->
 
 ### Personal
 
