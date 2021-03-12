@@ -13,7 +13,31 @@ Publication Summary: (conference: number of papers)
   <summary>In submission</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
     <li>
-      Test
+      Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification. Thomas Hartvigsen, Jidapa Thadajarassiri, Xiangnan Kong, Elke Rundensteiner. In submission to KDD 2021.
+    </li>
+    <li>
+      Learning Saliency Maps to Explain Deep Time Series Classifiers. Prathyush Parvatharaju, Ramesh Doddiah,Thomas Hartvigsen, Elke Rundensteiner. In submission to KDD 2021.
+      </li>
+    <li>
+      Recurrent Bayesian Classifier Chains for Exact Multi-label Classification. Walter Gerych,Thomas Hartvigsen, Luke Buquicchio, Elke Rundensteiner. In submission to KDD 2021.
+    </li>
+    <li>
+      Explainable Text Classification with Partially-Labeled Human Attention. Dongyu  Zhang,  Cansu  Sen,  Jidapa  Thadajarassiri,Thomas  Hartvigsen,  Xiangnan  Kong,  Elke  Runden-steiner. In submission to KDD 2021.
+    </li>
+    <li>
+      Positive Unlabeled Learning with a Sequential Selection Bias. Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Kavin Chandrasekaran, Abdulaziz Alajaji, HamidMansoor, Elke Rundensteiner, Emmanuel Agu. In submission to KDD 2021.
+    </li>
+    <li>
+      Exact Multi-Label Classification with Incompletely Labeled Data. Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Elke Rundensteiner, Emmanuel Agu. In submission to KDD 2021.
+    </li>
+    <li>
+      Multi-State Brain Network Discovery. Hang Yin, Xinyue Liu, Xiangnan Kong,Thomas Hartvigsen, Yanhua Li. In submission to KDD 2021.
+    </li>
+    <li>
+      Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks. Hang Yin, John Boaz Lee, Xiangnan Kong, Thomas Hartvigsen, Sihong Xie. In submission to KDD 2021.
+    </li>
+    <li>
+      Variational Open-Set Recognition. Luke Buquicchio, Walter Gerych, Kavin Chandrasekaran, Abdulaziz Alajaji, Hamid Mansoor, Thomas Hartvigsen, Elke Rundensteiner.
     </li>
   </ul>
 </details>
