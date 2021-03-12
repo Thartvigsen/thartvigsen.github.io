@@ -12,7 +12,7 @@ Publication Summary: (conference: number of papers)
 <ul style="border-radius: 8px; margin: 10px 0;">
 
 <!--
-<h2 itemprop="name">In Submission</h2>
+<h3 itemprop="name">In Submission</h3>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Maximizing Subset Accuracy on Incompletely-Labeled Data</h3>
@@ -51,7 +51,7 @@ Publication Summary: (conference: number of papers)
  </li>
  --!>
 
-<h2 itemprop="name">2021</h2>
+<h3 itemprop="name">2021</h3>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Semi-Supervised Knowledge Amalgamation for Sequence Classification</h3>
@@ -69,7 +69,7 @@ Publication Summary: (conference: number of papers)
   </div>
  </li>
 
-<h2 itemprop="name">2020</h2>
+<h3 itemprop="name">2020</h3>
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
   <div style="color:#5e81ac">
@@ -158,7 +158,7 @@ Publication Summary: (conference: number of papers)
   </div>
  </li>
 
-<h2 itemprop="name">2019</h2>
+<h3 itemprop="name">2019</h3>
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Adaptive-Halting Policy Network for Early Classification</h3>
   <div style="color:#5e81ac">
@@ -233,7 +233,7 @@ Publication Summary: (conference: number of papers)
   </div>
  </li>
 
-<h2 itemprop="name">-2018</h2>
+<h3 itemprop="name">-2018</h3>
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Handling Missing Values in Multivariate Time Series Classification</h3>
   <div style="color:#5e81ac">
