@@ -42,7 +42,6 @@ Publication Summary: (conference: number of papers)
   </ul>
 </details>
 
-<ul style="border-radius: 0px; margin: 0px 0;">
 
 <!--
 <h3 itemprop="name">In Submission</h3>
@@ -85,7 +84,7 @@ Publication Summary: (conference: number of papers)
  --!>
 
 <h3 itemprop="name">2021</h3>
-
+<ul style="border-radius: 0px; margin: 0px 0;">
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Semi-Supervised Knowledge Amalgamation for Sequence Classification</h3>
   <div style="color:#5e81ac">
@@ -101,7 +100,9 @@ Publication Summary: (conference: number of papers)
   [<a href="https://github.com/jida-thada/ska">code</a>]
   </div>
  </li>
+</ul>
 
+<ul style="border-radius: 0px; margin: 0px 0;">
 <h3 itemprop="name">2020</h3>
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
