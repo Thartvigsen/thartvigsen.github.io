@@ -27,7 +27,9 @@ Publication Summary: (conference: number of papers)
       <div style="color:#5e81ac">
       Prathyush Parvatharaju, Ramesh Doddiah, Thomas Hartvigsen, Elke Rundensteiner
       </div>
+      <div style="color:#a3be8c">
       In submission to KDD 2021.
+      </div>
     </li>
 
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
@@ -174,9 +176,6 @@ Publication Summary: (conference: number of papers)
   <div>
   [<a href="papers/kdd20.pdf">pdf</a>]
   [<a href="https://dl.acm.org/doi/10.1145/3394486.3403191?cid=99659453882">link</a>]
-  <!--
-  https://dl.acm.org/doi/10.1145/3394486.3403191[<a href="https://dl.acm.org/doi/10.1145/3394486.3403191">link</a>]
-  -->
   [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
   [<a href=" https://youtu.be/Z1_jFf4DrtI ">20-min KDD Talk</a>]
   [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">5-min Poster Talk</a>]
@@ -248,7 +247,6 @@ Publication Summary: (conference: number of papers)
   [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">link</a>]
   </div>
  </li>
-
 </ul>
 
 <h3 itemprop="name">2019</h3>
