@@ -11,6 +11,11 @@ Publication Summary: (conference: number of papers)
 
 <ul style="border-radius: 0px; margin: 0px 0;">
 
+<button type="button" class="collapsible">In submission</button>
+<div class="content">
+  <p>Test</p>
+</div>
+
 <!--
 <h3 itemprop="name">In Submission</h3>
 
