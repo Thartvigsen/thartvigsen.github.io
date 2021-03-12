@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Recorded Talks"
-    url: /talks/
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Recorded Talks"
+    url: /talks/
 
   - title: "News"
     url: /news/
