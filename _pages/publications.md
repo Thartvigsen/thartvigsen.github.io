@@ -25,12 +25,14 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Learning Saliency Maps to Explain Deep Time Series Classifiers.</h3>
       <div style="color:#5e81ac">
-      Prathyush Parvatharaju, Ramesh Doddiah,Thomas Hartvigsen, Elke Rundensteiner
+      Prathyush Parvatharaju, Ramesh Doddiah, Thomas Hartvigsen, Elke Rundensteiner
+      </div>
       In submission to KDD 2021.
     </li>
 
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification.</h3>
+      <div style="color:#5e81ac">
       Walter Gerych,Thomas Hartvigsen, Luke Buquicchio, Elke Rundensteiner.
       </div>
       <div style="color:#a3be8c">
