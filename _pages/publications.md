@@ -35,7 +35,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification.</h3>
       <div style="color:#5e81ac">
-      Walter Gerych,Thomas Hartvigsen, Luke Buquicchio, Elke Rundensteiner.
+      Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Elke Rundensteiner.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -45,7 +45,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention.</h3>
       <div style="color:#5e81ac">
-      Dongyu  Zhang,  Cansu  Sen,  Jidapa  Thadajarassiri,Thomas  Hartvigsen,  Xiangnan  Kong,  Elke  Runden-steiner.
+      Dongyu  Zhang,  Cansu  Sen,  Jidapa  Thadajarassiri, Thomas  Hartvigsen,  Xiangnan  Kong,  Elke  Rundensteiner.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -55,7 +55,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Positive Unlabeled Learning with a Sequential Selection Bias.</h3>
       <div style="color:#5e81ac">
-      Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Kavin Chandrasekaran, Abdulaziz Alajaji, HamidMansoor, Elke Rundensteiner, Emmanuel Agu.
+      Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Kavin Chandrasekaran, Abdulaziz Alajaji, Hamid Mansoor, Elke Rundensteiner, Emmanuel Agu.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -75,7 +75,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Multi-State Brain Network Discovery.</h3>
       <div style="color:#5e81ac">
-      Hang Yin, Xinyue Liu, Xiangnan Kong,Thomas Hartvigsen, Yanhua Li.
+      Hang Yin, Xinyue Liu, Xiangnan Kong, Thomas Hartvigsen, Yanhua Li.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
