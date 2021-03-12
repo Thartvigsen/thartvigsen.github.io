@@ -11,20 +11,14 @@ Publication Summary: (conference: number of papers)
 
 <details>
   <summary>In submission</summary>
-
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  <ul style="border-radius: 0px; margin: 0px 0;">
+    <li>
+      Test
+    </li>
+  </ul>
 </details>
 
 <ul style="border-radius: 0px; margin: 0px 0;">
-
-<button type="button" class="collapsible">In submission</button>
-<div class="content">
-  <p>Test</p>
-</div>
 
 <!--
 <h3 itemprop="name">In Submission</h3>
