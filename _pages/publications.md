@@ -36,6 +36,16 @@ Publication Summary: (conference: number of papers)
 
 **KDD: 2, AAAI: 1, ACL: 1, CIKM: 1, IEEE BigData: 3, HEALTHINF: 2, URTC: 2, IEEE BHI: 1, ECML: 1**
 
+<details>
+  <summary>In submission</summary>
+
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 <ul style="border-radius: 0px; margin: 0px 0;">
 
 <button type="button" class="collapsible">In submission</button>
