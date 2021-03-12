@@ -24,7 +24,6 @@ My work has appeared at several top data mining and machine learning conferences
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 -->
 
-{% include youtubePlayer.html id="Z1_jFf4DrtI" %}
 
 My CV can be found [here](/files/hartvigsen_cv.pdf).
 
