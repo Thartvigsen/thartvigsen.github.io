@@ -15,7 +15,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification.</h3>
       <div style="color:#5e81ac">
-      Thomas Hartvigsen, Jidapa Thadajarassiri, Xiangnan Kong, Elke Rundensteiner.
+      T. Hartvigsen, J. Thadajarassiri, X. Kong, E. Rundensteiner.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -25,7 +25,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Learning Saliency Maps to Explain Deep Time Series Classifiers.</h3>
       <div style="color:#5e81ac">
-      Prathyush Parvatharaju, Ramesh Doddiah, Thomas Hartvigsen, Elke Rundensteiner
+      P. Parvatharaju, R. Doddiah, T. Hartvigsen, E. Rundensteiner
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -35,7 +35,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification.</h3>
       <div style="color:#5e81ac">
-      Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Elke Rundensteiner.
+      W. Gerych, T. Hartvigsen, L. Buquicchio, E. Rundensteiner.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -45,7 +45,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention.</h3>
       <div style="color:#5e81ac">
-      Dongyu  Zhang,  Cansu  Sen,  Jidapa  Thadajarassiri, Thomas  Hartvigsen,  Xiangnan  Kong,  Elke  Rundensteiner.
+      D. Zhang, C. Sen,  J. Thadajarassiri, T. Hartvigsen, X. Kong, E. Rundensteiner.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -55,7 +55,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Positive Unlabeled Learning with a Sequential Selection Bias.</h3>
       <div style="color:#5e81ac">
-      Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Kavin Chandrasekaran, Abdulaziz Alajaji, Hamid Mansoor, Elke Rundensteiner, Emmanuel Agu.
+      W. Gerych, T. Hartvigsen, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -65,7 +65,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Exact Multi-Label Classification with Incompletely Labeled Data.</h3>
       <div style="color:#5e81ac">
-      Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Elke Rundensteiner, Emmanuel Agu.
+      W. Gerych, T. Hartvigsen, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -75,7 +75,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Multi-State Brain Network Discovery.</h3>
       <div style="color:#5e81ac">
-      Hang Yin, Xinyue Liu, Xiangnan Kong, Thomas Hartvigsen, Yanhua Li.
+      H. Yin, X. Liu, X. Kong, T. Hartvigsen, Y. Li.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -85,7 +85,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks.</h3>
       <div style="color:#5e81ac">
-      Hang Yin, John Boaz Lee, Xiangnan Kong, Thomas Hartvigsen, Sihong Xie.
+      H. Yin, J. B. Lee, X. Kong, T. Hartvigsen, S. Xie.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -95,7 +95,7 @@ Publication Summary: (conference: number of papers)
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Variational Open-Set Recognition.</h3>
       <div style="color:#5e81ac">
-      Luke Buquicchio, Walter Gerych, Kavin Chandrasekaran, Abdulaziz Alajaji, Hamid Mansoor, Thomas Hartvigsen, Elke Rundensteiner.
+      L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, T. Hartvigsen, E. Rundensteiner.
       </div>
     </li>
   </ul>
