@@ -23,29 +23,9 @@ Publication Summary: (conference: number of papers)
     </li>
     
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-      <h3 itemprop="name">Learning Saliency Maps to Explain Deep Time Series Classifiers</h3>
-      <div style="color:#5e81ac">
-      P. Parvatharaju, R. Doddiah, <b>T. Hartvigsen</b>, E. Rundensteiner
-      </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner.
-      </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-      <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention</h3>
-      <div style="color:#5e81ac">
-      D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
       </div>
       <div style="color:#a3be8c">
       In submission to KDD 2021.
@@ -72,6 +52,25 @@ Publication Summary: (conference: number of papers)
       </div>
     </li>
 
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+      <h3 itemprop="name">Learning Saliency Maps to Explain Deep Time Series Classifiers</h3>
+      <div style="color:#5e81ac">
+      P. Parvatharaju, R. Doddiah, <b>T. Hartvigsen</b>, E. Rundensteiner
+      </div>
+      <div style="color:#a3be8c">
+      In submission to KDD 2021.
+      </div>
+    </li>
+
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+      <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention</h3>
+      <div style="color:#5e81ac">
+      D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
+      </div>
+      <div style="color:#a3be8c">
+      In submission to KDD 2021.
+      </div>
+    </li>
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Multi-State Brain Network Discovery</h3>
       <div style="color:#5e81ac">
