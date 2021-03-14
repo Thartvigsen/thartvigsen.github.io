@@ -154,7 +154,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div>
-  [<a href="papers/aaai21.pdf">pdf</a>]
+  [<a href="../papers/aaai21.pdf">pdf</a>]
   [<a href="https://github.com/jida-thada/ska">code</a>]
   </div>
  </li>
@@ -173,7 +173,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div>
-  [<a href="papers/kdd20.pdf">pdf</a>]
+  [<a href="../papers/kdd20.pdf">pdf</a>]
   [<a href="https://dl.acm.org/doi/10.1145/3394486.3403191?cid=99659453882">link</a>]
   [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
   [<a href=" https://youtu.be/Z1_jFf4DrtI ">20-min KDD Talk</a>]
@@ -192,7 +192,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div>
-  [<a href="papers/acl20.pdf">pdf</a>]
+  [<a href="../papers/acl20.pdf">pdf</a>]
   [<a href="https://www.aclweb.org/anthology/2020.acl-main.419/">link</a>]
   [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>]
   [<a href="http://slideslive.com/38929024">ACL talk</a>]
@@ -210,7 +210,7 @@ Publication Summary: (conference: number of papers)
   </div>
   
   <div>
-  [<a href="papers/cikm20.pdf">pdf</a>]
+  [<a href="../papers/cikm20.pdf">pdf</a>]
   [<a href="https://dl.acm.org/doi/10.1145/3340531.3412018?cid=99659453882">link</a>]
   [<a href="https://github.com/thartvigsen/sarnn">code</a>]
   </div>
@@ -227,7 +227,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div>
-  [<a href="papers/bigdata20.pdf">pdf</a>]
+  [<a href="../papers/bigdata20.pdf">pdf</a>]
   [<a href="https://github.com/jida-thada/simme">code</a>]
   </div>
  </li>
@@ -261,7 +261,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div>
-  [<a href="papers/kdd19.pdf">pdf</a>]
+  [<a href="../papers/kdd19.pdf">pdf</a>]
   [<a href="https://dl.acm.org/doi/10.1145/3292500.3330974?cid=99659453882">link</a>]
   [<a href="https://github.com/Thartvigsen/EARLIEST">code</a>]
   [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]
@@ -320,7 +320,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div>
-  [<a href="papers/bhi19.pdf">pdf</a>]
+  [<a href="../papers/bhi19.pdf">pdf</a>]
   </div>
  </li>
 </ul>
