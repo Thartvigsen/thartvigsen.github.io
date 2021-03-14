@@ -17,7 +17,7 @@ My research lies at the intersection of  **data mining** and **sequential repres
 In my research I am advancing **deep learning** and **reinforcement learning** methods for **time series** data mining/machine learning and am currently interested in partially-observable domains.
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
 
-My work has appeared at several top data mining and machine learning conferences and I also spent a year collaborating with the UMass Medical School building a recommendation tool to expedite the clinical trial writing process.
+My work has appeared at several top data mining and machine learning conferences and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
 
 **I am actively seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
 <!---
