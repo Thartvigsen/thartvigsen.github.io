@@ -24,7 +24,9 @@ My work has appeared at several top data mining and machine learning conferences
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 -->
 
+<!--
 My CV can be found [here](/files/hartvigsen_cv.pdf).
+-->
 
 Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
 
@@ -35,7 +37,7 @@ Please feel free to contact me with questions regarding my research or our progr
   <li>Recurrent Neural Networks (see <a href="https://thartvigsen.github.io/papers/aaai21.pdf">[AAAI'21]</a><a href="https://thartvigsen.github.io/papers/cikm20.pdf">[CIKM'20]</a>)</li>
   <li>Explainable Deep Learning (see <a href="https://thartvigsen.github.io/papers/acl20.pdf">[ACL'20]</a>)</li>
   <li>Learning from systems with partial observations or missing values.</li>
-  <li>Healthcare/sustainability applications (see <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">[ECML'17]</a><a href="https://www.scitepress.org/Papers/2018/65996/65996.pdf">[HEALTHINF'18]</a><a href="https://ieeexplore.ieee.org/abstract/document/9006400">[BIGDATA'19a]</a><a href="https://ieeexplore.ieee.org/abstract/document/9006403">[BIGDATA'19b]</a>)</li>
+  <li>Healthcare and climate change mitigation applications (see <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">[ECML'17]</a><a href="https://www.scitepress.org/Papers/2018/65996/65996.pdf">[HEALTHINF'18]</a><a href="https://ieeexplore.ieee.org/abstract/document/9006400">[BIGDATA'19a]</a><a href="https://ieeexplore.ieee.org/abstract/document/9006403">[BIGDATA'19b]</a>)</li>
 </small>
 </ul>
 
