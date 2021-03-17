@@ -351,4 +351,4 @@ I am generally interested in sequential representation learning, or building vec
 
 ### Personal
 
-In my spare time, I enjoy [rock climbing](/images/climbing2.jpg), [cycling](/images/bike.jpg), reading (fantasy, science fiction, science fact), playing guitar, and birdwatching.
+In my spare time, I enjoy [bouldering](/images/climbing2.jpg), [biking](/images/bike.jpg), books (fantasy, science fiction, science fact), birdwatching, and playing guitar.
