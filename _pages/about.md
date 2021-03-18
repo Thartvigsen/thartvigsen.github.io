@@ -16,6 +16,9 @@ My research lies at the intersection of  **data mining** and **sequential repres
 -->
 In my research I am advancing **deep learning** and **reinforcement learning** methods for **time series** data mining/machine learning and am currently interested in partially-observable domains.
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
+<!--
+With robust methods in hand, I am interested in applications towards improving the quality of healthcare for disadvantaged communities and towards the mitigation of the ongoing global collapse of biodiversity.
+-->
 
 My work has appeared at several top data mining and machine learning conferences and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
 
@@ -354,3 +357,4 @@ I am generally interested in sequential representation learning, or building vec
 ### Personal
 
 Outside of research, I enjoy [bouldering](/images/climbing2.jpg), [biking](/images/bike.jpg), books (fantasy, science fiction, science fact), birdwatching, and playing guitar.
+I also spent a summer living at [BioSphere 2](https://en.wikipedia.org/wiki/Biosphere_2) in rural Arizona.
