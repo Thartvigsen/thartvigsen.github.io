@@ -25,7 +25,7 @@ With robust methods in hand, I am interested in applications towards improving t
 
 My work has appeared at several top data mining and machine learning conferences and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
 
-**I am actively seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
+**I am seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
 <!---
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 -->
