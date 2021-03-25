@@ -15,7 +15,7 @@ Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and
 My research lies at the intersection of  **data mining** and **sequential representation learning** with a focus on time series in partially-observable domains.
 -->
 In my research I am advancing **deep learning** and **reinforcement learning** methods for **time series** data mining/machine learning.
-With robust methods in hand, I aim to advance healthcare applications.
+With robust methods in hand, I aim to advance healthcare.
 <!--
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
 -->
