@@ -156,6 +156,7 @@ Publication Summary: (conference: number of papers)
   <div>
   [<a href="../papers/aaai21.pdf">pdf</a>]
   [<a href="https://github.com/jida-thada/ska">code</a>]
+  [<a href="https://slideslive.com/38947947/semisupervised-knowledge-amalgamation-for-sequence-classification?ref=account-79851-latest">Video</a>]
   </div>
  </li>
 </ul>
