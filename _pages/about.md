@@ -23,7 +23,7 @@ With robust methods in hand, I aim to increase the quality and accessibility of 
 With robust methods in hand, I am interested in applications towards improving the quality of healthcare for disadvantaged communities and towards the mitigation of the ongoing global collapse of biodiversity.
 -->
 
-My work has appeared at several top data mining and machine learning conferences and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
+My work has appeared at several top conferences (KDD, AAAI, ACL) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
 
 **I am seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
 <!---
