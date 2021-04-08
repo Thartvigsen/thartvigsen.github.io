@@ -381,7 +381,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div>
-  [<a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">link</a>]
+  [<a href="../papers/ecml17.pdf">pdf</a>]
   </div>
  </li>
 </ul>
