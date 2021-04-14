@@ -14,7 +14,7 @@ Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and
 <!--
 My research lies at the intersection of  **data mining** and **sequential representation learning** with a focus on time series in partially-observable domains.
 -->
-In my research I am advancing **deep learning** and **reinforcement learning** methods for **time series** data mining/machine learning.
+In my research I am advancing **deep learning** and **reinforcement learning** methods for **time series data mining** and **machine learning**.
 With robust methods in hand, I aim to advance healthcare.
 <!--
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
@@ -50,15 +50,15 @@ Please feel free to contact me with questions regarding my research or our progr
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
-<li> Dec 2: New AAAI paper on <a href="papers/aaai21.pdf">combining knowledge from multiple RNNs</a>.</li>
-<li> Dec 1: I will be joining Microsoft next year as a PhD intern.</li>
+<li> Dec 2: New **AAAI** paper on <a href="papers/aaai21.pdf">combining knowledge from multiple RNNs</a>.</li>
+<li> Dec 1: I will be joining **Microsoft** next year as a PhD intern.</li>
 <li> Oct 20: New IEEE BigData paper on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
 <li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
 <li> Sept 17: Talk at Harvard.</li>
 <li> July 17: New CIKM paper on <a href="papers/cikm20.pdf">conditional computation in RNNs</a>.</li>
 <li> June 4: Talk at FSU.</li>
-<li> May 15: New KDD paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
-<li> April 4: New ACL paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
+<li> May 15: New **KDD** paper on <a href="papers/kdd20.pdf">Early Multi-label Classification</a>.</li>
+<li> April 4: New **ACL** paper on the <a href="papers/acl20.pdf">interpretability of attention mechanisms for text classification</a>.</li>
 </small>
 </ul>
 
