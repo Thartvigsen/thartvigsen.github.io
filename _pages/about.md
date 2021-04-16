@@ -14,7 +14,7 @@ Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and
 <!--
 My research lies at the intersection of  **data mining** and **sequential representation learning** with a focus on time series in partially-observable domains.
 -->
-In my research I am advancing **deep learning** and **reinforcement learning** methods for **time series data mining** and **machine learning**.
+In my research I am advancing **deep learning**, **data mining**, and **reinforcement learning** methods for **time series** and **text**.
 With robust methods in hand, I aim to advance healthcare.
 <!--
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
@@ -25,7 +25,9 @@ With robust methods in hand, I am interested in applications towards improving t
 
 My work has appeared at several top conferences (KDD, AAAI, ACL) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
 
+<!--
 **I am seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
+-->
 <!---
 Ultimately I aim to advance sustainability in machine learning and apply machine learning to sustainability challenges, motivated by the low power consumption of the human brain and the massive carbon footprint of modern deep learning. Much of my work has also focused on human health and I look forward to continuing to solve impactful problems in this domain!
 -->
