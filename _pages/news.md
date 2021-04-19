@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- **April 19, 2021: Program Committee** - I have been asked to serve on the program committee for EMNLP 2021.
 - **March 8, 2021: WIDS Conference** - I'm attending the Women in Data Science (WIDS) Conference today hosted by WPI.
 - **January 31, 2021: Program Committee** - I have been asked to serve on the program committee for ICCV 2021.
 - **January 1, 2021: Program Committee** - I have been asked to serve on the program committee for ACL 2021.
