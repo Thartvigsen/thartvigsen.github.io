@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 - [News] Apr 2021. I am serving on the program committee for **EMNLP 2021**.
-- [News] Jan 2021. I am serving the program committee for **ICCV 2021**.
+- [News] Jan 2021. I am serving on the program committee for **ICCV 2021**.
 - [News] Jan 2021. I am serving on the program committee for **ACL 2021**.
 - [Publication] December 2020. Our paper *Semi-Supervised Knowledge Amalgamation for Sequence Classification* was accepted at **AAAI 2021**.
 - [News] Dec 2020. I am joining **Microsoft** next summer as a PhD intern on the AI platform team.
