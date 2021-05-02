@@ -9,7 +9,7 @@ author_profile: false
 - [News] Jan 2021. I am serving on the program committee for **ICCV 2021**.
 - [News] Jan 2021. I am serving on the program committee for **ACL 2021**.
 - [Publication] December 2020. Our paper *Semi-Supervised Knowledge Amalgamation for Sequence Classification* was accepted at **AAAI 2021**.
-- [News] Dec 2020. I am joining **Microsoft** next summer as a PhD intern on the AI platform team.
+- [News] Dec 2020. I am joining **Microsoft** next summer as a PhD intern.
 - [News] Dec 2020. I volunteered at **NeurIPS 2020**.
 - [News] Nov 2020. I am serving on the program committee for **CVPR 2021**.
 - [Publication] Oct 2020. Our paper *Learning Similarity-Preserving Meta-Embedding for Text Mining* was accepted at **IEEE BigData 2020**.
