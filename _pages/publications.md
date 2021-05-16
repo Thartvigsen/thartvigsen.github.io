@@ -7,7 +7,7 @@ author_profile: true
 
 Publication Summary: (conference: number of papers)
 
-**KDD: 2, AAAI: 1, ACL: 1, CIKM: 1, IEEE BigData: 3, HEALTHINF: 2, URTC: 3, IEEE BHI: 1, ECML: 1**
+**KDD: 3, AAAI: 1, ACL: 1, CIKM: 1, IEEE BigData: 3, HEALTHINF: 2, URTC: 3, IEEE BHI: 1, ECML: 1**
 
 <details>
   <summary>Click for in-submission papers</summary>
