@@ -82,16 +82,6 @@ Publication Summary: (conference: number of papers)
     </li>
 
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-      <h3 itemprop="name">Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</h3>
-      <div style="color:#5e81ac">
-      H. Yin, J. B. Lee, X. Kong, <b>T. Hartvigsen</b>, S. Xie.
-      </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Variational Open-Set Recognition</h3>
       <div style="color:#5e81ac">
       L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <b>T. Hartvigsen</b>, E. Rundensteiner.
@@ -143,6 +133,16 @@ Publication Summary: (conference: number of papers)
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
+  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</h3>
+  <div style="color:#5e81ac">
+  H. Yin, J. B. Lee, X. Kong, <b>T. Hartvigsen</b>, S. Xie.
+  </div>
+  <div style="color:#a3be8c">
+  <strong>KDD, 2021</strong>. Research track, acceptance rate: 15.4%.
+  </div>
+  </li>
+
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Semi-Supervised Knowledge Amalgamation for Sequence Classification</h3>
   <div style="color:#5e81ac">

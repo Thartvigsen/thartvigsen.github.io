@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- [Publication] May 2021. Our paper *Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks* was accepted at **KDD 2021**.
 - [News] Apr 2021. I am serving on the program committee for **EMNLP 2021**.
 - [News] Jan 2021. I am serving on the program committee for **ICCV 2021**.
 - [News] Jan 2021. I am serving on the program committee for **ACL 2021**.
