@@ -17,18 +17,12 @@ Publication Summary: (conference: number of papers)
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, J. Thadajarassiri, X. Kong, E. Rundensteiner.
       </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
-      </div>
     </li>
     
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner.
-      </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
       </div>
     </li>
 
@@ -37,18 +31,12 @@ Publication Summary: (conference: number of papers)
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
       </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
-      </div>
     </li>
 
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Exact Multi-Label Classification with Incompletely Labeled Data</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
-      </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
       </div>
     </li>
 
@@ -57,9 +45,6 @@ Publication Summary: (conference: number of papers)
       <div style="color:#5e81ac">
       P. Parvatharaju, R. Doddiah, <b>T. Hartvigsen</b>, E. Rundensteiner
       </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
-      </div>
     </li>
 
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
@@ -67,17 +52,11 @@ Publication Summary: (conference: number of papers)
       <div style="color:#5e81ac">
       D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
       </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
-      </div>
     </li>
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Multi-State Brain Network Discovery</h3>
       <div style="color:#5e81ac">
       H. Yin, X. Liu, X. Kong, <b>T. Hartvigsen</b>, Y. Li.
-      </div>
-      <div style="color:#a3be8c">
-      In submission to KDD 2021.
       </div>
     </li>
 
@@ -133,6 +112,7 @@ Publication Summary: (conference: number of papers)
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
+<!--
   <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</h3>
   <div style="color:#5e81ac">
@@ -142,6 +122,7 @@ Publication Summary: (conference: number of papers)
   <strong>KDD, 2021</strong>. Research track, acceptance rate: 15.4%.
   </div>
   </li>
+-->
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Semi-Supervised Knowledge Amalgamation for Sequence Classification</h3>
