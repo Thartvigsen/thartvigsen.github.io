@@ -9,6 +9,7 @@ Publication Summary: (conference: number of papers)
 
 **KDD: 2, AAAI: 1, ACL: 1, CIKM: 1, IEEE BigData: 3, HEALTHINF: 2, URTC: 3, IEEE BHI: 1, ECML: 1**
 
+<!--
 <details>
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
@@ -325,6 +326,8 @@ Publication Summary: (conference: number of papers)
   </div>
  </li>
 </ul>
+
+-->
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
