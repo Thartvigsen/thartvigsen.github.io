@@ -9,7 +9,6 @@ Publication Summary: (conference: number of papers)
 
 **KDD: 2, AAAI: 1, ACL: 1, CIKM: 1, IEEE BigData: 3, HEALTHINF: 2, URTC: 3, IEEE BHI: 1, ECML: 1**
 
-<!--
 <details>
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
@@ -70,7 +69,6 @@ Publication Summary: (conference: number of papers)
     </li>
   </ul>
 </details>
--->
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
@@ -79,6 +77,7 @@ Publication Summary: (conference: number of papers)
   <div style="color:#5e81ac">
   H. Yin, J. B. Lee, X. Kong, <b>T. Hartvigsen</b>, S. Xie.
   </div>
+
   <div style="color:#a3be8c">
   <strong>KDD, 2021</strong>. Research track, acceptance rate: 15.4%.
   </div>
