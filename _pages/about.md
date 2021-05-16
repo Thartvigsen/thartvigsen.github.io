@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I'm a Ph.D. candidate in Data Science at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
+Hi! I'm a Data Science Ph.D. candidate at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
 <!--
 My research lies at the intersection of  **data mining** and **sequential representation learning** with a focus on time series in partially-observable domains.
