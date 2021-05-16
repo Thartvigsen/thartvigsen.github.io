@@ -366,7 +366,7 @@ I am generally interested in sequential representation learning, or building vec
 </ul>
 -->
 
-### Personal
+### Misc
 
 Outside of research, I enjoy [bouldering](/images/climbing2.jpg), [biking](/images/bike.jpg), books (fantasy, science fiction, science fact), birdwatching, and playing guitar.
 I also spent a summer living at [BioSphere 2](https://en.wikipedia.org/wiki/Biosphere_2) in rural Arizona.
