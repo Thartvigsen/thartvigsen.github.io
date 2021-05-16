@@ -9,6 +9,7 @@ Publication Summary: (conference: number of papers)
 
 **KDD: 2, AAAI: 1, ACL: 1, CIKM: 1, IEEE BigData: 3, HEALTHINF: 2, URTC: 3, IEEE BHI: 1, ECML: 1**
 
+<!--
 <details>
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
@@ -53,6 +54,7 @@ Publication Summary: (conference: number of papers)
       D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
       </div>
     </li>
+
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Multi-State Brain Network Discovery</h3>
       <div style="color:#5e81ac">
@@ -68,51 +70,10 @@ Publication Summary: (conference: number of papers)
     </li>
   </ul>
 </details>
-
-
-<!--
-<h3 itemprop="name">In Submission</h3>
-
- <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Maximizing Subset Accuracy on Incompletely-Labeled Data</h3>
-  <div style="color:#5e81ac">
-  W. Gerych, <strong>T. Hartvigsen</strong>, L. Buquicchio, E. Rundensteiner.
-  </div>
- </li>
-
- <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Maximizing Subset Accuracy on Incompletely-Labeled Data</h3>
-  <div style="color:#5e81ac">
-  W. Gerych, <strong>T. Hartvigsen</strong>, L. Buquicchio, E. Rundensteiner.
-  </div>
- </li>
-
- <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Human-Guided Attention for Explainable Text Classification</h3>
-  <div style="color:#5e81ac">
-  C. Sen, <strong>T. Hartvigsen</strong>, J. Thadajarassiri, D. Zhang, X. Kong, E. Rundensteiner.
-  </div>
- </li>
-
- <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Deep Positive Unlabeled Learning with a Sequential Bias</h3>
-  <div style="color:#5e81ac">
-  W. Gerych, <strong>T. Hartvigsen</strong>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
-  </div>
- </li>
-
-
- <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Variational Open-Set Recognition</h3>
-  <div style="color:#5e81ac">
-  L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <strong>T. Hartvigsen</strong>, E. Rundensteiner.
-  </div>
- </li>
- --!>
+-->
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
-<!--
   <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</h3>
   <div style="color:#5e81ac">
@@ -122,7 +83,6 @@ Publication Summary: (conference: number of papers)
   <strong>KDD, 2021</strong>. Research track, acceptance rate: 15.4%.
   </div>
   </li>
--->
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Semi-Supervised Knowledge Amalgamation for Sequence Classification</h3>
