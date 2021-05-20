@@ -305,7 +305,10 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-  <strong>HEALTHINF, 2018</strong>. Best student paper short list.
+  <strong>HEALTHINF, 2018</strong>.
+  </div>
+  <div style="color:#E30B5C">
+  Best student paper runner up.
   </div>
 
   <div>
