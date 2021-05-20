@@ -60,7 +60,7 @@ Please feel free to contact me with questions regarding my research or our progr
 <small>
 <li> May 16: New <span style="color: #E30B5C"><b>KDD paper</b></span> on Spiking Neural Networks.</li>
 <li> Dec 2: New <span style="color: #E30B5C"><b>AAAI paper</b></span> on <a href="papers/aaai21.pdf">combining knowledge from multiple RNNs</a>.</li>
-<li> Dec 1: I will be joining <b>Microsoft</b> next year as a PhD intern.</li>
+<li> Dec 1: I will be <span style="color: #E30B5C"><b>interning with Microsoft</b></span> next summer.</li>
 <li> Oct 20: New <span style="color: #E30B5C"><b>IEEE BigData paper</b></span> on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
 <li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
 <li> Sept 17: Talk at Harvard.</li>
