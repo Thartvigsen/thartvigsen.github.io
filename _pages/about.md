@@ -17,7 +17,7 @@ My research lies at the intersection of  **data mining** and **sequential repres
 <!--
 In my research, I am intersecting and advancing **deep learning**, **data mining**, and **reinforcement learning** for **time series** and **text**.
 -->
-In my research, I study **data mining** and **machine learning**, for **time series** and **text**.
+In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 <!--
 In my research I am advancing **deep learning**, **data mining**, and **reinforcement learning** methods for **time series** and **text**.
 -->
