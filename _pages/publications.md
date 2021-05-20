@@ -181,7 +181,10 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-  <strong>HEALTHINF, 2020</strong>. Best Poster.
+  <strong>HEALTHINF, 2020</strong>.
+  </div>
+  <div style="color:#E30B5C">
+  Best Poster.
   </div>
 
   <div>
