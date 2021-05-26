@@ -21,7 +21,7 @@ In my research, I study **data mining** and **machine learning** for **time seri
 <!--
 In my research I am advancing **deep learning**, **data mining**, and **reinforcement learning** methods for **time series** and **text**.
 -->
-With robust methods in hand, I aim to advance healthcare.
+With robust methods in hand, I aim to advance healthcare and environmental data science.
 <!--
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
 -->
@@ -29,7 +29,7 @@ With robust methods in hand, I aim to increase the quality and accessibility of 
 With robust methods in hand, I am interested in applications towards improving the quality of healthcare for disadvantaged communities and towards the mitigation of the ongoing global collapse of biodiversity.
 -->
 
-My work has appeared at several top conferences (KDD, AAAI, ACL) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
+My work has appeared at several top conferences (KDD, AAAI, ACL, CIKM) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
 
 <!--
 **I am seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
