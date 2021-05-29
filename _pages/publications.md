@@ -13,6 +13,13 @@ Publication Summary: (conference: number of papers)
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+      <h3 itemprop="name">Early Classification of Irregular Time Series</h3>
+      <div style="color:#5e81ac">
+      <b>T. Hartvigsen</b>, W. Gerych, J. Thadajarassiri, X. Kong, E. Rundensteiner.
+      </div>
+    </li>
+
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification</h3>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, J. Thadajarassiri, X. Kong, E. Rundensteiner.
@@ -20,9 +27,16 @@ Publication Summary: (conference: number of papers)
     </li>
     
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+      <h3 itemprop="name">Recovering The Propensity Score From Biased Positive Unlabeled Data</h3>
+      <div style="color:#5e81ac">
+      W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
+      </div>
+    </li>
+
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</h3>
       <div style="color:#5e81ac">
-      W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner.
+      W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
