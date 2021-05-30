@@ -42,7 +42,7 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 My CV can be found [here](/files/hartvigsen_cv.pdf).
 -->
 
-Please feel free to contact me with questions regarding my research or our program at WPI. I am always looking to chat about research!
+Please feel free to contact me with questions about my research or our program at WPI. I am always looking to chat about research!
 
 ### Research Interests
 <ul style="margin-bottom: 5px;">
