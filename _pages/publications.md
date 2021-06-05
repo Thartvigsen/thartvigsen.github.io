@@ -95,6 +95,10 @@ Publication Summary: (conference: number of papers)
   <div style="color:#a3be8c">
   <strong>KDD, 2021</strong>. Research track, acceptance rate: 15.4%.
   </div>
+
+  <div>
+  [<a href="../papers/kdd21.pdf">pdf</a>]
+  </div>
   </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
