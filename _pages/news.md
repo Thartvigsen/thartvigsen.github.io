@@ -5,12 +5,12 @@ permalink: /news/
 author_profile: false
 ---
 
-- [Publication] May 2021. Our paper *Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks* was accepted at **KDD 2021**.
+- [Publication] May 2021. Our paper *Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks* was accepted at <span style="color: #E30B5C">**KDD 2021**</span>.
 - [News] Apr 2021. I am serving on the program committee for **EMNLP 2021**.
 - [News] Jan 2021. I am serving on the program committee for **ICCV 2021**.
 - [News] Jan 2021. I am serving on the program committee for **ACL 2021**.
-- [Publication] December 2020. Our paper *Semi-Supervised Knowledge Amalgamation for Sequence Classification* was accepted at **AAAI 2021**.
-- [News] Dec 2020. I am joining **Microsoft** next summer as a PhD intern.
+- [Publication] December 2020. Our paper *Semi-Supervised Knowledge Amalgamation for Sequence Classification* was accepted at <span style="color: #E30B5C">**AAAI 2021**</span>.
+- [News] Dec 2020. I am joining <span style="color: #E30B5C">**Microsoft**</span> next summer as a PhD intern.
 - [News] Dec 2020. I volunteered at **NeurIPS 2020**.
 - [News] Nov 2020. I am serving on the program committee for **CVPR 2021**.
 - [Publication] Oct 2020. Our paper *Learning Similarity-Preserving Meta-Embedding for Text Mining* was accepted at **IEEE BigData 2020**.
@@ -19,10 +19,10 @@ author_profile: false
 - [Award] Sep 2020. I was awarded the CIKM Travel Grant from ACM.
 - [News] Aug 2020. I am serving on the program committee for **AAAI 2021**.
 - [Award] Aug 2020. I was been awarded the KDD Travel Grant this year from ACM and the NSF.
-- [Publication] Jul 2020. Our paper *Learning to Selectively Update State Neurons in Recurrent Networks* was accepted at **CIKM 2020**.
+- [Publication] Jul 2020. Our paper *Learning to Selectively Update State Neurons in Recurrent Networks* was accepted at <span style="color: #E30B5C">**CIKM 2020**</span>.
 - [Talk] Jun 2020. I gave a talk on my research at **Florida State University**.
-- [Publication] May 2020. Our paper *Recurrent Halting Chain for Early Multi-label Classification* was accepted at **KDD 2020**.
-- [Publication] Apr 2020. Our paper *Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?* was accepted at **ACL 2020**.
+- [Publication] May 2020. Our paper *Recurrent Halting Chain for Early Multi-label Classification* was accepted at <span style="color: #E30B5C">**KDD 2020**</span>.
+- [Publication] Apr 2020. Our paper *Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?* was accepted at <span style="color: #E30B5C">**ACL 2020**</span>.
 - [Award] Feb 2020. Our paper at HEALTHINF this year was awarded **best poster**.
 - [Publication] Dec 2019. Our paper *Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection* was accepted at HEALTHINF 2020.
 - [Publication] Oct 2019. Our paper *Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention* was accepted to IEEE BigData 2019.
