@@ -26,14 +26,14 @@ author_profile: false
 - [Award] Feb 2020. Our paper at HEALTHINF this year was awarded **best poster**.
 - [<span style="color: #E30B5C">**Publication**</span>] Dec 2019. Our paper *Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection* was accepted at HEALTHINF 2020.
 - [<span style="color: #E30B5C">**Publication**</span>] Oct 2019. Our paper *Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention* was accepted to IEEE BigData 2019.
-- [<span style="color: #E30B5C">**Publication**</span>] Oct 2019. Our paper *Learning Temporal Relevance in Longitudinal Medical Notes* was accepted to IEEE BigData 2019.
+- [<span style="color: #E30B5C">**Publication**</span>] Oct 2019. Our paper *Learning Temporal Relevance in Longitudinal Medical Notes* was accepted to <span style="color: #E30B5C">**IEEE BigData 2019**</span>.
 - [Talk] Sep 2019. I presented some of my work at the **University of Minnesota** Workshop on Recent Progress in Foundational Data Science.
 - [Event] Aug 2019. I attended Big Data 2019 at Harvard University.
 - [Talk] Aug 2019. I attended KDD 2019 and presented our paper.
 - [Talk] May 2019. I presented some of my work at the **New England Machine Learning Day**.
-- [<span style="color: #E30B5C">**Publication**</span>] Apr 2019. Our paper *Adaptive-Halting Policy Network for Early Classification* was accepted at **KDD 2019**.
+- [<span style="color: #E30B5C">**Publication**</span>] Apr 2019. Our paper *Adaptive-Halting Policy Network for Early Classification* was accepted at <span style="color: #E30B5C">**KDD 2019**</span>.
 - [Award] Apr 2019. I won first place in WPI's annual graduate research showcase.
-- [<span style="color: #E30B5C">**Publication**</span>] Mar 2019. Our paper *Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining* was accepted to the **IEEE BHI**.
+- [<span style="color: #E30B5C">**Publication**</span>] Mar 2019. Our paper *Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining* was accepted to the <span style="color: #E30B5C">**IEEE BHI**</span>.
 - [Event] Jan 2019. I attended the Geometric Analysis Approach to AI Workshop at Harvard University.
 - [News] Nov 2018. I defended my Master's Thesis: Adaptively-Halting RNN for Tunable Early Classification of Time Series.
 - [News] Sep 2018. I began a year-long collaboration with UMass Medical School.
