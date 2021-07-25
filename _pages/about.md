@@ -29,7 +29,7 @@ With robust methods in hand, I aim to increase the quality and accessibility of 
 With robust methods in hand, I am interested in applications towards improving the quality of healthcare for disadvantaged communities and towards the mitigation of the ongoing global collapse of biodiversity.
 -->
 
-My work has appeared at several top conferences (KDD, AAAI, ACL, CIKM) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
+My work has appeared at several top venues (KDD, AAAI, ACL, CIKM) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
 
 <!--
 **I am seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
@@ -42,12 +42,12 @@ Ultimately I aim to advance sustainability in machine learning and apply machine
 My CV can be found [here](/files/hartvigsen_cv.pdf).
 -->
 
-Please feel free to contact me with questions about my research or our program at WPI. I am always looking to chat about research!
+Please feel free to contact me with questions about my research or our program at WPI. I am always happy to chat!
 
 ### Research Interests
 <ul style="margin-bottom: 5px;">
 <small>
-  <li>Sequential Learning in Time-Sensitive Domains (see our <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD 2019</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD 2020</a> papers)</li>
+  <li>Sequential learning in time-sensitive domains (see our <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD 2019</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD 2020</a> papers)</li>
   <li>Recurrent Neural Networks (see our <a href="https://thartvigsen.github.io/papers/aaai21.pdf">AAAI 2021</a> and <a href="https://thartvigsen.github.io/papers/cikm20.pdf">CIKM 2020</a> papers)</li>
   <li>Explainable Deep Learning (see our <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL 2020</a> paper)</li>
   <li>Learning from systems with partial observations or missing values.</li>
@@ -58,7 +58,7 @@ Please feel free to contact me with questions about my research or our program a
 ### News
 <ul style="margin-bottom: 5px;">
 <small>
-<li> June 7: I am <span style="color: #E30B5C"><b>interning with Microsoft</b></span> this summer.</li>
+<li> June 7: <span style="color: #E30B5C"><b>Interning with Microsoft</b></span> this summer.</li>
 <li> May 16: New <span style="color: #E30B5C"><b>KDD paper</b></span> on spike train classification.</li>
 <li> Dec 2: New <span style="color: #E30B5C"><b>AAAI paper</b></span> on <a href="papers/aaai21.pdf">combining knowledge from multiple RNNs</a>.</li>
 <li> Oct 20: New <span style="color: #E30B5C"><b>IEEE BigData paper</b></span> on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
