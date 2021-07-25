@@ -109,8 +109,8 @@ Publication Summary: (conference: number of papers)
       booktitle = "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '21)",
       year      = "2021"
     }
-    </pre>
     </code>
+    </pre>
   </details>
   </li>
 
