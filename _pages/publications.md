@@ -89,26 +89,22 @@ Publication Summary: (conference: number of papers)
   <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</h3>
   <div style="color:#5e81ac">
-  H. Yin, J. B. Lee, X. Kong, <b>T. Hartvigsen</b>, S. Xie.
+    H. Yin, J. B. Lee, X. Kong, <b>T. Hartvigsen</b>, S. Xie.
   </div>
 
   <div style="color:#a3be8c">
-  <strong>KDD, 2021</strong>. Research track, acceptance rate: 15.4%.
+    <strong>KDD, 2021</strong>. Research track, acceptance rate: 15.4%.
   </div>
 
   <div>
-  [<a href="../papers/kdd21.pdf">pdf</a>]
+    [<a href="../papers/kdd21.pdf">pdf</a>]
   </div>
-  <pre>
-    <code>
-      @inproceedings{hartvigsenkdd21,
-      author    = "Hang Yin and John Boaz Lee and Xiangnan Kong and Thomas Hartvigsen and Sihong Xie",
-      title     = "Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks",
-      booktitle = "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '21)",
-      year      = "2021"
-      }
-    </code>
-  </pre>
+    \@inproceedings{hartvigsenkdd21,
+    author    = "Hang Yin and John Boaz Lee and Xiangnan Kong and Thomas Hartvigsen and Sihong Xie",
+    title     = "Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks",
+    booktitle = "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '21)",
+    year      = "2021"
+    }
   </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
