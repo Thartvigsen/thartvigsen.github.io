@@ -59,9 +59,7 @@ Please feel free to contact me with questions about my research or our program a
 <ul style="margin-bottom: 5px;">
 <small>
 <li> June 7: <span style="color: #E30B5C"><b>Interning with Microsoft</b></span> this summer.</li>
-<!--
 <li> May 16: New <span style="color: #E30B5C"><b>KDD paper</b></span> on <a href="papers/kdd21.pdf">spike train classification</a>.</li>
--->
 <li> Dec 2: New <span style="color: #E30B5C"><b>AAAI paper</b></span> on <a href="papers/aaai21.pdf">combining knowledge from multiple RNNs</a>.</li>
 <li> Oct 20: New <span style="color: #E30B5C"><b>IEEE BigData paper</b></span> on <a href="papers/bigdata20.pdf">Meta Word-Embeddings</a>.</li>
 <li> Oct 18: Talk at Computational Sustainability Doctoral Consortium.</li>
