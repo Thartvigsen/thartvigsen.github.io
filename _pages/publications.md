@@ -99,6 +99,7 @@ Publication Summary: (conference: number of papers)
   <div>
     [<a href="../papers/kdd21.pdf">pdf</a>]
   </div>
+  <!--
   <details>
     <summary>bibtex reference</summary>
     <pre>
@@ -112,6 +113,7 @@ Publication Summary: (conference: number of papers)
     </code>
     </pre>
   </details>
+  -->
   </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
