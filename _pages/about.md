@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<!--
+I am passionate about the natural world and I see a need for technological approaches to modeling and understanding ongoing environments.
+This has led me to pursue a PhD at WPI advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) where my research focuses on **data mining** and **machine learning** for **time series**.
+My work is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to advance healthcare and environmental data science.
+-->
 
 Hi! I'm a Data Science Ph.D. candidate at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
@@ -21,7 +26,7 @@ In my research, I study **data mining** and **machine learning** for **time seri
 <!--
 In my research I am advancing **deep learning**, **data mining**, and **reinforcement learning** methods for **time series** and **text**.
 -->
-With robust methods in hand, I aim to advance healthcare and environmental data science.
+My work is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to advance healthcare and environmental data science.
 <!--
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
 -->
@@ -47,10 +52,10 @@ Please feel free to contact me with questions about my research or our program a
 ### Research Interests
 <ul style="margin-bottom: 5px;">
 <small>
-  <li>Time Series (see our <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD 2019</a>, <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD 2020</a>, and <a href="https://thartvigsen.github.io/papers/kdd21.pdf">KDD 2021</a> papers)</li>
-  <li>Recurrent Neural Networks (see our <a href="https://thartvigsen.github.io/papers/aaai21.pdf">AAAI 2021</a> and <a href="https://thartvigsen.github.io/papers/cikm20.pdf">CIKM 2020</a> papers)</li>
-  <li>Explainable Deep Learning (see our <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL 2020</a> paper)</li>
-  <li>Healthcare (see our <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">ECML 2017</a>, <a href="https://www.scitepress.org/Papers/2018/65996/65996.pdf">HEALTHINF 2018</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9006400">BIGDATA 2019</a>, and <a href="https://ieeexplore.ieee.org/abstract/document/9006403">BIGDATA 2019</a> papers)</li>
+  <li><b>Time Series</b> (see our <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD 2019</a>, <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD 2020</a>, and <a href="https://thartvigsen.github.io/papers/kdd21.pdf">KDD 2021</a> papers)</li>
+  <li><b>Recurrent Neural Networks</b> (see our <a href="https://thartvigsen.github.io/papers/aaai21.pdf">AAAI 2021</a> and <a href="https://thartvigsen.github.io/papers/cikm20.pdf">CIKM 2020</a> papers)</li>
+  <li><b>Explainable Deep Learning</b> (see our <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL 2020</a> paper)</li>
+  <li><b>Healthcare</b> (see our <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">ECML 2017</a>, <a href="https://www.scitepress.org/Papers/2018/65996/65996.pdf">HEALTHINF 2018</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9006400">BIGDATA 2019</a>, and <a href="https://ieeexplore.ieee.org/abstract/document/9006403">BIGDATA 2019</a> papers)</li>
 </small>
 </ul>
 <!--
