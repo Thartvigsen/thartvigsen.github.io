@@ -26,7 +26,7 @@ In my research, I study **data mining** and **machine learning** for **time seri
 <!--
 In my research I am advancing **deep learning**, **data mining**, and **reinforcement learning** methods for **time series** and **text**.
 -->
-My work is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to advance healthcare and environmental data science.
+My work is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve healthcare and fight climate change.
 <!--
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
 -->
