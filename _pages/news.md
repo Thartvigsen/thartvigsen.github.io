@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: false
 ---
 
+- [<span style="color: #E30B5C">**Publication**</span>] Aug 2021. Our paper *Learning Saliency Maps for Deep Time Series Classifiers* was accepted at <span style="color: #E30B5C">**CIKM 2021**</span>.
 - [<span style="color: #E30B5C">**Publication**</span>] May 2021. Our paper *Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks* was accepted at <span style="color: #E30B5C">**KDD 2021**</span>.
 - [News] Apr 2021. I am serving on the program committee for **EMNLP 2021**.
 - [News] Jan 2021. I am serving on the program committee for **ICCV 2021**.
