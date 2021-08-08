@@ -54,7 +54,7 @@ Please feel free to contact me with questions about my research or our program a
 <small>
   <li><b>Time Series</b> (see our <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD 2019</a>, <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD 2020</a>, and <a href="https://thartvigsen.github.io/papers/kdd21.pdf">KDD 2021</a> papers)</li>
   <li><b>Recurrent Neural Networks</b> (see our <a href="https://thartvigsen.github.io/papers/aaai21.pdf">AAAI 2021</a> and <a href="https://thartvigsen.github.io/papers/cikm20.pdf">CIKM 2020</a> papers)</li>
-  <li><b>Explainable Deep Learning</b> (see our <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL 2020</a> and CIKM 2021 papers)</li>
+  <li><b>Explainable Deep Learning</b> (see our <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL 2020</a> and <a href="https://thartvigsen.github.io/papers/cikm21.pdf">CIKM 2021</a> papers)</li>
   <li><b>Healthcare</b> (see our <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">ECML 2017</a>, <a href="https://www.scitepress.org/Papers/2018/65996/65996.pdf">HEALTHINF 2018</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9006400">BIGDATA 2019</a>, and <a href="https://ieeexplore.ieee.org/abstract/document/9006403">BIGDATA 2019</a> papers)</li>
 </small>
 </ul>
