@@ -55,13 +55,6 @@ Publication Summary: (conference: number of papers)
     </li>
 
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-      <h3 itemprop="name">Learning Saliency Maps to Explain Deep Time Series Classifiers</h3>
-      <div style="color:#5e81ac">
-      P. Parvatharaju, R. Doddiah, <b>T. Hartvigsen</b>, E. Rundensteiner
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention</h3>
       <div style="color:#5e81ac">
       D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
@@ -86,6 +79,17 @@ Publication Summary: (conference: number of papers)
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
+  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <h3 itemprop="name">Learning Saliency Maps to Explain Deep Time Series Classifiers</h3>
+  <div style="color:#5e81ac">
+    P. Parvatharaju, R. Doddaiah, <b>T. Hartvigsen</b>, E. Rundensteiner
+  </div>
+
+  <div style="color:#a3be8c">
+    <strong>CIKM, 2021</strong>. Acceptance rate: 21%.
+  </div>
+  </li>
+
   <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <h3 itemprop="name">Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</h3>
   <div style="color:#5e81ac">
