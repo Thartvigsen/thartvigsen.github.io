@@ -70,7 +70,7 @@ Please feel free to contact me with questions about my research or our program a
 </ul>
 -->
 
-### News
+### What's New
 <ul style="margin-bottom: 5px;">
 <small>
 <li> Aug 8: New <span style="color: #E30B5C"><b>CIKM paper</b></span> on <a href="papers/cikm21.pdf">explainability for deep time series models</a>.</li>
