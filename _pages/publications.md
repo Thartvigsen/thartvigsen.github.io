@@ -88,6 +88,10 @@ Publication Summary: (conference: number of papers)
   <div style="color:#a3be8c">
     <strong>CIKM, 2021</strong>. Acceptance rate: 21%.
   </div>
+
+  <div>
+    [<a href="../papers/cikm21.pdf">pdf</a>]
+  </div>
   </li>
 
   <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
