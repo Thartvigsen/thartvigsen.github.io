@@ -86,7 +86,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-    <strong>CIKM, 2021</strong>. Acceptance rate: 21%.
+    <strong>CIKM, 2021</strong>.
   </div>
 
   <div>
@@ -101,7 +101,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-    <strong>KDD, 2021</strong>. Research track, acceptance rate: 15.4%.
+    <strong>KDD, 2021</strong>. Research track.
   </div>
 
   <div>
@@ -132,7 +132,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-  <strong>AAAI, 2021</strong>. Acceptance rate: 21%.
+  <strong>AAAI, 2021</strong>.
   </div>
 
   <div>
@@ -153,7 +153,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-  <strong>KDD, 2020</strong>. Research track, acceptance rate: 16.9%.
+  <strong>KDD, 2020</strong>. Research track.
   </div>
 
   <div>
@@ -172,7 +172,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-  <strong>ACL, 2020</strong>. Long paper, acceptance rate: 17.6%.
+  <strong>ACL, 2020</strong>.
   </div>
 
   <div>
@@ -190,7 +190,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-  <strong>CIKM, 2020</strong>. Research track, acceptance rate: 18%.
+  <strong>CIKM, 2020</strong>. Research track.
   </div>
   
   <div>
@@ -208,7 +208,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-  <strong>IEEE BigData, 2020</strong>. Long paper, acceptance rate: 15.5%.
+  <strong>IEEE BigData, 2020</strong>.
   </div>
 
   <div>
@@ -245,7 +245,7 @@ Publication Summary: (conference: number of papers)
   </div>
 
   <div style="color:#a3be8c">
-  <strong>KDD, 2019</strong>. Research track, acceptance rate: 14.2%.
+  <strong>KDD, 2019</strong>. Research track.
   </div>
 
   <div>
