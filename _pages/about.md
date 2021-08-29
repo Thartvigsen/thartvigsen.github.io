@@ -14,19 +14,29 @@ This has led me to pursue a PhD at WPI advised by [Elke Rundensteiner](https://w
 My work is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to advance healthcare and environmental data science.
 -->
 
+<!--
+Hi! I am a postdoc at [MIT](https://web.mit.edu/) [CSAIL](https://www.csail.mit.edu/)/[IMES](https://imes.mit.edu/) working with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) on machine learning for health.
+
+I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) as a member of the [DAISY Lab](http://daisy.wpi.edu).
+-->
+
 Hi! I'm a Data Science Ph.D. candidate at Worcester Polytechnic Institute and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
+<!--
+In my research, I aim to build systems that learn from large amounts of data to support time-sensitive decision making in ongoing environments without perpetuating bias.
+To this end, I build **data mining** and **machine learning** models and tools for primarily **time series** and **text**.
+-->
+In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 <!--
 My research lies at the intersection of  **data mining** and **sequential representation learning** with a focus on time series in partially-observable domains.
 -->
 <!--
 In my research, I am intersecting and advancing **deep learning**, **data mining**, and **reinforcement learning** for **time series** and **text**.
 -->
-In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 <!--
 In my research I am advancing **deep learning**, **data mining**, and **reinforcement learning** methods for **time series** and **text**.
 -->
-My work is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve healthcare and fight climate change.
+This work is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve healthcare and fight climate change.
 <!--
 With robust methods in hand, I aim to increase the quality and accessibility of healthcare to support geographically and economically disadvantaged communities.
 -->
@@ -36,6 +46,12 @@ With robust methods in hand, I am interested in applications towards improving t
 
 My work has appeared at several top venues (KDD, AAAI, ACL, CIKM) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write clinical trials faster.
 
+<!--
+I am interested in a few key research questions:
+* How can we learn effective representations from systems with partial observations or missing values? What if these data are streaming?
+* How can we optimize *when* to send a prediction to a user to maximize the usefulness of a model?
+* How can we ensure that large pre-trained models don't perpetuate existing biases in their training data? If we can't access their data, how do we know what biases were there in the first place?
+-->
 <!--
 **I am seeking tenure-track faculty positions and post-doc positions starting in January 2022.**
 -->
@@ -49,7 +65,7 @@ My CV can be found [here](/files/hartvigsen_cv.pdf).
 
 Please feel free to contact me with questions about my research or our program at WPI. I am always happy to chat!
 
-### Research Interests
+### Technical Research Interests
 <ul style="margin-bottom: 5px;">
 <small>
   <li><b>Time Series</b> (see our <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD 2019</a>, <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD 2020</a>, and <a href="https://thartvigsen.github.io/papers/kdd21.pdf">KDD 2021</a> papers)</li>
@@ -70,10 +86,10 @@ Please feel free to contact me with questions about my research or our program a
 </ul>
 -->
 
-### What's New
+### What's New?
 <ul style="margin-bottom: 5px;">
 <small>
-<li> Aug 8: New <span style="color: #E30B5C"><b>CIKM paper</b></span> on <a href="papers/cikm21.pdf">explainability for deep time series models</a>.</li>
+<li> Aug 8: New <span style="color: #E30B5C"><b>CIKM paper</b></span> on <a href="papers/cikm21.pdf">explainability for deep time series models</a>. Great work, Prathyush and Ramesh!</li>
 <li> June 7: <span style="color: #E30B5C"><b>Interning with Microsoft</b></span> this summer.</li>
 <li> May 16: New <span style="color: #E30B5C"><b>KDD paper</b></span> on <a href="papers/kdd21.pdf">spike train classification</a>.</li>
 <li> Dec 2: New <span style="color: #E30B5C"><b>AAAI paper</b></span> on <a href="papers/aaai21.pdf">combining knowledge from multiple RNNs</a>.</li>
