@@ -62,6 +62,20 @@ Publication Summary: (conference: number of papers)
     </li>
 
     <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+      <h3 itemprop="name">SkipSNN: Efficiently Classifying Sparse and Noisy Spike Trains</h3>
+      <div style="color:#5e81ac">
+      H. Yin, X. Kong, L. Liu, X. Dai, <b>T. Hartvigsen</b>.
+      </div>
+    </li>
+
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+      <h3 itemprop="name">Crowd-MIA: A Crowdsourced Dataset for Multi-grained Weakly Supervised Learning</h3>
+      <div style="color:#5e81ac">
+      R. Hu, D. Zhang, D. Tao, <b>T. Hartvigsen</b>, H. Feng, E. Rundensteiner.
+      </div>
+    </li>
+
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Multi-State Brain Network Discovery</h3>
       <div style="color:#5e81ac">
       H. Yin, X. Liu, X. Kong, <b>T. Hartvigsen</b>, Y. Li.
