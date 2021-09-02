@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-Publication Summary: (conference: number of papers)
+Publication Summary:
 
 **KDD: 3, AAAI: 1, ACL: 1, CIKM: 2, IEEE BigData: 3, ECML: 1, HEALTHINF: 2, IEEE BHI: 1**
 
