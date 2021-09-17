@@ -44,7 +44,7 @@ With robust methods in hand, I aim to increase the quality and accessibility of 
 With robust methods in hand, I am interested in applications towards improving the quality of healthcare for disadvantaged communities and towards the mitigation of the ongoing global collapse of biodiversity.
 -->
 
-My work has work has resulted in several top papers (KDD, AAAI, ACL, CIKM) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write better clinical trials faster.
+My work has resulted in several top papers (KDD, AAAI, ACL, CIKM) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write better clinical trials faster.
 
 <!--
 I am interested in a few key research questions:
