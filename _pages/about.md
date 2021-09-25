@@ -16,7 +16,7 @@ I received my PhD from Worcester Polytechnic Institute where I worked with [Elke
 
 Hi! I'm a Data Science Ph.D. candidate at [Worcester Polytechnic Institute](https://www.wpi.edu/) and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
-In my research, I aim to build systems that learn from large amounts of data to support time-sensitive decision making in ongoing environments.
+In my research, I aim to build systems that learn from large amounts of data to support time-sensitive decision making in ongoing environments without perpetuating societal biases.
 To this end, I build **data mining** and **machine learning** models and tools for primarily **time series** and **text**.
 <!--
 In my research, I study **data mining** and **machine learning** for **time series** and **text**.
