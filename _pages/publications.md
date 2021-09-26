@@ -123,8 +123,6 @@ Publication Summary:
   <div>
     <button onclick="location.href='../papers/kdd21.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://dl.acm.org/doi/abs/10.1145/3447548.3467252'" type="button">talk</button>
-    [<a href="../papers/kdd21.pdf">pdf</a>]
-    [<a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467252">talk</a>]
   </div>
   <!--
   <details>
@@ -154,10 +152,9 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="../papers/aaai21.pdf">pdf</a>]
-  [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17185">aaai link</a>]
-  [<a href="https://github.com/jida-thada/ska">code</a>]
-  [<a href="https://slideslive.com/38947947/semisupervised-knowledge-amalgamation-for-sequence-classification?ref=account-79851-latest">talk</a>]
+    <button onclick="location.href='../papers/aaai21.pdf'" type="button">pdf</button>
+    <button onclick="location.href='https://github.com/jida-thada/ska'" type="button">code</button>
+    <button onclick="location.href='https://slideslive.com/38947947/semisupervised-knowledge-amalgamation-for-sequence-classification?ref=account-79851-latest'" type="code">talk</button>
   </div>
  </li>
 </ul>
@@ -175,11 +172,10 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="../papers/kdd20.pdf">pdf</a>]
-  [<a href="https://dl.acm.org/doi/10.1145/3394486.3403191?cid=99659453882">acm link</a>]
-  [<a href="https://github.com/Thartvigsen/RecurrentHaltingChain">code</a>]
-  [<a href=" https://youtu.be/Z1_jFf4DrtI ">20-min KDD Talk</a>]
-  [<a href="https://www.youtube.com/watch?v=g8YWCCnkkiI&feature=youtu.be">5-min Poster Talk</a>]
+    <button onclick="location.href='../papers/kdd20.pdf'" type="button">pdf</button>
+    <button onclick="location.href='https://dl.acm.org/doi/10.1145/3394486.3403191?cid=99659453882'" type="button">ACM link</button>
+    <button onclick="location.href='https://github.com/Thartvigsen/RecurrentHaltingChain'" type="button">code</button>
+    <button onclick="location.href='https://youtu.be/Z1_jFf4DrtI'" type="button">talk</button>
   </div>
  </li>
 
@@ -194,10 +190,9 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="../papers/acl20.pdf">pdf</a>]
-  [<a href="https://www.aclweb.org/anthology/2020.acl-main.419/">acl link</a>]
-  [<a href="http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html">data</a>]
-  [<a href="http://slideslive.com/38929024">ACL talk</a>]
+    <button onclick="location.href='../papers/acl20.pdf'" type="button">pdf</button>
+    <button onclick="location.href='http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html'" type="button">code+data</button>
+    <button onclick="location.href='http://slideslive.com/38929024'" type="button">talk</button>
   </div>
  </li>
 
@@ -212,10 +207,9 @@ Publication Summary:
   </div>
   
   <div>
-  [<a href="../papers/cikm20.pdf">pdf</a>]
-  [<a href="https://dl.acm.org/doi/10.1145/3340531.3412018?cid=99659453882">acm link</a>]
-  [<a href="https://github.com/thartvigsen/sarnn">code</a>]
-  [<a href="https://www.youtube.com/watch?v=OFIax-TLvcw">talk</a>]
+    <button onclick="location.href='../papers/cikm20.pdf'" type="button">pdf</button>
+    <button onclick="location.href='https://github.com/thartvigsen/sarnn'" type="button">code</button>
+    <button onclick="location.href='https://www.youtube.com/watch?v=OFIax-TLvcw'" type="button">talk</button>
   </div>
  </li>
 
@@ -230,8 +224,8 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="../papers/bigdata20.pdf">pdf</a>]
-  [<a href="https://github.com/jida-thada/simme">code</a>]
+    <button onclick="location.href='../papers/bigdata20.pdf'" type="button">pdf</button>
+    <button onclick="location.href='https://github.com/jida-thada/simme'" type="button">code</button>
   </div>
  </li>
 
@@ -249,7 +243,7 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1">publisher link</a>]
+    <button onclick="location.href='https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1'" type="button">pdf</button>
   </div>
  </li>
 </ul>
@@ -267,10 +261,8 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="../papers/kdd19.pdf">pdf</a>]
-  [<a href="https://dl.acm.org/doi/10.1145/3292500.3330974?cid=99659453882">acm link</a>]
-  [<a href="https://github.com/Thartvigsen/EARLIEST">code</a>]
-  [<a href="https://www.youtube.com/watch?v=cgApUFeZDzY&list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn&index=124&t=0s">Promotional Video</a>]
+    <button onclick="location.href='../papers/kdd19.pdf'" type="button">pdf</button>
+    <button onclick="location.href='https://github.com/Thartvigsen/EARLIEST'" type="button">code</button>
   </div>
  </li>
  
@@ -285,7 +277,7 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="https://ieeexplore.ieee.org/abstract/document/9006403">ieee link</a>]
+    <button onclick="location.href='https://ieeexplore.ieee.org/abstract/document/9006403'" type="button">pdf</button>
   </div>
  </li>
  
@@ -300,7 +292,7 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="https://ieeexplore.ieee.org/abstract/document/9006400">ieee link</a>]
+    <button onclick="location.href='https://ieeexplore.ieee.org/abstract/document/9006400'" type="button">pdf</button>
   </div>
  </li>
  
@@ -326,7 +318,7 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="../papers/bhi19.pdf">pdf</a>]
+    <button onclick="location.href='../papers/bhi19.pdf'" type="button">pdf</button>
   </div>
  </li>
 </ul>
@@ -355,7 +347,7 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21">link</a>]
+    <button onclick="location.href='https://link.springer.com/chapter/10.1007/978-3-030-29196-9_21'" type="button">pdf</button>
   </div>
  </li>
  
@@ -373,7 +365,7 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="http://www.scitepress.org/Papers/2018/65996/65996.pdf">pdf</a>]
+    <button onclick="location.href='http://www.scitepress.org/Papers/2018/65996/65996.pdf'" type="button">pdf</button>
   </div>
  </li>
 
@@ -388,7 +380,7 @@ Publication Summary:
   </div>
 
   <div>
-  [<a href="../papers/ecml17.pdf">pdf</a>]
+    <button onclick="location.href='../papers/ecml17.pdf'" type="button">pdf</button>
   </div>
  </li>
 </ul>
