@@ -105,6 +105,7 @@ Publication Summary:
   <div style="color:#a3be8c">
     <strong>CIKM, 2021</strong>.
     <button onclick="location.href='../papers/cikm21.pdf'" type="button">pdf</button>
+    <button onclick="location.href='https://github.com/kingspp/timeseries-explain'" type="button">code</button>
   </div>
 
   </li>
