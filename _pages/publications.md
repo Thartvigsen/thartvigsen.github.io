@@ -22,70 +22,70 @@ Publication Summary:
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification</h3>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, J. Thadajarassiri, X. Kong, E. Rundensteiner.
       </div>
     </li>
     
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Recovering The Propensity Score From Biased Positive Unlabeled Data</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Positive Unlabeled Learning with a Sequential Selection Bias</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Exact Multi-Label Classification with Incompletely Labeled Data</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention</h3>
       <div style="color:#5e81ac">
       D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">SkipSNN: Efficiently Classifying Sparse and Noisy Spike Trains</h3>
       <div style="color:#5e81ac">
       H. Yin, X. Kong, L. Liu, X. Dai, <b>T. Hartvigsen</b>.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Crowd-MIA: A Crowdsourced Dataset for Multi-grained Weakly Supervised Learning</h3>
       <div style="color:#5e81ac">
       R. Hu, D. Zhang, D. Tao, <b>T. Hartvigsen</b>, H. Feng, E. Rundensteiner.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Multi-State Brain Network Discovery</h3>
       <div style="color:#5e81ac">
       H. Yin, X. Liu, X. Kong, <b>T. Hartvigsen</b>, Y. Li.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
       <h3 itemprop="name">Variational Open-Set Recognition</h3>
       <div style="color:#5e81ac">
       L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <b>T. Hartvigsen</b>, E. Rundensteiner.
@@ -104,11 +104,9 @@ Publication Summary:
 
   <div style="color:#a3be8c">
     <strong>CIKM, 2021</strong>.
-  </div>
-
-  <div>
     <button onclick="location.href='../papers/cikm21.pdf'" type="button">pdf</button>
   </div>
+
   </li>
 
   <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
@@ -118,13 +116,11 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-    <strong>KDD, 2021</strong>. Research track.
-  </div>
-
-  <div>
+    <strong>KDD, 2021</strong>.
     <button onclick="location.href='../papers/kdd21.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://dl.acm.org/doi/abs/20.1145/3447108.3467252'" type="button">talk</button>
   </div>
+
   <!--
   <details>
     <summary>bibtex reference</summary>
@@ -150,13 +146,11 @@ Publication Summary:
 
   <div style="color:#a3be8c">
   <strong>AAAI, 2021</strong>.
-  </div>
-
-  <div>
     <button onclick="location.href='../papers/aaai21.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://github.com/jida-thada/ska'" type="button">code</button>
     <button onclick="location.href='https://slideslive.com/38947947/semisupervised-knowledge-amalgamation-for-sequence-classification?ref=account-79851-latest'" type="code">talk</button>
   </div>
+
  </li>
 </ul>
 
@@ -169,10 +163,7 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>KDD, 2020</strong>. Research track.
-  </div>
-
-  <div>
+  <strong>KDD, 2020</strong>.
     <button onclick="location.href='../papers/kdd20.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://dl.acm.org/doi/20.1145/3394486.3403191?cid=99659453882'" type="button">ACM link</button>
     <button onclick="location.href='https://github.com/Thartvigsen/RecurrentHaltingChain'" type="button">code</button>
@@ -188,13 +179,11 @@ Publication Summary:
 
   <div style="color:#a3be8c">
   <strong>ACL, 2020</strong>.
-  </div>
-
-  <div>
     <button onclick="location.href='../papers/acl20.pdf'" type="button">pdf</button>
     <button onclick="location.href='http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html'" type="button">code+data</button>
     <button onclick="location.href='http://slideslive.com/38929024'" type="button">talk</button>
   </div>
+
  </li>
 
  <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
@@ -204,13 +193,13 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>CIKM, 2020</strong>. Research track.
-  </div>
-  
-  <div>
+  <strong>CIKM, 2020</strong>.
     <button onclick="location.href='../papers/cikm20.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://github.com/thartvigsen/sarnn'" type="button">code</button>
     <button onclick="location.href='https://www.youtube.com/watch?v=OFIax-TLvcw'" type="button">talk</button>
+  </div>
+  
+  <div>
   </div>
  </li>
 
@@ -222,12 +211,10 @@ Publication Summary:
 
   <div style="color:#a3be8c">
   <strong>IEEE BigData, 2020</strong>.
-  </div>
-
-  <div>
     <button onclick="location.href='../papers/bigdata20.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://github.com/jida-thada/simme'" type="button">code</button>
   </div>
+
  </li>
 
  <li style="margin: 0; padding: 20px 0 0px 10px; list-style: none">
@@ -237,14 +224,11 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>HEALTHINF, 2020</strong>.
+    <strong>HEALTHINF, 2020</strong>.
+    <button onclick="location.href='https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1'" type="button">pdf</button>
   </div>
   <div style="color:#E30B5C">
-  Best Poster.
-  </div>
-
-  <div>
-    <button onclick="location.href='https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1'" type="button">pdf</button>
+    Best Poster.
   </div>
  </li>
 </ul>
@@ -258,12 +242,12 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>KDD, 2019</strong>. Research track.
+   <strong>KDD, 2019</strong>. Research track.
+   <button onclick="location.href='../papers/kdd19.pdf'" type="button">pdf</button>
+   <button onclick="location.href='https://github.com/Thartvigsen/EARLIEST'" type="button">code</button>
   </div>
 
   <div>
-    <button onclick="location.href='../papers/kdd19.pdf'" type="button">pdf</button>
-    <button onclick="location.href='https://github.com/Thartvigsen/EARLIEST'" type="button">code</button>
   </div>
  </li>
  
@@ -274,11 +258,8 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>IEEE BigData, 2019</strong>.
-  </div>
-
-  <div>
-    <button onclick="location.href='https://ieeexplore.ieee.org/abstract/document/9006403'" type="button">pdf</button>
+   <strong>IEEE BigData, 2019</strong>.
+   <button onclick="location.href='https://ieeexplore.ieee.org/abstract/document/9006403'" type="button">pdf</button>
   </div>
  </li>
  
@@ -289,11 +270,8 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>IEEE BigData, 2019</strong>.
-  </div>
-
-  <div>
-    <button onclick="location.href='https://ieeexplore.ieee.org/abstract/document/9006400'" type="button">pdf</button>
+   <strong>IEEE BigData, 2019</strong>.
+   <button onclick="location.href='https://ieeexplore.ieee.org/abstract/document/9006400'" type="button">pdf</button>
   </div>
  </li>
  
@@ -315,11 +293,8 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>IEEE BHI, 2019</strong>.
-  </div>
-
-  <div>
-    <button onclick="location.href='../papers/bhi19.pdf'" type="button">pdf</button>
+   <strong>IEEE BHI, 2019</strong>.
+   <button onclick="location.href='../papers/bhi19.pdf'" type="button">pdf</button>
   </div>
  </li>
 </ul>
@@ -344,11 +319,8 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>Communications in Computer and Information Science, Volume 2024, 2018.</strong>
-  </div>
-
-  <div>
-    <button onclick="location.href='https://link.springer.com/chapter/20.2007/978-3-030-29196-9_21'" type="button">pdf</button>
+   <strong>Communications in Computer and Information Science, Volume 2024, 2018.</strong>
+   <button onclick="location.href='https://link.springer.com/chapter/20.2007/978-3-030-29196-9_21'" type="button">pdf</button>
   </div>
  </li>
  
@@ -359,14 +331,12 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>HEALTHINF, 2018</strong>.
-  </div>
-  <div style="color:#E30B5C">
-  Best student paper runner up.
+   <strong>HEALTHINF, 2018</strong>.
+   <button onclick="location.href='http://www.scitepress.org/Papers/2018/65996/65996.pdf'" type="button">pdf</button>
   </div>
 
-  <div>
-    <button onclick="location.href='http://www.scitepress.org/Papers/2018/65996/65996.pdf'" type="button">pdf</button>
+  <div style="color:#E30B5C">
+   Best student paper runner up.
   </div>
  </li>
 
@@ -377,24 +347,9 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-  <strong>ECML, 2017</strong>.
-  </div>
-
-  <div>
-    <button onclick="location.href='../papers/ecml17.pdf'" type="button">pdf</button>
+   <strong>ECML, 2017</strong>.
+   <button onclick="location.href='../papers/ecml17.pdf'" type="button">pdf</button>
   </div>
  </li>
 </ul>
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-<!--
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
