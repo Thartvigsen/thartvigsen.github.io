@@ -121,7 +121,7 @@ Publication Summary:
   </div>
 
   <div>
-    <form action="../papers/kdd21.pdf">
+    <form float="left" action="../papers/kdd21.pdf">
         <input type="submit" value="pdf"/>
     </form>
     <form action="https://dl.acm.org/doi/abs/10.1145/3447548.3467252">
