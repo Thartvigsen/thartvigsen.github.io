@@ -104,7 +104,9 @@ Publication Summary:
   </div>
 
   <div>
-    [<a href="../papers/cikm21.pdf">pdf</a>]
+    <form action="../papers/cikm21.pdf">
+        <input type="submit" value="pdf" />
+    </form>
   </div>
   </li>
 
