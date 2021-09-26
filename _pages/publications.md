@@ -105,7 +105,7 @@ Publication Summary:
 
   <div>
     <form action="../papers/cikm21.pdf">
-        <input type="submit" value="pdf" />
+        <input type="submit" value="pdf"/>
     </form>
   </div>
   </li>
@@ -121,6 +121,12 @@ Publication Summary:
   </div>
 
   <div>
+    <form action="../papers/kdd21.pdf">
+        <input type="submit" value="pdf"/>
+    </form>
+    <form action="https://dl.acm.org/doi/abs/10.1145/3447548.3467252">
+        <input type="submit" value="talk"/>
+    </form>
     [<a href="../papers/kdd21.pdf">pdf</a>]
     [<a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467252">talk</a>]
   </div>
