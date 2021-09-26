@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--<li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+-->
+
 Publication Summary:
 
 **KDD: 3, AAAI: 1, ACL: 1, CIKM: 2, IEEE BigData: 3, ECML: 1, HEALTHINF: 2, IEEE BHI: 1**
@@ -12,7 +15,7 @@ Publication Summary:
 <details>
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
-    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none">
       <h3 itemprop="name">Early Classification of Irregular Time Series</h3>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, W. Gerych, J. Thadajarassiri, X. Kong, E. Rundensteiner.
