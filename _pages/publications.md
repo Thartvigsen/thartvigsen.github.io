@@ -104,9 +104,7 @@ Publication Summary:
   </div>
 
   <div>
-    <form action="../papers/cikm21.pdf">
-        <input type="submit" value="pdf"/>
-    </form>
+    <button onclick="location.href='../papers/cikm21.pdf'" type="button">pdf</button>
   </div>
   </li>
 
