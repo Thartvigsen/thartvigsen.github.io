@@ -22,70 +22,70 @@ Publication Summary:
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification</h3>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, J. Thadajarassiri, X. Kong, E. Rundensteiner.
       </div>
     </li>
     
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Recovering The Propensity Score From Biased Positive Unlabeled Data</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Positive Unlabeled Learning with a Sequential Selection Bias</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Exact Multi-Label Classification with Incompletely Labeled Data</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention</h3>
       <div style="color:#5e81ac">
       D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">SkipSNN: Efficiently Classifying Sparse and Noisy Spike Trains</h3>
       <div style="color:#5e81ac">
       H. Yin, X. Kong, L. Liu, X. Dai, <b>T. Hartvigsen</b>.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Crowd-MIA: A Crowdsourced Dataset for Multi-grained Weakly Supervised Learning</h3>
       <div style="color:#5e81ac">
       R. Hu, D. Zhang, D. Tao, <b>T. Hartvigsen</b>, H. Feng, E. Rundensteiner.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Multi-State Brain Network Discovery</h3>
       <div style="color:#5e81ac">
       H. Yin, X. Liu, X. Kong, <b>T. Hartvigsen</b>, Y. Li.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Variational Open-Set Recognition</h3>
       <div style="color:#5e81ac">
       L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <b>T. Hartvigsen</b>, E. Rundensteiner.
