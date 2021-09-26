@@ -94,7 +94,7 @@ Publication Summary:
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
   <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Learning Saliency Maps to Explain Deep Time Series Classifiers</h3>
+  <strong>Learning Saliency Maps to Explain Deep Time Series Classifiers</strong>
   <div style="color:#5e81ac">
     P. Parvatharaju, R. Doddaiah, <b>T. Hartvigsen</b>, E. Rundensteiner
   </div>
@@ -109,7 +109,7 @@ Publication Summary:
   </li>
 
   <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</h3>
+  <strong>Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</strong>
   <div style="color:#5e81ac">
     H. Yin, J. B. Lee, X. Kong, <b>T. Hartvigsen</b>, S. Xie.
   </div>
@@ -140,7 +140,7 @@ Publication Summary:
   </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Semi-Supervised Knowledge Amalgamation for Sequence Classification</h3>
+  <strong>Semi-Supervised Knowledge Amalgamation for Sequence Classification</strong>
   <div style="color:#5e81ac">
   J. Thadajarassiri, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
   </div>
@@ -160,7 +160,7 @@ Publication Summary:
 <h3 itemprop="name">2020</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Recurrent Halting Chain for Early Multi-label Classification</h3>
+  <strong>Recurrent Halting Chain for Early Multi-label Classification</strong>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
   </div>
@@ -178,7 +178,7 @@ Publication Summary:
  </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?</h3>
+  <strong>Human Attention Maps for Text Classification:  Do Humans and Neural Networks Focus on the Same Words?</strong>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, B. Yin, X. Kong, E. Rundensteiner.
   </div>
@@ -195,7 +195,7 @@ Publication Summary:
  </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Learning to Selectively Update State Neurons in Recurrent Networks</h3>
+  <strong>Learning to Selectively Update State Neurons in Recurrent Networks</strong>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
   </div>
@@ -212,7 +212,7 @@ Publication Summary:
  </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Learning Similarity-Preserving Meta-Embedding for Text Mining</h3>
+  <strong>Learning Similarity-Preserving Meta-Embedding for Text Mining</strong>
   <div style="color:#5e81ac">
   J. Thadajarassiri, C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
   </div>
@@ -228,7 +228,7 @@ Publication Summary:
  </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection</h3>
+  <strong>Clinical Performance Evaluation of a Machine Learning System for Predicting Hospital-Acquired Clostridium Difficile Infection</strong>
   <div style="color:#5e81ac">
   E. Teeple, <strong>T. Hartvigsen</strong>, C. Sen, K. Claypool, E. Rundensteiner.
   </div>
@@ -249,7 +249,7 @@ Publication Summary:
 <h3 itemprop="name">2019</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Adaptive-Halting Policy Network for Early Classification</h3>
+  <strong>Adaptive-Halting Policy Network for Early Classification</strong>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner. 
   </div>
@@ -265,7 +265,7 @@ Publication Summary:
  </li>
  
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention</h3>
+  <strong>Patient-Level Classification of Clinical Note Sequences Guided by Attributed Hierarchical Attention</strong>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner. 
   </div>
@@ -280,7 +280,7 @@ Publication Summary:
  </li>
  
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Learning Temporal Relevance in Longitudinal Medical Notes</h3>
+  <strong>Learning Temporal Relevance in Longitudinal Medical Notes</strong>
   <div style="color:#5e81ac">
   C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner. 
   </div>
@@ -295,7 +295,7 @@ Publication Summary:
  </li>
  
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Early Diagnosis Prediction with Recurrent Neural Networks</h3>
+  <strong>Early Diagnosis Prediction with Recurrent Neural Networks</strong>
   <div style="color:#5e81ac">
   D. Johnston, L. Klindziuk, L. Nazarov, <b>T. Hartvigsen</b>, E. Rundensteiner.
   </div>
@@ -306,7 +306,7 @@ Publication Summary:
  </li>
  
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining</h3>
+  <strong>Comparing General and Locally-Learned Word Embeddings for Clinical Text Mining</strong>
   <div style="color:#5e81ac">
   J. Thadajarassiri, C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
   </div>
@@ -324,7 +324,7 @@ Publication Summary:
 <h3 itemprop="name">-2018</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Handling Missing Values in Multivariate Time Series Classification</h3>
+  <strong>Handling Missing Values in Multivariate Time Series Classification</strong>
   <div style="color:#5e81ac">
   J. Friend, A. Hauck, S. Kurada, C. Sen, <b>T. Hartvigsen</b>, E. Rundensteiner.
   </div>
@@ -335,7 +335,7 @@ Publication Summary:
  </li>
  
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data</h3>
+  <strong>Detecting MRSA Infections by Fusing Structured and Unstructured Electronic Health Record Data</strong>
   <div style="color:#5e81ac">
   <b>T. Hartvigsen</b>, C. Sen, E. Rundensteiner.
   </div>
@@ -350,7 +350,7 @@ Publication Summary:
  </li>
  
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">Early Prediction of MRSA Infections using Electronic Health Records</h3>
+  <strong>Early Prediction of MRSA Infections using Electronic Health Records</strong>
   <div style="color:#5e81ac">
   <b>T. Hartvigsen</b>, C. Sen, S. Brownell, E. Teeple, X. Kong, E. Rundensteiner.
   </div>
@@ -368,7 +368,7 @@ Publication Summary:
  </li>
 
  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
-  <h3 itemprop="name">CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining</h3>
+  <strong>CREST - Risk Prediction for Clostridium Difficile Infection Using Multimodal Data Mining</strong>
   <div style="color:#5e81ac">
   C. Sen, <b>T. Hartvigsen</b>, K. Claypool, E. Rundensteiner.
   </div>
