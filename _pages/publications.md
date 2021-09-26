@@ -12,7 +12,7 @@ Publication Summary:
 <details>
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
-    <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+    <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
       <h3 itemprop="name">Early Classification of Irregular Time Series</h3>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, W. Gerych, J. Thadajarassiri, X. Kong, E. Rundensteiner.
@@ -93,7 +93,7 @@ Publication Summary:
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
-  <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <strong>Learning Saliency Maps to Explain Deep Time Series Classifiers</strong>
   <div style="color:#5e81ac">
     P. Parvatharaju, R. Doddaiah, <b>T. Hartvigsen</b>, E. Rundensteiner
@@ -159,7 +159,7 @@ Publication Summary:
 
 <h3 itemprop="name">2020</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
- <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <strong>Recurrent Halting Chain for Early Multi-label Classification</strong>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
@@ -248,7 +248,7 @@ Publication Summary:
 
 <h3 itemprop="name">2019</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
- <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <strong>Adaptive-Halting Policy Network for Early Classification</strong>
   <div style="color:#5e81ac">
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner. 
@@ -323,7 +323,7 @@ Publication Summary:
 
 <h3 itemprop="name">-2018</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
- <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+ <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
   <strong>Handling Missing Values in Multivariate Time Series Classification</strong>
   <div style="color:#5e81ac">
   J. Friend, A. Hauck, S. Kurada, C. Sen, <b>T. Hartvigsen</b>, E. Rundensteiner.
