@@ -96,7 +96,7 @@ Publication Summary:
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
-  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <li style="margin: 0; padding: 0px 0 0px 54px; list-style: none">
   <strong>Learning Saliency Maps to Explain Deep Time Series Classifiers</strong>
   <div style="color:#5e81ac">
     P. Parvatharaju, R. Doddaiah, <b>T. Hartvigsen</b>, E. Rundensteiner
@@ -111,7 +111,7 @@ Publication Summary:
   </div>
   </li>
 
-  <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+  <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none">
   <strong>Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks</strong>
   <div style="color:#5e81ac">
     H. Yin, J. B. Lee, X. Kong, <b>T. Hartvigsen</b>, S. Xie.
@@ -142,7 +142,7 @@ Publication Summary:
   -->
   </li>
 
- <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none; background-image: url('../images/paper_icon.png'); background-repeat: no-repeat; background-position: left top; background-size: 20px;">
+ <li style="margin: 0; padding: 20px 0 0px 54px; list-style: none">
   <strong>Semi-Supervised Knowledge Amalgamation for Sequence Classification</strong>
   <div style="color:#5e81ac">
   J. Thadajarassiri, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
