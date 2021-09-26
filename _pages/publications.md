@@ -121,12 +121,8 @@ Publication Summary:
   </div>
 
   <div>
-    <form float="left" action="../papers/kdd21.pdf">
-        <input type="submit" value="pdf"/>
-    </form>
-    <form action="https://dl.acm.org/doi/abs/10.1145/3447548.3467252">
-        <input type="submit" value="talk"/>
-    </form>
+    <button onclick="location.href='../papers/kdd21.pdf'" type="button">pdf</button>
+    <button onclick="location.href='https://dl.acm.org/doi/abs/10.1145/3447548.3467252'" type="button">talk</button>
     [<a href="../papers/kdd21.pdf">pdf</a>]
     [<a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467252">talk</a>]
   </div>
