@@ -22,11 +22,11 @@ To this end, I build **data mining** and **machine learning** models and tools f
 In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 -->
 
-My work is currently funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve healthcare and fight climate change.
+I am currently funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve **healthcare** and **fight climate change**.
 
-My work has resulted in several top papers (KDD, AAAI, ACL, CIKM) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write better clinical trials faster.
+My research has resulted in several top papers (KDD, AAAI, ACL, CIKM) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write better clinical trials faster.
 
-Please feel free to contact me with questions about my research or our program at WPI. I am always happy to chat!
+Please feel free to contact me, I am always happy to chat!
 
 ### Technical Research Interests
 <ul style="margin-bottom: 5px;">
