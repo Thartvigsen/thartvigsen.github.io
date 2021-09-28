@@ -89,15 +89,18 @@ Publication Summary:
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
-   <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-   <strong>Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</strong>
+  <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
+  <strong>Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</strong>
 
-   <div style="color:#5e81ac">
+  <div style="color:#5e81ac">
    W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Agu, E. Rundensteiner
-   </div>
+  </div>
+  <div style="color:#a3be8c">
+   <strong>NeurIPS, 2021</strong>.
+  </div>
    </li>
 
-  <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
+  <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
   <strong>Learning Saliency Maps to Explain Deep Time Series Classifiers</strong>
   <div style="color:#5e81ac">
     P. Parvatharaju, R. Doddaiah, <b>T. Hartvigsen</b>, E. Rundensteiner
