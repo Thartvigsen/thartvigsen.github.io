@@ -10,7 +10,7 @@ author_profile: true
 
 Publication Summary:
 
-**KDD: 3, AAAI: 1, ACL: 1, CIKM: 2, IEEE BigData: 3, ECML: 1, HEALTHINF: 2, IEEE BHI: 1**
+**KDD: 3, NeurIPS: 1, AAAI: 1, ACL: 1, CIKM: 2, IEEE BigData: 3, ECML: 1, HEALTHINF: 2, IEEE BHI: 1**
 
 <details>
   <summary>Click for in-submission papers</summary>
