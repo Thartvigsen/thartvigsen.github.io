@@ -37,13 +37,6 @@ Publication Summary:
     </li>
 
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</h3>
-      <div style="color:#5e81ac">
-      W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Positive Unlabeled Learning with a Sequential Selection Bias</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
@@ -96,6 +89,14 @@ Publication Summary:
 
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
+   <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+   <strong>Recurrent Bayesian Classifier Chains for Exact Multi-label Classification</strong>
+
+   <div style="color:#5e81ac">
+   W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Agu, E. Rundensteiner
+   </div>
+   </li>
+
   <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
   <strong>Learning Saliency Maps to Explain Deep Time Series Classifiers</strong>
   <div style="color:#5e81ac">
