@@ -247,7 +247,7 @@ Publication Summary:
   </div>
 
   <div style="color:#a3be8c">
-   <strong>KDD, 2019</strong>. Research track.
+   <strong>KDD, 2019</strong>
    <button onclick="location.href='../papers/kdd19.pdf'" type="button">pdf</button>
    <button onclick="location.href='https://github.com/Thartvigsen/EARLIEST'" type="button">code</button>
   </div>
