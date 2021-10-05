@@ -2,7 +2,7 @@
 layout: archive
 title: "News"
 permalink: /news/
-author_profile: false
+author_profile: true
 ---
 
 - [Publication] Sep 2021. Our paper *Recurrent Bayesian Classifier Chains for Exact Multi-Label Classification* was accepted at <span style="color: #E30B5C">**NeurIPS 2021**</span>.
