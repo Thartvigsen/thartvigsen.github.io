@@ -40,6 +40,14 @@ Please feel free to contact me, I am always happy to chat!
 </ul>
 
 <!--
+Current interests:
+- Auditing pre-trained models: How can I tell what *general properties* of input data will convince my model? How do I correct a pre-trained model's bad behavior?
+- Modeling data and label collection: Training data determine the behavior and performance of machine learning models. Which data instances get added to a dataset? Which ones get labeled? Modern models are data hungry so collection and labeling procedures have large influences on the behavior of a model. How can we model the influence of these mechanisms from data collection, to labeling, to eventual machine inference?
+- Representing irregularly-sampled data: When data are collected irregularly, deep learning models don't work out of the box anymore because they require fixed-length inputs. However, despite a recent surge in methods that can reconstruct continuous-timelines (like NODEs), simpler models that just discretize time seem to work just as well (if not better). How can we tell when a continuous-time representation learner is required compared to a simpler discrete method?
+- 
+-->
+
+<!--
 <li> Joining <span style="color: #E30B5C"><b>MIT</b></span> as a postdoc in January.</li>
 -->
 
