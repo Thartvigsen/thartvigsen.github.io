@@ -95,7 +95,7 @@ Publication Summary:
   <div style="color:#5e81ac">
    W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Agu, E. Rundensteiner
   </div>
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
    <strong>NeurIPS, 2021</strong>.
   </div>
    </li>
@@ -106,7 +106,7 @@ Publication Summary:
     P. Parvatharaju, R. Doddaiah, <b>T. Hartvigsen</b>, E. Rundensteiner
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
     <strong>CIKM, 2021</strong>.
     <button onclick="location.href='../papers/cikm21.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://github.com/kingspp/timeseries-explain'" type="button">code</button>
@@ -120,7 +120,7 @@ Publication Summary:
     H. Yin, J. B. Lee, X. Kong, <b>T. Hartvigsen</b>, S. Xie.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
     <strong>KDD, 2021</strong>.
     <button onclick="location.href='../papers/kdd21.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://dl.acm.org/doi/abs/20.1145/344758.3467252'" type="button">talk</button>
@@ -149,7 +149,7 @@ Publication Summary:
   J. Thadajarassiri, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
   <strong>AAAI, 2021</strong>.
     <button onclick="location.href='../papers/aaai21.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://github.com/jida-thada/ska'" type="button">code</button>
@@ -167,7 +167,7 @@ Publication Summary:
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
   <strong>KDD, 2020</strong>.
     <button onclick="location.href='../papers/kdd20.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://dl.acm.org/doi/20.1145/3394486.3403191?cid=99659453882'" type="button">ACM link</button>
@@ -182,7 +182,7 @@ Publication Summary:
   C. Sen, <strong>T. Hartvigsen</strong>, B. Yin, X. Kong, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
   <strong>ACL, 2020</strong>.
     <button onclick="location.href='../papers/acl20.pdf'" type="button">pdf</button>
     <button onclick="location.href='http://davis.wpi.edu/dsrg/PROJECTS/YELPHAT/index.html'" type="button">code+data</button>
@@ -197,7 +197,7 @@ Publication Summary:
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
   <strong>CIKM, 2020</strong>.
     <button onclick="location.href='../papers/cikm20.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://github.com/thartvigsen/sarnn'" type="button">code</button>
@@ -214,7 +214,7 @@ Publication Summary:
   J. Thadajarassiri, C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
   <strong>IEEE BigData, 2020</strong>.
     <button onclick="location.href='../papers/bigdata20.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://github.com/jida-thada/simme'" type="button">code</button>
@@ -228,7 +228,7 @@ Publication Summary:
   E. Teeple, <strong>T. Hartvigsen</strong>, C. Sen, K. Claypool, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
     <strong>HEALTHINF, 2020</strong>.
     <button onclick="location.href='https://www.scitepress.org/PublicationsDetail.aspx?ID=23u2EM1O4ro%3d&t=1'" type="button">pdf</button>
   </div>
@@ -246,7 +246,7 @@ Publication Summary:
   <strong>T. Hartvigsen</strong>, C. Sen, X. Kong, E. Rundensteiner. 
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
    <strong>KDD, 2019</strong>
    <button onclick="location.href='../papers/kdd19.pdf'" type="button">pdf</button>
    <button onclick="location.href='https://github.com/Thartvigsen/EARLIEST'" type="button">code</button>
@@ -262,7 +262,7 @@ Publication Summary:
   C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner. 
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
    <strong>IEEE BigData, 2019</strong>.
    <button onclick="location.href='https://ieeexplore.ieee.org/abstract/document/9006403'" type="button">pdf</button>
   </div>
@@ -274,7 +274,7 @@ Publication Summary:
   C. Sen, <strong>T. Hartvigsen</strong>, X. Kong, E. Rundensteiner. 
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
    <strong>IEEE BigData, 2019</strong>.
    <button onclick="location.href='https://ieeexplore.ieee.org/abstract/document/9006400'" type="button">pdf</button>
   </div>
@@ -286,7 +286,7 @@ Publication Summary:
   D. Johnston, L. Klindziuk, L. Nazarov, <b>T. Hartvigsen</b>, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
   <strong>IEEE URTC, 2019</strong>.
   </div>
  </li>
@@ -297,7 +297,7 @@ Publication Summary:
   J. Thadajarassiri, C. Sen, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
    <strong>IEEE BHI, 2019</strong>.
    <button onclick="location.href='../papers/bhi19.pdf'" type="button">pdf</button>
   </div>
@@ -312,7 +312,7 @@ Publication Summary:
   J. Friend, A. Hauck, S. Kurada, C. Sen, <b>T. Hartvigsen</b>, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
   <strong>IEEE URTC, 2018</strong>.
   </div>
  </li>
@@ -323,7 +323,7 @@ Publication Summary:
   <b>T. Hartvigsen</b>, C. Sen, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
    <strong>Communications in Computer and Information Science, Volume 2024, 2018.</strong>
    <button onclick="location.href='https://link.springer.com/chapter/20.2007/978-3-030-29196-9_21'" type="button">pdf</button>
   </div>
@@ -335,7 +335,7 @@ Publication Summary:
   <b>T. Hartvigsen</b>, C. Sen, S. Brownell, E. Teeple, X. Kong, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
    <strong>HEALTHINF, 2018</strong>.
    <button onclick="location.href='http://www.scitepress.org/Papers/2018/65996/65996.pdf'" type="button">pdf</button>
   </div>
@@ -351,7 +351,7 @@ Publication Summary:
   C. Sen, <b>T. Hartvigsen</b>, K. Claypool, E. Rundensteiner.
   </div>
 
-  <div style="color:#8eda8c">
+  <div style="color:#21a423">
    <strong>ECML, 2017</strong>.
    <button onclick="location.href='../papers/ecml17.pdf'" type="button">pdf</button>
   </div>
