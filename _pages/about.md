@@ -25,7 +25,7 @@ In my research, I study **data mining** and **machine learning** for **time seri
 
 My work has been published in several top papers (KDD, NeurIPS, AAAI, ACL) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write better clinical trials faster.
 
-My research is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve **healthcare** and **fight climate change**.
+My research is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve **healthcare**.
 
 Please feel free to contact me, I am always happy to chat!
 
