@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+- [News] Oct 2021. I am serving on the program committees for **ACL 2022** and **NAACL 2022**.
 - [Publication] Sep 2021. Our paper *Recurrent Bayesian Classifier Chains for Exact Multi-Label Classification* was accepted at <span style="color: #E30B5C">**NeurIPS 2021**</span>.
 - [News] Aug 2021. I am serving on the program committee for **AAAI 2022**.
 - [Publication] Aug 2021. Our paper *Learning Saliency Maps for Deep Time Series Classifiers* was accepted at <span style="color: #E30B5C">**CIKM 2021**</span>.
