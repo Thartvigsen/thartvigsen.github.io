@@ -48,12 +48,12 @@ Current interests:
 -->
 
 <!--
-<li> Joining <span style="color: #E30B5C"><b>MIT</b></span> as a postdoc in January.</li>
 -->
 
 ### What's New?
 <ul style="margin-bottom: 5px;">
 <small>
+<li> Joining <span style="color: #E30B5C"><b>MIT</b></span> as a postdoc in January.</li>
 <li> <span style="color: #E30B5C"><b>NeurIPS'21 paper</b></span> on <a href="papers/neurips21.pdf">recurrent bayesian classifier chains.</a></li>
 <li> <span style="color: #E30B5C"><b>CIKM'21 paper</b></span> on <a href="papers/cikm21.pdf">explainability for time series.</a></li>
 <li> <span style="color: #E30B5C"><b>Microsoft</b></span> internship.</li>
