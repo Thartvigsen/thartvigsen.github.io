@@ -51,13 +51,6 @@ Publication Summary:
     </li>
 
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention</h3>
-      <div style="color:#5e81ac">
-      D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">SkipSNN: Efficiently Classifying Sparse and Noisy Spike Trains</h3>
       <div style="color:#5e81ac">
       H. Yin, X. Kong, L. Liu, X. Dai, <b>T. Hartvigsen</b>.
@@ -78,12 +71,6 @@ Publication Summary:
       </div>
     </li>
 
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Variational Open-Set Recognition</h3>
-      <div style="color:#5e81ac">
-      L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <b>T. Hartvigsen</b>, E. Rundensteiner.
-      </div>
-    </li>
   </ul>
 </details>
 
@@ -157,6 +144,26 @@ Publication Summary:
   </div>
 
  </li>
+ <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+   <h3 itemprop="name">Variational Open-Set Recognition</h3>
+   <div style="color:#5e81ac">
+   L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <b>T. Hartvigsen</b>, E. Rundensteiner.
+   </div>
+   <div style="color:#21a423">
+   <strong>IEEE BigData, 2021</strong>.
+   </div>
+ </li>
+
+ <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+   <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention</h3>
+   <div style="color:#5e81ac">
+   D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
+   </div>
+   <div style="color:#21a423">
+   <strong>IEEE BigData, 2021</strong>.
+   </div>
+ </li>
+
 </ul>
 
 <h3 itemprop="name">2020</h3>
