@@ -145,7 +145,7 @@ Publication Summary:
 
  </li>
  <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
-   <h3 itemprop="name">Variational Open-Set Recognition</h3>
+   <strong>Variational Open-Set Recognition</strong>
    <div style="color:#5e81ac">
    L. Buquicchio, W. Gerych, K. Chandrasekaran, A. Alajaji, H. Mansoor, <b>T. Hartvigsen</b>, E. Rundensteiner.
    </div>
@@ -155,7 +155,7 @@ Publication Summary:
  </li>
 
  <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
-   <h3 itemprop="name">Explainable Text Classification with Partially-Labeled Human Attention</h3>
+   <strong>Explainable Text Classification with Partially-Labeled Human Attention</strong>
    <div style="color:#5e81ac">
    D. Zhang, C. Sen,  J. Thadajarassiri, <b>T. Hartvigsen</b>, X. Kong, E. Rundensteiner.
    </div>
