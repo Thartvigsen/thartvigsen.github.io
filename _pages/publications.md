@@ -97,6 +97,7 @@ Publication Summary:
     <strong>CIKM, 2021</strong>.
     <button onclick="location.href='../papers/cikm21.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://github.com/kingspp/timeseries-explain'" type="button">code</button>
+    <button onclick="location.href='https://dl.acm.org/doi/abs/10.1145/3459637.3482446'" type="button">talk</button>
   </div>
 
   </li>
