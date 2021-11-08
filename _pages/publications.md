@@ -111,7 +111,7 @@ Publication Summary:
   <div style="color:#21a423">
     <strong>KDD, 2021</strong>.
     <button onclick="location.href='../papers/kdd21.pdf'" type="button">pdf</button>
-    <button onclick="location.href='https://dl.acm.org/doi/abs/20.1145/344758.3467252'" type="button">talk</button>
+    <button onclick="location.href='https://dl.acm.org/doi/abs/10.1145/344758.3467252'" type="button">talk</button>
   </div>
 
   <!--
