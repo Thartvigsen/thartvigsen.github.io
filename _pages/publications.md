@@ -16,6 +16,13 @@ Publication Summary:
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
     <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
+      <h3 itemprop="name">ToxiGen: Controlling Language Models to GenerateImplied and Adversarial Toxicity</h3>
+      <div style="color:#5e81ac">
+      <b>T. Hartvigsen</b>, S. Gabriel, H. Palangi, M. Sap, D. Ray, E. Kamar.
+      </div>
+    </li>
+
+    <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Early Classification of Irregular Time Series</h3>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, W. Gerych, J. Thadajarassiri, X. Kong, E. Rundensteiner.
@@ -113,22 +120,6 @@ Publication Summary:
     <button onclick="location.href='../papers/kdd21.pdf'" type="button">pdf</button>
     <button onclick="location.href='https://dl.acm.org/doi/abs/10.1145/344758.3467252'" type="button">talk</button>
   </div>
-
-  <!--
-  <details>
-    <summary>bibtex reference</summary>
-    <pre>
-    <code>
-    @inproceedings{yin2021energy,
-      author    = "Hang Yin and John Boaz Lee and Xiangnan Kong and Thomas Hartvigsen and Sihong Xie",
-      title     = "Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks",
-      booktitle = "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '21)",
-      year      = "2021"
-    }
-    </code>
-    </pre>
-  </details>
-  -->
   </li>
 
  <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">

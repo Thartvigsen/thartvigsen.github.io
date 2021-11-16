@@ -9,9 +9,15 @@ redirect_from:
 ---
 
 <!--
-Hi! I'm a postdoc at MIT and a member of CSAIL and IMES. I work with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) on machine learning for health.
+Hi! I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
-I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/) as a member of the [DAISY Lab](http://daisy.wpi.edu).
+I am starting at MIT as a postdoc working with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) in January.
+-->
+
+<!--
+Hi! I'm a postdoc at MIT and a member of CSAIL and IMES working with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/).
+
+I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
 
 Hi! I'm a Data Science Ph.D. candidate at [Worcester Polytechnic Institute](https://www.wpi.edu/) and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
