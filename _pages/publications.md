@@ -91,6 +91,7 @@ Publication Summary:
   </div>
   <div style="color:#21a423">
    <strong>NeurIPS, 2021</strong>.
+   <button onclick="location.href='https://proceedings.neurips.cc/paper/2021/file/859bf1416b8b8761c5d588dee78dc65f-Paper.pdf'" type="button">pdf</button>
   </div>
    </li>
 
@@ -101,10 +102,10 @@ Publication Summary:
   </div>
 
   <div style="color:#21a423">
-    <strong>CIKM, 2021</strong>.
-    <button onclick="location.href='../papers/cikm21.pdf'" type="button">pdf</button>
-    <button onclick="location.href='https://github.com/kingspp/timeseries-explain'" type="button">code</button>
-    <button onclick="location.href='https://dl.acm.org/doi/abs/10.1145/3459637.3482446'" type="button">talk</button>
+   <strong>CIKM, 2021</strong>.
+   <button onclick="location.href='../papers/cikm21.pdf'" type="button">pdf</button>
+   <button onclick="location.href='https://github.com/kingspp/timeseries-explain'" type="button">code</button>
+   <button onclick="location.href='https://dl.acm.org/doi/abs/10.1145/3459637.3482446'" type="button">talk</button>
   </div>
 
   </li>
