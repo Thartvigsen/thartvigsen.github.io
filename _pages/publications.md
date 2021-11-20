@@ -16,7 +16,7 @@ Publication Summary:
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
     <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">ToxiGen: Controlling Language Models to GenerateImplied and Adversarial Toxicity</h3>
+      <h3 itemprop="name">ToxiGen: Controlling Language Models to Generate Implied and Adversarial Toxicity</h3>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, S. Gabriel, H. Palangi, M. Sap, D. Ray, E. Kamar.
       </div>
