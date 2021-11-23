@@ -15,7 +15,9 @@ I am starting at MIT as a postdoc working with [Marzyeh Ghassemi](http://www.mar
 -->
 
 <!--
-Hi! I'm a postdoc at MIT and a member of CSAIL and IMES working with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/).
+Hi! I am beginning as a postdoc at [MIT](https://www.csail.mit.edu/) in January, doing machine learning research with Marzyeh Ghassemi. I aim to build systems that learn from large amounts of data to support clinical decision making in ongoing environments without perpetuating societal biases.
+
+Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning research at CSAIL with Marzyeh Ghassemi. In my research, I aim to build systems that learn from large amounts of data to support clinical decision making in ongoing environments without perpetuating societal biases.
 
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
@@ -28,7 +30,6 @@ To this end, I build **data mining** and **machine learning** models and tools f
 In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 -->
 
-
 My work has been published in several top papers (KDD, NeurIPS, AAAI, ACL) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write better clinical trials faster.
 
 My research is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve **healthcare**.
@@ -40,7 +41,7 @@ Please feel free to contact me, I am always happy to chat!
 <small>
   <li><b>Time Series</b> (see our <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD 2019</a>, <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD 2020</a>, and <a href="https://thartvigsen.github.io/papers/kdd21.pdf">KDD 2021</a> papers)</li>
   <li><b>Recurrent Neural Networks</b> (see our <a href="https://thartvigsen.github.io/papers/neurips21.pdf">NeurIPS 2021</a>, <a href="https://thartvigsen.github.io/papers/aaai21.pdf">AAAI 2021</a>, and <a href="https://thartvigsen.github.io/papers/cikm20.pdf">CIKM 2020</a> papers)</li>
-  <li><b>Explainability</b> (see our <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL 2020</a> and <a href="https://thartvigsen.github.io/papers/cikm21.pdf">CIKM 2021</a> papers)</li>
+  <li><b>Auditing Machine Learning Systems</b> (see our <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL 2020</a> and <a href="https://thartvigsen.github.io/papers/cikm21.pdf">CIKM 2021</a> papers)</li>
   <li><b>Healthcare</b> (see our <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">ECML 2017</a>, <a href="https://www.scitepress.org/Papers/2018/65996/65996.pdf">HEALTHINF 2018</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9006400">BIGDATA 2019</a>, and <a href="https://ieeexplore.ieee.org/abstract/document/9006403">BIGDATA 2019</a> papers)</li>
 </small>
 </ul>
