@@ -24,6 +24,7 @@ I received my PhD from Worcester Polytechnic Institute where I worked with [Elke
 
 I am a Ph.D. student at [Worcester Polytechnic Institute](https://www.wpi.edu/), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 In January, I am beginning as a postdoc at [MIT CSAIL](https://www.csail.mit.edu/).
+
 In my research, I build machine learning systems that learn from large amounts of data to support time-sensitive decision making without perpetuating societal biases.
 To this end, I develop **data mining** and **machine learning** models and tools for mainly **time series** and **text**.
 <!--
