@@ -22,17 +22,19 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
 
-Hi! I'm a Data Science Ph.D. candidate at [Worcester Polytechnic Institute](https://www.wpi.edu/) and a member of the [DAISY Lab](http://daisy.wpi.edu), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
-
-In my research, I aim to build systems that learn from large amounts of data to support time-sensitive decision making in ongoing environments without perpetuating societal biases.
-To this end, I build **data mining** and **machine learning** models and tools for mainly **time series** and **text**.
+I am a Ph.D. student at [Worcester Polytechnic Institute](https://www.wpi.edu/), advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
+In January, I am beginning as a postdoc at [MIT CSAIL](https://www.csail.mit.edu/).
+In my research, I build machine learning systems that learn from large amounts of data to support time-sensitive decision making without perpetuating societal biases.
+To this end, I develop **data mining** and **machine learning** models and tools for mainly **time series** and **text**.
 <!--
 In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 -->
 
+<!--
 My work has been published in several top papers (KDD, NeurIPS, AAAI, ACL) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write better clinical trials faster.
 
 My research is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve **healthcare**.
+-->
 
 Please feel free to contact me, I am always happy to chat!
 
