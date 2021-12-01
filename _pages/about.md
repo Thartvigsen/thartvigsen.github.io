@@ -63,12 +63,12 @@ Current interests:
 ### What's New?
 <ul style="margin-bottom: 5px;">
 <small>
+<li> <span style="color: #E30B5C"><b>AAAI'22 paper</b></span> on <a href="papers/aaai22.pdf">positive unlabeled learning.</a></li>
 <li> Joining <span style="color: #E30B5C"><b>MIT CSAIL</b></span> as a postdoc in January.</li>
 <li> <span style="color: #E30B5C"><b>NeurIPS'21 paper</b></span> on <a href="papers/neurips21.pdf">recurrent bayesian classifier chains.</a></li>
 <li> <span style="color: #E30B5C"><b>CIKM'21 paper</b></span> on <a href="papers/cikm21.pdf">explainability for time series.</a></li>
 <li> <span style="color: #E30B5C"><b>Microsoft</b></span> internship.</li>
 <li> <span style="color: #E30B5C"><b>KDD'21 paper</b></span> on <a href="papers/kdd21.pdf">spike train classification</a>.</li>
-<li> <span style="color: #E30B5C"><b>AAAI'21 paper</b></span> on <a href="papers/aaai21.pdf">combining knowledge from multiple RNNs</a>.</li>
 </small>
 </ul>
 

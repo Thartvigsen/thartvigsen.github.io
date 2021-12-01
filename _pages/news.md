@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+- [Publication] Dec 2021. Our paper *Recovering the Propensity Score from Biased Positive Unlabeled Data* was accepted to at <span style="color: #E30B5C">**AAAI 2022**</span>.
 - [Publications] Oct 2021. Two papers accepted to **IEEE BigData 2021**.
 - [News] Oct 2021. I am serving on the program committees for **ACL 2022** and **NAACL 2022**.
 - [Publication] Sep 2021. Our paper *Recurrent Bayesian Classifier Chains for Exact Multi-Label Classification* was accepted at <span style="color: #E30B5C">**NeurIPS 2021**</span>.

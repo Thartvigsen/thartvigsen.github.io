@@ -37,13 +37,6 @@ Publication Summary:
     </li>
     
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Recovering The Propensity Score From Biased Positive Unlabeled Data</h3>
-      <div style="color:#5e81ac">
-      W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
       <h3 itemprop="name">Positive Unlabeled Learning with a Sequential Selection Bias</h3>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
@@ -81,6 +74,21 @@ Publication Summary:
   </ul>
 </details>
 
+<h3 itemprop="name">2022</h3>
+<ul style="border-radius: 0px; margin: 0px 0;">
+
+  <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
+  <strong>Recovering the Propensity Score from Biased Positive Unlabeled Data</strong>
+  <div style="color:#5e81ac">
+   W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
+  </div>
+  <div style="color:#21a423">
+   <strong>AAAI, 2022</strong>.
+  </div>
+  </li>
+
+</ul>
+
 <h3 itemprop="name">2021</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
   <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
@@ -93,7 +101,7 @@ Publication Summary:
    <strong>NeurIPS, 2021</strong>.
    <button onclick="location.href='https://proceedings.neurips.cc/paper/2021/file/859bf1416b8b8761c5d588dee78dc65f-Paper.pdf'" type="button">pdf</button>
   </div>
-   </li>
+  </li>
 
   <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
   <strong>Learning Saliency Maps to Explain Deep Time Series Classifiers</strong>
