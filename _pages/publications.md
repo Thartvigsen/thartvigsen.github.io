@@ -22,49 +22,49 @@ Publication Summary:
       </div>
     </li>
 
-    <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
       <strong>Learning When to Stop and Classify Ongoing and Irregular Time Series</strong>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, W. Gerych, J. Thadajarassiri, X. Kong, E. Rundensteiner.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
       <strong>Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification</strong>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, J. Thadajarassiri, X. Kong, E. Rundensteiner.
       </div>
     </li>
     
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
       <strong>Positive Unlabeled Learning with a Sequential Selection Bias</strong>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
       <strong>SAIL: Recurrent Classifier Chains with Incomplete Labels</strong>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
       <strong>SkipSNN: Efficiently Classifying Sparse and Noisy Spike Trains</strong>
       <div style="color:#5e81ac">
       H. Yin, X. Kong, L. Liu, X. Dai, <b>T. Hartvigsen</b>.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
       <strong>Crowd-MIA: A Crowdsourced Dataset for Multi-grained Weakly Supervised Learning</strong>
       <div style="color:#5e81ac">
       R. Hu, D. Zhang, D. Tao, <b>T. Hartvigsen</b>, H. Feng, E. Rundensteiner.
       </div>
     </li>
 
-    <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
+    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
       <strong>Multi-State Brain Network Discovery</strong>
       <div style="color:#5e81ac">
       H. Yin, X. Liu, X. Kong, <b>T. Hartvigsen</b>, Y. Li.
