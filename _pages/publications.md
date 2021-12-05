@@ -16,56 +16,56 @@ Publication Summary:
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
     <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">ToxiGen: Controlling Language Models to Generate Implied and Adversarial Toxicity</h3>
+      <strong>ToxiGen: Controlling Language Models to Generate Implied and Adversarial Toxicity</strong>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, S. Gabriel, H. Palangi, M. Sap, D. Ray, E. Kamar.
       </div>
     </li>
 
     <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Early Classification of Irregular Time Series</h3>
+      <strong>Learning When to Stop and Classify Ongoing and Irregular Time Series</strong>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, W. Gerych, J. Thadajarassiri, X. Kong, E. Rundensteiner.
       </div>
     </li>
 
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification</h3>
+      <strong>Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification</strong>
       <div style="color:#5e81ac">
       <b>T. Hartvigsen</b>, J. Thadajarassiri, X. Kong, E. Rundensteiner.
       </div>
     </li>
     
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Positive Unlabeled Learning with a Sequential Selection Bias</h3>
+      <strong>Positive Unlabeled Learning with a Sequential Selection Bias</strong>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Exact Multi-Label Classification with Incompletely Labeled Data</h3>
+      <strong>SAIL: Recurrent Classifier Chains with Incomplete Labels</strong>
       <div style="color:#5e81ac">
       W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
       </div>
     </li>
 
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">SkipSNN: Efficiently Classifying Sparse and Noisy Spike Trains</h3>
+      <strong>SkipSNN: Efficiently Classifying Sparse and Noisy Spike Trains</strong>
       <div style="color:#5e81ac">
       H. Yin, X. Kong, L. Liu, X. Dai, <b>T. Hartvigsen</b>.
       </div>
     </li>
 
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Crowd-MIA: A Crowdsourced Dataset for Multi-grained Weakly Supervised Learning</h3>
+      <strong>Crowd-MIA: A Crowdsourced Dataset for Multi-grained Weakly Supervised Learning</strong>
       <div style="color:#5e81ac">
       R. Hu, D. Zhang, D. Tao, <b>T. Hartvigsen</b>, H. Feng, E. Rundensteiner.
       </div>
     </li>
 
     <li style="margin: 0; padding: 10px 0 0px 5px; list-style: none">
-      <h3 itemprop="name">Multi-State Brain Network Discovery</h3>
+      <strong>Multi-State Brain Network Discovery</strong>
       <div style="color:#5e81ac">
       H. Yin, X. Liu, X. Kong, <b>T. Hartvigsen</b>, Y. Li.
       </div>
