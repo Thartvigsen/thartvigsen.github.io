@@ -23,10 +23,10 @@ I received my PhD from Worcester Polytechnic Institute where I worked with [Elke
 -->
 
 Hi! I did my PhD in Data Science at Worcester Polytechnic Institute, advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
-In January, I am beginning as a postdoc at [MIT CSAIL](https://www.csail.mit.edu/).
+In January, I begin as a postdoc at [MIT CSAIL](https://www.csail.mit.edu/).
 
 In my research, I build machine learning systems that learn from large amounts of data to support time-sensitive decision making without perpetuating societal biases.
-To this end, I develop **data mining** and **machine learning** models and tools for mainly **time series** and **text**.
+To this end, I develop **data mining** and **machine learning** models and tools mainly for **time series** and **text**.
 <!--
 In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 -->
@@ -67,7 +67,7 @@ Current interests:
 <li> Joining <span style="color: #E30B5C"><b>MIT CSAIL</b></span> as a postdoc in January.</li>
 <li> <span style="color: #E30B5C"><b>NeurIPS'21 paper</b></span> on <a href="papers/neurips21.pdf">recurrent bayesian classifier chains.</a></li>
 <li> <span style="color: #E30B5C"><b>CIKM'21 paper</b></span> on <a href="papers/cikm21.pdf">explainability for time series.</a></li>
-<li> <span style="color: #E30B5C"><b>Microsoft</b></span> internship.</li>
+<li> Research internship with <span style="color: #E30B5C"><b>Microsoft</b></span>.</li>
 <li> <span style="color: #E30B5C"><b>KDD'21 paper</b></span> on <a href="papers/kdd21.pdf">spike train classification</a>.</li>
 </small>
 </ul>
