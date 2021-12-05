@@ -178,7 +178,7 @@ Publication Summary:
   <div style="color:#21a423">
   <strong>KDD, 2020</strong>.
     <button onclick="location.href='../papers/kdd20.pdf'" type="button">pdf</button>
-    <button onclick="location.href='https://dl.acm.org/doi/20.1145/3394486.3403191?cid=99659453882'" type="button">ACM link</button>
+    <button onclick="location.href='https://dl.acm.org/doi/10.1145/3394486.3403191'" type="button">ACM link</button>
     <button onclick="location.href='https://github.com/Thartvigsen/RecurrentHaltingChain'" type="button">code</button>
     <button onclick="location.href='https://youtu.be/Z1_jFf4DrtI'" type="button">talk</button>
   </div>
