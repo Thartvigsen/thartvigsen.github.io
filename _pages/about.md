@@ -21,7 +21,7 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
-Hi! I am beginning as a postdoc at [MIT CSAIL](https://www.csail.mit.edu/) in January, doing machine learning research with Marzyeh Ghassemi.
+Hi! I am beginning as a postdoc at [MIT CSAIL](https://www.csail.mit.edu/) in January, doing machine learning research with [Marzyeh Ghassemi](https://healthyml.org/).
 
 I did my PhD in Data Science at Worcester Polytechnic Institute, advised by [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 
