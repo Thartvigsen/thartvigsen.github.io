@@ -7,23 +7,23 @@ author_profile: true
 
 - [Publication] Dec 2021. Our paper *Recovering the Propensity Score from Biased Positive Unlabeled Data* was accepted to at <span style="color: #E30B5C">**AAAI 2022**</span>.
 - [Publications] Oct 2021. Two papers accepted to **IEEE BigData 2021**.
-- [News] Oct 2021. I am serving on the program committees for **ACL 2022** and **NAACL 2022**.
+- [News] Oct 2021. PC for **ACL 2022** and **NAACL 2022**.
 - [Publication] Sep 2021. Our paper *Recurrent Bayesian Classifier Chains for Exact Multi-Label Classification* was accepted at <span style="color: #E30B5C">**NeurIPS 2021**</span>.
-- [News] Aug 2021. I am serving on the program committee for **AAAI 2022**.
+- [News] Aug 2021. PC for **AAAI 2022**.
 - [Publication] Aug 2021. Our paper *Learning Saliency Maps for Deep Time Series Classifiers* was accepted at <span style="color: #E30B5C">**CIKM 2021**</span>.
 - [Publication] May 2021. Our paper *Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks* was accepted at <span style="color: #E30B5C">**KDD 2021**</span>.
-- [News] Apr 2021. I am serving on the program committee for **EMNLP 2021**.
-- [News] Jan 2021. I am serving on the program committee for **ICCV 2021**.
-- [News] Jan 2021. I am serving on the program committee for **ACL 2021**.
+- [News] Apr 2021. PC for **EMNLP 2021**.
+- [News] Jan 2021. PC for **ICCV 2021**.
+- [News] Jan 2021. PC for **ACL 2021**.
 - [Publication] December 2020. Our paper *Semi-Supervised Knowledge Amalgamation for Sequence Classification* was accepted at <span style="color: #E30B5C">**AAAI 2021**</span>.
 - [News] Dec 2020. I am joining <span style="color: #E30B5C">**Microsoft**</span> next summer as a PhD intern.
 - [News] Dec 2020. I volunteered at **NeurIPS 2020**.
-- [News] Nov 2020. I am serving on the program committee for **CVPR 2021**.
+- [News] Nov 2020. PC for **CVPR 2021**.
 - [Publication] Oct 2020. Our paper *Learning Similarity-Preserving Meta-Embedding for Text Mining* was accepted at **IEEE BigData 2020**.
 - [Talk] Oct 2020. I gave a talk at the Computational Sustainability Doctoral Consortium in October.
 - [Talk] Sep 2020. I gave a talk on my research at **Harvard University**.
 - [Award] Sep 2020. I was awarded the CIKM Travel Grant from ACM.
-- [News] Aug 2020. I am serving on the program committee for **AAAI 2021**.
+- [News] Aug 2020. PC for **AAAI 2021**.
 - [Award] Aug 2020. I was been awarded the KDD Travel Grant this year from ACM and the NSF.
 - [Publication] Jul 2020. Our paper *Learning to Selectively Update State Neurons in Recurrent Networks* was accepted at <span style="color: #E30B5C">**CIKM 2020**</span>.
 - [Talk] Jun 2020. I gave a talk on my research at **Florida State University**.
