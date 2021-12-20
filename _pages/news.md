@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+- [Paper] Dec 2021. Our paper *Positive Unlabeled Learning with a Sequential Selection Bias* was accepted to at <span style="color: #E30B5C">**SDM 2022**</span>.
 - [Paper] Dec 2021. Our paper *Recovering the Propensity Score from Biased Positive Unlabeled Data* was accepted to at <span style="color: #E30B5C">**AAAI 2022**</span>.
 - [Papers] Oct 2021. Two papers accepted to **IEEE BigData 2021**.
 - [PC] Oct 2021. PC for **ACL 2022** and **NAACL 2022**.

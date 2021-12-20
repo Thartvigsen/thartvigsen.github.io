@@ -87,6 +87,16 @@ Publication Summary:
   </div>
   </li>
 
+  <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
+  <strong>Positive Unlabeled Learning with a Sequential Selection Bias</strong>
+  <div style="color:#5e81ac">
+   W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, K. Chandrasekaran, A. Alajaji, H. Mansoor, E. Rundensteiner, E. Agu.
+  </div>
+  <div style="color:#21a423">
+   <strong>SDM, 2022</strong>.
+  </div>
+  </li>
+
 </ul>
 
 <h3 itemprop="name">2021</h3>
