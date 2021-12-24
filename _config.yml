@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tom Hartvigsen, PhD"
   avatar           : "profile_dog2.jpg"
-  bio              : "(he/him/his) twhartvigsen@wpi.edu"
+  bio              : "(he/him) twhartvigsen@wpi.edu"
   location         : "Cambridge, MA"
-  employer         : "Worcester Polytechnic Institute"
+  employer         : "Massachusetts Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rIjeeRsAAAAJ&hl=en"
   cv               : "files/hartvigsen_cv.pdf"
