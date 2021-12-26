@@ -21,12 +21,12 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
-Hi! I am beginning as a postdoc at [MIT CSAIL](https://www.csail.mit.edu/) in January, doing machine learning research with Professor [Marzyeh Ghassemi](https://healthyml.org/).
-
-I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), where I worked on early classification of time series and learning from irregularly-sampled time series.
+Hi! I'm a postdoc at [MIT CSAIL](https://www.csail.mit.edu/) doing machine learning research with Professor [Marzyeh Ghassemi](https://healthyml.org/).
 
 In my research, I build machine learning systems that learn from large amounts of data to support time-sensitive decision making without perpetuating societal biases.
 To this end, I develop **data mining** and **machine learning** models and tools mainly for **time series** and **text**.
+
+I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), where I worked on a variety of problems primarily focused on learning from time series data.
 <!--
 In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 -->
