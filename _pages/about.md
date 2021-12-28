@@ -44,6 +44,7 @@ My recent projects include:
   <li>ToxiGen, a language model-generated dataset for detecting implicitly toxic language that targets minority groups (used by Microsoft).</li>
   <li>Positive unlabeled learning methods for retrospectively modeling annotators' labeling behavior for machine learning datasets.</li>
   <li>Explaining black-box models for <a href="https://thartvigsen.github.io/papers/cikm21.pdf">time series</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">text</a> </li>
+</small>
 </ul>
 
 For more details, please visit my [list of publications](https://thartvigsen.github.io/publications/)
