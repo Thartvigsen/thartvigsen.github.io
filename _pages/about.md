@@ -21,7 +21,7 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
-#### About me
+### About me
 I am a postdoc in MIT's [CSAIL](https://www.csail.mit.edu/) through the Schwartzman College of Computing.
 
 My research focuses on machine learning, data mining, NLP, applications to healthcare, and fairness in AI systems.
@@ -33,7 +33,7 @@ postdoc at [MIT CSAIL](https://www.csail.mit.edu/) doing machine learning resear
 To this end, I develop **data mining** and **machine learning** models and tools mainly for **time series** and **text**.
 -->
 
-#### Research
+### Research
 I build systems that learn from data to support time-sensitive decision making without perpetuating societal biases.
 The projects that excite me the most: (1) protect end users from machine harms, (2) provide robust models of ongoing systems, often through partially-observed time series, and (3) have impact through real-world deployment.
 
@@ -43,7 +43,7 @@ My recent projects include:
   <li><a href="https://thartvigsen.github.io/papers/kdd19.pdf">EARLIEST</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">RHC</a>, systems for learning when to stop and classify ongoing time series.
   <li>ToxiGen, a language model-generated dataset for detecting implicitly toxic language that targets minority groups (used by Microsoft).</li>
   <li>Positive unlabeled learning methods for retrospectively modeling annotators' labeling behavior for machine learning datasets.</li>
-  <li>Explaining black-box models for <a href="https://thartvigsen.github.io/papers/cikm21.pdf">time series</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">text</a> 
+  <li>Explaining black-box models for <a href="https://thartvigsen.github.io/papers/cikm21.pdf">time series</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">text</a> </li>
 </ul>
 
 For more details, please visit my [list of publications](https://thartvigsen.github.io/publications/)
@@ -81,7 +81,7 @@ Current interests:
 <!--
 -->
 
-#### What's New?
+### What's New?
 <ul style="margin-bottom: 5px;">
 <small>
 <li> <span style="color: #E30B5C"><b>SDM'22 paper</b></span> on <a href="papers/sdm22.pdf">positive unlabeled learning.</a></li>
@@ -94,11 +94,11 @@ Current interests:
 </small>
 </ul>
 
-#### History
+### History
 Before coming to MIT, I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), where I worked on a variety of problems primarily focused on learning from time series data.
 I graduated from [SUNY Geneseo](https://www.geneseo.edu/) in 2016 with a B.A. in Applied Mathematics.
 
-#### Misc
+### Misc
 
 Outside of research, I enjoy [bouldering](/images/climbing2.jpg), [biking](/images/bike.jpg), books (fantasy, science fiction, science fact), birding, and playing guitar.
 I also spent a summer living at [BioSphere 2](https://en.wikipedia.org/wiki/Biosphere_2) in rural Arizona.
