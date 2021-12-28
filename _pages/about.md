@@ -22,7 +22,7 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
 ### About me
-I am a postdoc in MIT's [CSAIL](https://www.csail.mit.edu/) through the Schwartzman College of Computing.
+I am a postdoc at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)).
 
 My research focuses on machine learning, data mining, NLP, applications to healthcare, and fairness in AI systems.
 
@@ -88,7 +88,7 @@ Current interests:
 <li> <span style="color: #E30B5C"><b>SDM'22 paper</b></span> on <a href="papers/sdm22.pdf">positive unlabeled learning.</a></li>
 <li> <span style="color: #E30B5C"><b>AAAI'22 paper</b></span> on <a href="papers/aaai22.pdf">positive unlabeled learning.</a></li>
 <li> Joining <span style="color: #E30B5C"><b>MIT CSAIL</b></span> as a postdoc in January.</li>
-<li> <span style="color: #E30B5C"><b>NeurIPS'21 paper</b></span> on <a href="papers/neurips21.pdf">recurrent bayesian classifier chains.</a></li>
+<li> <span style="color: #E30B5C"><b>NeurIPS'21 paper</b></span> on <a href="papers/neurips21.pdf">multi-label learning.</a></li>
 <li> <span style="color: #E30B5C"><b>CIKM'21 paper</b></span> on <a href="papers/cikm21.pdf">explainability for time series.</a></li>
 <li> Research internship with <span style="color: #E30B5C"><b>Microsoft</b></span>.</li>
 <li> <span style="color: #E30B5C"><b>KDD'21 paper</b></span> on <a href="papers/kdd21.pdf">spike train classification</a>.</li>
