@@ -21,12 +21,33 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
-Hi! I'm a postdoc at [MIT CSAIL](https://www.csail.mit.edu/) doing machine learning research with Professor [Marzyeh Ghassemi](https://healthyml.org/).
+#### About me
+I am a postdoc in MIT's [CSAIL](https://www.csail.mit.edu/) through the Schwartzman College of Computing.
 
-In my research, I build machine learning systems that learn from large amounts of data to support time-sensitive decision making without perpetuating societal biases.
+My research focuses on machine learning, data mining, NLP, applications to healthcare, and fairness in AI systems.
+
+At MIT, I work with Professor Marzyeh Ghassemi as a member of the [Healthy ML lab](https://healthyml.org/).
+
+<!--
+postdoc at [MIT CSAIL](https://www.csail.mit.edu/) doing machine learning research with Professor [Marzyeh Ghassemi](https://healthyml.org/).
 To this end, I develop **data mining** and **machine learning** models and tools mainly for **time series** and **text**.
+-->
 
-I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), where I worked on a variety of problems primarily focused on learning from time series data.
+#### Research
+I build systems that learn from data to support time-sensitive decision making without perpetuating societal biases.
+The projects that excite me the most: (1) protect end users from machine harms, (2) provide robust models of ongoing systems, often through partially-observed time series, and (3) have impact through real-world deployment.
+
+My recent projects include:
+<ul style="margin-bottom: 5px;">
+<small>
+  <li><a href="https://thartvigsen.github.io/papers/kdd19.pdf">EARLIEST</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">RHC</a>, systems for learning when to stop and classify ongoing time series.
+  <li>ToxiGen, a language model-generated dataset for detecting implicitly toxic language that targets minority groups (used by Microsoft).</li>
+  <li>Positive unlabeled learning methods for retrospectively modeling annotators' labeling behavior for machine learning datasets.</li>
+  <li>Explaining black-box models for <a href="https://thartvigsen.github.io/papers/cikm21.pdf">time series</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">text</a> 
+</ul>
+
+For more details, please visit my [list of publications](https://thartvigsen.github.io/publications/)
+
 <!--
 In my research, I study **data mining** and **machine learning** for **time series** and **text**.
 -->
@@ -35,7 +56,6 @@ In my research, I study **data mining** and **machine learning** for **time seri
 My work has been published in several top papers (KDD, NeurIPS, AAAI, ACL) and I spent a year collaborating with the UMass Medical School using machine learning to help doctors write better clinical trials faster.
 
 My research is funded by a [GAANN Research Fellowship](https://www2.ed.gov/programs/gaann/index.html) and with robust methods in hand, I aim to improve **healthcare**.
--->
 
 Please feel free to contact me, I am always happy to chat!
 
@@ -48,6 +68,7 @@ Please feel free to contact me, I am always happy to chat!
   <li><b>Healthcare</b> (see our <a href="http://ecmlpkdd2017.ijs.si/papers/paperID487.pdf">ECML 2017</a>, <a href="https://www.scitepress.org/Papers/2018/65996/65996.pdf">HEALTHINF 2018</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9006400">BIGDATA 2019</a>, and <a href="https://ieeexplore.ieee.org/abstract/document/9006403">BIGDATA 2019</a> papers)</li>
 </small>
 </ul>
+-->
 
 <!--
 Current interests:
@@ -60,7 +81,7 @@ Current interests:
 <!--
 -->
 
-### What's New?
+#### What's New?
 <ul style="margin-bottom: 5px;">
 <small>
 <li> <span style="color: #E30B5C"><b>SDM'22 paper</b></span> on <a href="papers/sdm22.pdf">positive unlabeled learning.</a></li>
@@ -73,7 +94,11 @@ Current interests:
 </small>
 </ul>
 
-### Misc
+#### History
+Before coming to MIT, I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), where I worked on a variety of problems primarily focused on learning from time series data.
+I graduated from [SUNY Geneseo](https://www.geneseo.edu/) in 2016 with a B.A. in Applied Mathematics.
+
+#### Misc
 
 Outside of research, I enjoy [bouldering](/images/climbing2.jpg), [biking](/images/bike.jpg), books (fantasy, science fiction, science fact), birding, and playing guitar.
 I also spent a summer living at [BioSphere 2](https://en.wikipedia.org/wiki/Biosphere_2) in rural Arizona.
