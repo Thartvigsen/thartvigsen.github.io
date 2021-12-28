@@ -39,7 +39,7 @@ The projects that excite me the most: (1) protect end users from machine harms, 
 
 Some of my recent projects include:
 <ul style="margin-bottom: 5px;">
-  <li><a href="https://thartvigsen.github.io/papers/kdd19.pdf">EARLIEST</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">RHC</a>, systems for learning when to stop and classify ongoing time series.</li>
+  <li style="padding: 0px 0 0px 5px"><a href="https://thartvigsen.github.io/papers/kdd19.pdf">EARLIEST</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">RHC</a>, systems for learning when to stop and classify ongoing time series.</li>
   <li>ToxiGen, a language model-generated dataset for detecting implicitly toxic language that targets minority groups (used by Microsoft).</li>
   <li>Positive unlabeled learning methods for retrospectively modeling annotators' labeling behavior for machine learning datasets.</li>
   <li>Explaining black-box models for <a href="https://thartvigsen.github.io/papers/cikm21.pdf">time series</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">text</a> </li>
