@@ -22,11 +22,11 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
 ### About me
-I am a postdoc at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)).
+I am starting as a postdoc at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)).
 
 My research focuses on machine learning, data mining, NLP, applications to healthcare, and fairness in AI systems.
 
-At MIT, I work with Professor Marzyeh Ghassemi as a member of the [Healthy ML lab](https://healthyml.org/).
+At MIT, I will work with Professor Marzyeh Ghassemi as a member of the [Healthy ML lab](https://healthyml.org/).
 
 <!--
 postdoc at [MIT CSAIL](https://www.csail.mit.edu/) doing machine learning research with Professor [Marzyeh Ghassemi](https://healthyml.org/).
@@ -41,8 +41,8 @@ Some of my recent projects include:
 <ul style="margin-bottom: 5px;">
   <li style="padding: 0px 0 0px 5px"><a href="https://thartvigsen.github.io/papers/kdd19.pdf">EARLIEST</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">RHC</a>, systems for learning when to stop and classify ongoing time series.</li>
   <li>ToxiGen, a language model-generated dataset for detecting implicitly toxic language that targets minority groups (used by Microsoft).</li>
-  <li>Positive unlabeled learning methods for retrospectively modeling annotators' labeling behavior for machine learning datasets.</li>
   <li>Explaining black-box models for <a href="https://thartvigsen.github.io/papers/cikm21.pdf">time series</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">text</a> </li>
+  <li>Methods for retrospectively modeling annotators' labeling behavior for machine learning datasets.</li>
 </ul>
 
 For more details, please visit my [list of publications](https://thartvigsen.github.io/publications/).
@@ -94,7 +94,7 @@ Current interests:
 </ul>
 
 ### History
-Before coming to MIT, I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), where I worked on a variety of problems primarily focused on learning from time series data.
+Before starting at MIT, I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), where I worked on a variety of problems primarily focused on learning from time series data.
 I graduated from [SUNY Geneseo](https://www.geneseo.edu/) in 2016 with a B.A. in Applied Mathematics.
 
 ### Misc
