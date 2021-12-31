@@ -24,7 +24,7 @@ I received my PhD from Worcester Polytechnic Institute where I worked with [Elke
 ### About me
 I am starting as a postdoc at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)).
 
-My research focuses on machine learning, data mining, NLP, applications to healthcare, and fairness in AI systems.
+My research focuses on machine learning, data mining, time series, applications to healthcare, NLP, and fairness in AI systems.
 
 At MIT, I will work with Professor Marzyeh Ghassemi as a member of the [Healthy ML lab](https://healthyml.org/).
 
