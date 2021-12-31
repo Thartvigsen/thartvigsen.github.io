@@ -73,7 +73,7 @@ Publication Summary:
   <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
   <strong>Recovering the Propensity Score from Biased Positive Unlabeled Data</strong>
   <div style="color:#5e81ac">
-   W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
+   W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Agu, E. Rundensteiner.
   </div>
   <div style="color:#21a423">
    <strong>AAAI, 2022</strong>.
