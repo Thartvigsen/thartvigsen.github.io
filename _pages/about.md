@@ -45,7 +45,7 @@ Some of my recent projects include:
   <li>Methods for recovering models of annotators' labeling behavior from machine learning datasets (see AAAI'22 and SDM'22 papers).</li>
 </ul>
 
-For more details, please visit my [list of publications](https://thartvigsen.github.io/publications/).
+For more details, please visit my [full list of publications](https://thartvigsen.github.io/publications/).
 
 <!--
 In my research, I study **data mining** and **machine learning** for **time series** and **text**.
