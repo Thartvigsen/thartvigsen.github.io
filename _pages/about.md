@@ -99,5 +99,5 @@ I graduated from [SUNY Geneseo](https://www.geneseo.edu/) in 2016 with a B.A. in
 
 ### Misc
 
-Outside of research, I enjoy [bouldering](/images/climbing2.jpg), [biking](/images/bike.jpg), books (fantasy, science fiction, science fact), birding, and playing guitar.
+Outside of research, I enjoy [bouldering](/images/climbing2.jpg), [biking](/images/bike.jpg), books (science fiction/science fact), birding, juggling, and playing guitar.
 I also spent a summer living at [BioSphere 2](https://en.wikipedia.org/wiki/Biosphere_2) in rural Arizona.
