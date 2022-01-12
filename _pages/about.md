@@ -34,7 +34,7 @@ To this end, I develop **data mining** and **machine learning** models and tools
 -->
 
 ### Research
-I build systems that learn from data to support time-sensitive decision making without perpetuating societal biases.
+I build machine learning and data mining systems to support time-sensitive decision making without perpetuating societal biases.
 The projects that excite me the most: (1) provide robust models of ongoing systems, often through partially-observed time series, (2) protect end users from machine bias, and (3) have impact through real-world deployment.
 
 Some of my recent projects include:
