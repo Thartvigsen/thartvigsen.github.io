@@ -38,8 +38,8 @@ I build systems that learn from data to support time-sensitive decision making w
 The projects that excite me the most: (1) protect end users from machine harms, (2) provide robust models of ongoing systems, often through partially-observed time series, and (3) have impact through real-world deployment.
 
 Some of my recent projects include:
-<ul style="margin-bottom: 5px;">
-  <li style="padding: 0px 0 0px 5px">Systems for learning to stop and classify ongoing time series early in time-sensitive domains (see <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD'19</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD'20</a> papers).</li>
+<ul style="margin-bottom: 1px;">
+  <li>Systems for learning to stop and classify ongoing time series early in time-sensitive domains (see <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD'19</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD'20</a> papers).</li>
   <li>A language model-generated dataset for detecting implicitly toxic language that targets minority groups.</li>
   <li>Explaining black-box models for time series and natural language processing (see <a href="https://thartvigsen.github.io/papers/cikm21.pdf">CIKM'21</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL'20</a> papers).</li>
   <li>Methods for recovering models of annotators' labeling behavior from machine learning datasets (see AAAI'22 and SDM'22 papers).</li>
