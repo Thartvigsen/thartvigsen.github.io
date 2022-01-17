@@ -35,14 +35,14 @@ To this end, I develop **data mining** and **machine learning** models and tools
 
 ### Research
 I build machine learning and data mining systems to support time-sensitive decision making without perpetuating societal biases.
-The projects that excite me the most: (1) provide robust models of ongoing systems, often through partially-observed time series, (2) protect end users from machine bias, and (3) have impact through real-world deployment.
+The projects that excite me the most: (1) provide robust models of ongoing systems, often through partially-observed time series, (2) defend users from machine bias, and (3) have impact through real-world deployment.
 
 Some of my recent projects include:
 <ul style="margin-bottom: 1px;">
+  <li>ToxiGen, a language model-generated dataset for detecting implicitly toxic language that targets minority groups.</li>
   <li>Systems for learning to stop and classify ongoing time series early in time-sensitive domains (see <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD'19</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD'20</a> papers).</li>
-  <li>A language model-generated dataset for detecting implicitly toxic language that targets minority groups.</li>
   <li>Explaining black-box models for time series and natural language processing (see <a href="https://thartvigsen.github.io/papers/cikm21.pdf">CIKM'21</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL'20</a> papers).</li>
-  <li>Methods for recovering models of annotators' labeling behavior from machine learning datasets (see AAAI'22 and SDM'22 papers).</li>
+  <li>Methods for recovering models of annotators' labeling behavior from machine learning datasets (see <a href="papers/sdm22.pdf">AAAI'22</a> and <a href="papers/sdm22.pdf">SDM'22</a> papers).</li>
 </ul>
 
 For more details, please visit my [full list of publications](https://thartvigsen.github.io/publications/).
@@ -78,6 +78,8 @@ Current interests:
 -->
 
 <!--
+<li> <span style="color: #E30B5C"><b>ACL'22 paper</b></span> on <a href="papers/acl22.pdf">detecting toxic language targeting minority groups.</a></li>
+<li> Started as a postdoc at <span style="color: #E30B5C"><b>MIT CSAIL</b></span>.</li>
 -->
 
 ### What's New?
@@ -85,17 +87,16 @@ Current interests:
 <small>
 <li> <span style="color: #E30B5C"><b>SDM'22 paper</b></span> on <a href="papers/sdm22.pdf">positive unlabeled learning.</a></li>
 <li> <span style="color: #E30B5C"><b>AAAI'22 paper</b></span> on <a href="papers/aaai22.pdf">positive unlabeled learning.</a></li>
-<li> Joining <span style="color: #E30B5C"><b>MIT CSAIL</b></span> as a postdoc in January.</li>
 <li> <span style="color: #E30B5C"><b>NeurIPS'21 paper</b></span> on <a href="papers/neurips21.pdf">multi-label learning.</a></li>
 <li> <span style="color: #E30B5C"><b>CIKM'21 paper</b></span> on <a href="papers/cikm21.pdf">explainability for time series.</a></li>
-<li> Research internship with <span style="color: #E30B5C"><b>Microsoft</b></span>.</li>
+<li> Summer 2021 internship with <span style="color: #E30B5C"><b>Microsoft</b></span>.</li>
 <li> <span style="color: #E30B5C"><b>KDD'21 paper</b></span> on <a href="papers/kdd21.pdf">spike train classification</a>.</li>
 </small>
 </ul>
 
 ### History
-Before starting at MIT, I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/), where I worked on a variety of problems primarily focused on learning from time series data.
-I graduated from [SUNY Geneseo](https://www.geneseo.edu/) in 2016 with a B.A. in Applied Mathematics.
+Before MIT, I did my PhD in Data Science at Worcester Polytechnic Institute, advised by Professors [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
+Before that, I graduated from [SUNY Geneseo](https://www.geneseo.edu/) in 2016 with a B.A. in Applied Mathematics.
 
 ### Misc
 
