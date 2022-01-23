@@ -22,11 +22,11 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
 ### About me
-I am starting as a postdoc at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)).
+I am a postdoc at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)).
 
 My research focuses on machine learning, data mining, time series, applications to healthcare, NLP, and fairness in AI systems.
 
-At MIT, I will work with Professor Marzyeh Ghassemi as a member of the [Healthy ML lab](https://healthyml.org/).
+At MIT, I work with Professor Marzyeh Ghassemi as a member of the [HealthyML lab](https://healthyml.org/).
 
 <!--
 postdoc at [MIT CSAIL](https://www.csail.mit.edu/) doing machine learning research with Professor [Marzyeh Ghassemi](https://healthyml.org/).

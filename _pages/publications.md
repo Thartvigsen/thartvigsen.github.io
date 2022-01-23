@@ -12,6 +12,7 @@ Publication Summary:
 
 **KDD: 3, AAAI: 2, NeurIPS: 1, ACL: 1, CIKM: 2, SDM: 1, IEEE BigData: 5, ECML: 1, HEALTHINF: 2, IEEE BHI: 1**
 
+<!--
 <details>
   <summary>Click for in-submission papers</summary>
   <ul style="border-radius: 0px; margin: 0px 0;">
@@ -66,6 +67,7 @@ Publication Summary:
 
   </ul>
 </details>
+-->
 
 <h3 itemprop="name">2022</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
