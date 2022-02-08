@@ -83,11 +83,21 @@ Publication Summary:
   <details>
     <summary>bibtex</summary>
     @inproceedings{hartvigsen2019adaptive,
+      <div>
       title={Adaptive-halting policy network for early classification},
+      </div>
+      <div>
       author={Hartvigsen, Thomas and Sen, Cansu and Kong, Xiangnan and Rundensteiner, Elke},
+      </div>
+      <div>
       booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+      </div>
+      <div>
       pages={101--110},
+      </div>
+      <div>
       year={2019}
+      </div>
     }
   </details>
   </li>
