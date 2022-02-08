@@ -12,63 +12,6 @@ Publication Summary:
 
 **KDD: 3, AAAI: 2, NeurIPS: 1, ACL: 1, CIKM: 2, SDM: 1, IEEE BigData: 5, ECML: 1, HEALTHINF: 2, IEEE BHI: 1**
 
-<!--
-<details>
-  <summary>Click for in-submission papers</summary>
-  <ul style="border-radius: 0px; margin: 0px 0;">
-    <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
-      <strong>ToxiGen: Controlling Language Models to Generate Implied and Adversarial Toxicity</strong>
-      <div style="color:#5e81ac">
-      <b>T. Hartvigsen</b>, S. Gabriel, H. Palangi, M. Sap, D. Ray, E. Kamar.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
-      <strong>Learning When to Stop and Classify Ongoing and Irregular Time Series</strong>
-      <div style="color:#5e81ac">
-      <b>T. Hartvigsen</b>, W. Gerych, J. Thadajarassiri, X. Kong, E. Rundensteiner.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
-      <strong>Continuous-Time Attention Networks for Irregularly-Sampled Time Series Classification</strong>
-      <div style="color:#5e81ac">
-      <b>T. Hartvigsen</b>, J. Thadajarassiri, X. Kong, E. Rundensteiner.
-      </div>
-    </li>
-    
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
-      <strong>SAIL: Recurrent Classifier Chains with Incomplete Labels</strong>
-      <div style="color:#5e81ac">
-      W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Rundensteiner, E. Agu.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
-      <strong>SkipSNN: Efficiently Classifying Sparse and Noisy Spike Trains</strong>
-      <div style="color:#5e81ac">
-      H. Yin, X. Kong, L. Liu, X. Dai, <b>T. Hartvigsen</b>.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
-      <strong>Crowd-MIA: A Crowdsourced Dataset for Multi-grained Weakly Supervised Learning</strong>
-      <div style="color:#5e81ac">
-      R. Hu, D. Zhang, D. Tao, <b>T. Hartvigsen</b>, H. Feng, E. Rundensteiner.
-      </div>
-    </li>
-
-    <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
-      <strong>Multi-State Brain Network Discovery</strong>
-      <div style="color:#5e81ac">
-      H. Yin, X. Liu, X. Kong, <b>T. Hartvigsen</b>, Y. Li.
-      </div>
-    </li>
-
-  </ul>
-</details>
--->
-
 <h3 itemprop="name">2022</h3>
 <ul style="border-radius: 0px; margin: 0px 0;">
 
@@ -80,26 +23,6 @@ Publication Summary:
   <div style="color:#21a423">
    <strong>AAAI, 2022</strong>.
   </div>
-  <details>
-    <summary>bibtex</summary>
-    @inproceedings{hartvigsen2019adaptive,
-      <div>
-      title={Adaptive-halting policy network for early classification},
-      </div>
-      <div>
-      author={Hartvigsen, Thomas and Sen, Cansu and Kong, Xiangnan and Rundensteiner, Elke},
-      </div>
-      <div>
-      booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-      </div>
-      <div>
-      pages={101--110},
-      </div>
-      <div>
-      year={2019}
-      </div>
-    }
-  </details>
   </li>
 
   <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
@@ -207,6 +130,26 @@ Publication Summary:
     <button onclick="location.href='https://github.com/Thartvigsen/RecurrentHaltingChain'" type="button">code</button>
     <button onclick="location.href='https://youtu.be/Z1_jFf4DrtI'" type="button">talk</button>
   </div>
+  <details>
+    <summary>bibtex</summary>
+    @inproceedings{hartvigsen2020recurrent,
+      <div>
+      title={Recurrent Halting Chain for Early Multi-label Classification},
+      </div>
+      <div>
+      author={Hartvigsen, Thomas and Sen, Cansu and Kong, Xiangnan and Rundensteiner, Elke},
+      </div>
+      <div>
+      booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+      </div>
+      <div>
+      pages={1382--1392},
+      </div>
+      <div>
+      year={2020}
+      </div>
+    }
+  </details>
  </li>
 
  <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
@@ -284,9 +227,26 @@ Publication Summary:
    <button onclick="location.href='../papers/kdd19.pdf'" type="button">pdf</button>
    <button onclick="location.href='https://github.com/Thartvigsen/EARLIEST'" type="button">code</button>
   </div>
-
-  <div>
-  </div>
+  <details>
+    <summary>bibtex</summary>
+    @inproceedings{hartvigsen2019adaptive,
+      <div>
+      title={Adaptive-halting policy network for early classification},
+      </div>
+      <div>
+      author={Hartvigsen, Thomas and Sen, Cansu and Kong, Xiangnan and Rundensteiner, Elke},
+      </div>
+      <div>
+      booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+      </div>
+      <div>
+      pages={101--110},
+      </div>
+      <div>
+      year={2019}
+      </div>
+    }
+  </details>
  </li>
  
  <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
