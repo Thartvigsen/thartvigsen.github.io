@@ -80,6 +80,16 @@ Publication Summary:
   <div style="color:#21a423">
    <strong>AAAI, 2022</strong>.
   </div>
+  <details>
+    <summary>bibtex</summary>
+    @inproceedings{hartvigsen2019adaptive,
+      title={Adaptive-halting policy network for early classification},
+      author={Hartvigsen, Thomas and Sen, Cansu and Kong, Xiangnan and Rundensteiner, Elke},
+      booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+      pages={101--110},
+      year={2019}
+    }
+  </details>
   </li>
 
   <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
