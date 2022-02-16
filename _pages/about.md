@@ -22,11 +22,7 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
 ### About me
-I am a postdoc at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)).
-
-My research focuses on machine learning, data mining, time series, applications to healthcare, NLP, and fairness in AI systems.
-
-At MIT, I work with Professor Marzyeh Ghassemi as a member of the [HealthyML lab](https://healthyml.org/).
+I am a Postdoctoral Associate at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)). I work with Professor Marzyeh Ghassemi as a member of the [HealthyML](https://healthyml.org/) group. My research focuses on machine learning, data mining, time series, applications to healthcare, NLP, and fairness in AI systems. 
 
 <!--
 postdoc at [MIT CSAIL](https://www.csail.mit.edu/) doing machine learning research with Professor [Marzyeh Ghassemi](https://healthyml.org/).
@@ -39,7 +35,7 @@ The projects that excite me the most: (1) provide robust models of ongoing syste
 
 Some of my recent projects include:
 <ul style="margin-bottom: 1px;">
-  <li>ToxiGen, a dataset for detecting implicitly toxic language that targets disadvantaged groups. These data are hard to collect in the wild, so we trick pre-trained language models into generating it for us automatically! (paper coming soon)</li>
+  <li>ToxiGen, a dataset for detecting implicitly toxic language that targets disadvantaged groups. These data are common in the wild, but challenging to collect at scale, so we trick pre-trained language models into generating it for us automatically! (paper coming soon)</li>
   <li>Systems for learning to stop and classify ongoing time series early in time-sensitive domains (see <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD'19</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD'20</a> papers).</li>
   <li>Explaining black-box models for time series and natural language processing (see <a href="https://thartvigsen.github.io/papers/cikm21.pdf">CIKM'21</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL'20</a> papers).</li>
   <li>Methods for recovering models of annotators' labeling behavior from machine learning datasets (see <a href="papers/sdm22.pdf">AAAI'22</a> and <a href="papers/sdm22.pdf">SDM'22</a> papers).</li>
