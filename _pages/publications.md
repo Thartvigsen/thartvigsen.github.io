@@ -23,6 +23,9 @@ Publication Summary:
   <div style="color:#21a423">
    <strong>AAAI, 2022</strong>.
   </div>
+  <div style="color:#E30B5C">
+   Oral Spotlight.
+  </div>
   </li>
 
   <li style="margin: 0; padding: 20px 0 0px 5px; list-style: none">
