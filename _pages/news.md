@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+- [Award] Feb 2022. Our paper at AAAI 2022 was chosen for an <span style="color: #E30B5C">**Oral Spotlight**</span> presentation.
 - [Paper] Jan 2022. Started postdoc at <span style="color: #E30B5C">**MIT CSAIL**</span>.
 - [Paper] Dec 2021. Our paper *Positive Unlabeled Learning with a Sequential Selection Bias* was accepted to at <span style="color: #E30B5C">**SDM 2022**</span>.
 - [Paper] Dec 2021. Our paper *Recovering the Propensity Score from Biased Positive Unlabeled Data* was accepted to at <span style="color: #E30B5C">**AAAI 2022**</span>.
