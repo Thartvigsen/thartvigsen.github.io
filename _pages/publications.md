@@ -22,6 +22,7 @@ Publication Summary:
   </div>
   <div style="color:#21a423">
    <strong>AAAI, 2022</strong>.
+   <button onclick="location.href='../papers/aaai22.pdf'" type="button">pdf</button>
   </div>
   <div style="color:#E30B5C">
    Oral Spotlight.
