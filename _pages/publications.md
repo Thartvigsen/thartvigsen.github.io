@@ -16,6 +16,16 @@ Publication Summary:
 <ul style="border-radius: 0px; margin: 0px 0;">
 
   <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
+  <strong>ToxiGen: Controlling Language Models to Generate Implied and Adversarial Toxicity</strong>
+  <div style="color:#5e81ac">
+   <b>T. Hartvigsen</b>, S. Gabriel, H. Palangi, M. Sap, D. Ray, E. Kamar.
+  </div>
+  <div style="color:#21a423">
+   <strong>ACL, 2022</strong>.
+  </div>
+  </li>
+
+  <li style="margin: 0; padding: 0px 0 0px 5px; list-style: none">
   <strong>Recovering the Propensity Score from Biased Positive Unlabeled Data</strong>
   <div style="color:#5e81ac">
    W. Gerych, <b>T. Hartvigsen</b>, L. Buquicchio, E. Agu, E. Rundensteiner.

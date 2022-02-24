@@ -35,7 +35,7 @@ The projects that excite me the most: (1) provide robust models of ongoing syste
 
 Some of my recent projects include:
 <ul style="margin-bottom: 1px;">
-  <li>ToxiGen, a dataset for detecting implicitly toxic language that targets disadvantaged groups. These data are common in the wild, but challenging to collect at scale, so we trick pre-trained language models into generating it for us automatically! (paper coming soon)</li>
+  <li>ToxiGen, a dataset for detecting implicitly toxic language that targets disadvantaged groups. These data are common in the wild, but challenging to collect at scale, so we trick pre-trained language models into generating it for us automatically! (paper to appear at ACL'22)</li>
   <li>Systems for learning to stop and classify ongoing time series early in time-sensitive domains (see <a href="https://thartvigsen.github.io/papers/kdd19.pdf">KDD'19</a> and <a href="https://thartvigsen.github.io/papers/kdd20.pdf">KDD'20</a> papers).</li>
   <li>Explaining black-box models for time series and natural language processing (see <a href="https://thartvigsen.github.io/papers/cikm21.pdf">CIKM'21</a> and <a href="https://thartvigsen.github.io/papers/acl20.pdf">ACL'20</a> papers).</li>
   <li>Methods for recovering models of annotators' labeling behavior from machine learning datasets (see <a href="papers/sdm22.pdf">AAAI'22</a> and <a href="papers/sdm22.pdf">SDM'22</a> papers).</li>
@@ -81,12 +81,12 @@ Current interests:
 ### What's New?
 <ul style="margin-bottom: 5px;">
 <small>
+<li> <span style="color: #E30B5C"><b>ACL'22 paper</b></span> on <a href="papers/acl22.pdf">detecting implicitly-toxic language</a>.</li>
 <li> <span style="color: #E30B5C"><b>SDM'22 paper</b></span> on <a href="papers/sdm22.pdf">positive unlabeled learning.</a></li>
 <li> <span style="color: #E30B5C"><b>AAAI'22 paper</b></span> on <a href="papers/aaai22.pdf">positive unlabeled learning.</a></li>
 <li> <span style="color: #E30B5C"><b>NeurIPS'21 paper</b></span> on <a href="papers/neurips21.pdf">multi-label learning.</a></li>
 <li> <span style="color: #E30B5C"><b>CIKM'21 paper</b></span> on <a href="papers/cikm21.pdf">explainability for time series.</a></li>
 <li> Summer 2021 internship with <span style="color: #E30B5C"><b>Microsoft</b></span>.</li>
-<li> <span style="color: #E30B5C"><b>KDD'21 paper</b></span> on <a href="papers/kdd21.pdf">spike train classification</a>.</li>
 </small>
 </ul>
 
