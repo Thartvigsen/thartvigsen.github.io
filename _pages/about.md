@@ -21,6 +21,8 @@ Hi! I'm a postdoc at [MIT](https://www.csail.mit.edu/) doing machine learning re
 
 I received my PhD from Worcester Polytechnic Institute where I worked with [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and [Xiangnan Kong](https://web.cs.wpi.edu/~xkong/).
 -->
+I am migrating to a [new webpage](https://www.tomhartvigsen.com)!
+
 ### About me
 I am a Postdoctoral Associate at MIT in the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)). I work with Professor Marzyeh Ghassemi as a member of the [HealthyML](https://healthyml.org/) group. My research focuses on machine learning, data mining, time series, applications to healthcare, NLP, and fairness in AI systems. 
 
@@ -31,7 +33,7 @@ To this end, I develop **data mining** and **machine learning** models and tools
 
 ### Research
 I build machine learning and data mining systems to support time-sensitive decision making without perpetuating societal biases.
-The projects that excite me the most: (1) provide robust models of ongoing systems, often through partially-observed time series, (2) defend users from machine bias, and (3) have impact through real-world deployment.
+The projects that excite me the most: (1) provide robust models of sequential environments, often through partially-observed time series, (2) defend users from machine bias, and (3) have impact through real-world deployment.
 
 Some of my recent projects include:
 <ul style="margin-bottom: 1px;">
