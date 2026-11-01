@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "UVA Data Science Colloquium"
+#  navbar:
+#    left:
+#      - href: index.qmd
+#        text: Home
+#      - href: about.qmd
+#        text: About
+
+format:
+  html:
+    theme:
+      - journal
+      - brand
+    css: styles.css
+    toc: true
+
+
+

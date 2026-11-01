@@ -1,0 +1,36 @@
+---
+title: "UVA Data Science Colloquium"
+---
+
+The UVA School of Data Science Colloquium is a talk series to communicate research relevant to data science, broadly defined. If you are interested in giving a talk or suggesting a speaker, contact our current organizers: [Tom Hartvigsen](https://www.tomhartvigsen.com) and [YY Anh](https://yyahn.com).
+
+If you would like to receive talk announcements, please [subscribe to our mailing list](https://lists.virginia.edu/sympa/subscribe/sds-colloquium): sds-colloquium at virginia.edu.
+
+
+# Fall 2026
+
+The SDS colloquium is on Fridays in SDS 246 from 2:00-3:00.
+
+
+## Schedule
+
+| Speaker                                                            | Title                                                                    | Date       |
+| ---                                                                | ---                                                                      | ---        |
+| [Jean-Gabriel Young](https://jgyoung.ca/)                          | Network and Graph Data Talk Series                                       | 09/18/2026 |
+| [Paul Torrey](https://as.virginia.edu/faculty-profile/paul-torrey) | AI for Astronomical Discovery through CosmicAI                           | 09/25/2026 |
+| [Alex Gates](https://alexandergates.net/)                          | When Are Pairs Enough? Networks, Groups, and the Organization of Science | 10/09/2026 |
+| [Momin Malik](https://www.mominmalik.com/)                         | Anti-positivist data science, and applications to healthcare AI          | 10/16/2026 |
+| [Chenhao Tan](https://chenhaot.com/)                               | Science in the Age of AI                                                 | 10/30/2026 |
+| [Tina Eliassi-Rad](https://eliassi.org/)                           | TBD                                                                      | 11/20/2026 |
+| [Dakota Murray](https://dakotamurray.me/)                          | TBD                                                                      | 12/04/2026 |
+| [Allison Koenecke](https://koenecke.infosci.cornell.edu/)          | TBD                                                                      | 12/11/2026 |
+
+# Fall 2025
+| Speaker                                                                    | Date       |
+| ---                                                                        | ---        |
+| [Teague Henry](https://www.teaguehenry.com/)                               | 09/23/2025 |
+| [Wale Salaudeen](https://www.olawalesalaudeen.com/)                        | 10/21/2025 |
+| [Ray Mooney](https://www.cs.utexas.edu/~mooney/)                           | 10/31/2025 |
+| [Martin Slawski](https://statistics.as.virginia.edu/people/martin-slawski) | 11/11/2025 |
+| [Haoran Zhang](https://haoran.ca)                                          | 11/18/2025 |
+| [Amanda Mejia](https://www.statmindlab.com/))                              | 12/02/2025 |
