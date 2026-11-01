@@ -35,4 +35,4 @@ The SDS colloquium is on Fridays in SDS 246 from 2:00-3:00.
 | [Ray Mooney](https://www.cs.utexas.edu/~mooney/)                           | 10/31/2025 |
 | [Martin Slawski](https://statistics.as.virginia.edu/people/martin-slawski) | 11/11/2025 |
 | [Haoran Zhang](https://haoran.ca)                                          | 11/18/2025 |
-| [Amanda Mejia](https://www.statmindlab.com/))                              | 12/02/2025 |
+| [Amanda Mejia](https://www.statmindlab.com/)                               | 12/02/2025 |
