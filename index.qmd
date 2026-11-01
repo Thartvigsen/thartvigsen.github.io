@@ -25,7 +25,9 @@ The SDS colloquium is on Fridays in SDS 246 from 2:00-3:00.
 | [Dakota Murray](https://dakotamurray.me/)                          | TBD                                                                      | 12/04/2026 |
 | [Allison Koenecke](https://koenecke.infosci.cornell.edu/)          | TBD                                                                      | 12/11/2026 |
 
-# Fall 2025
+# Previous years
+
+## Fall 2025
 | Speaker                                                                    | Date       |
 | ---                                                                        | ---        |
 | [Teague Henry](https://www.teaguehenry.com/)                               | 09/23/2025 |
